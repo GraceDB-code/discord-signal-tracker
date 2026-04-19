@@ -266,6 +266,19 @@
     .empty-state h2 { font-size: 18px; color: var(--forest); margin-bottom: 8px; }
     .empty-state p { font-size: 14px; max-width: 500px; margin: 0 auto; }
 
+    #pagination button {
+        padding: 5px 14px;
+        border: 1px solid var(--teal);
+        border-radius: 6px;
+        background: transparent;
+        color: var(--teal);
+        font-size: 12px;
+        cursor: pointer;
+        margin: 0 8px;
+    }
+    #pagination button:hover:not(:disabled) { background: var(--teal); color: white; }
+    #pagination button:disabled { opacity: 0.4; cursor: default; }
+
     footer {
         padding: 16px 32px;
         font-size: 11px;
@@ -345,12 +358,15 @@
     <p>The bot is monitoring Discord for founder signals. Matches will appear here as they are detected.</p>
 </div>
 
+<div id="pagination" style="text-align:center;padding:12px 32px;font-size:13px;"></div>
 <footer>Auto-refreshes every 60 seconds. Last refresh: <span id="refreshTime">--</span></footer>
 
 <script>
 let DATA = [];
 let sortCol = 'timestamp';
 let sortDir = -1;
+let currentPage = 0;
+const PAGE_SIZE = 50;
 
 const priorityOrder = { high: 3, medium: 2, low: 1, '': 0 };
 
@@ -507,7 +523,17 @@ function render() {
     const filtered = sortData(filterData());
     updateStats(filtered);
 
-    document.getElementById('resultsInfo').textContent = 'Showing ' + filtered.length + ' of ' + DATA.length + ' signals';
+    const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+    if (currentPage >= totalPages) currentPage = Math.max(0, totalPages - 1);
+    const start = currentPage * PAGE_SIZE;
+    const page = filtered.slice(start, start + PAGE_SIZE);
+
+    document.getElementById('resultsInfo').textContent = 'Showing ' + (start + 1) + '-' + (start + page.length) + ' of ' + filtered.length + ' signals';
+    document.getElementById('pagination').innerHTML = totalPages > 1
+        ? '<button onclick="prevPage()" ' + (currentPage === 0 ? 'disabled' : '') + '>&laquo; Prev</button>'
+          + ' Page ' + (currentPage + 1) + ' of ' + totalPages + ' '
+          + '<button onclick="nextPage()" ' + (currentPage >= totalPages - 1 ? 'disabled' : '') + '>Next &raquo;</button>'
+        : '';
 
     const empty = document.getElementById('emptyState');
     const tbody = document.getElementById('tableBody');
@@ -519,7 +545,7 @@ function render() {
     }
     empty.style.display = 'none';
 
-    tbody.innerHTML = filtered.map(d => {
+    tbody.innerHTML = page.map(d => {
         const pri = getPriorityLabel(d);
         const priClass = pri === 'high' ? 'badge-high' : pri === 'medium' ? 'badge-med' : 'badge-low';
 
@@ -571,11 +597,15 @@ document.querySelectorAll('th[data-col]').forEach(th => {
 });
 
 // Filter on change
-document.querySelectorAll('select, input').forEach(el => el.addEventListener('input', render));
+document.querySelectorAll('select, input').forEach(el => el.addEventListener('input', () => { currentPage = 0; render(); }));
+
+function prevPage() { if (currentPage > 0) { currentPage--; render(); window.scrollTo(0,0); } }
+function nextPage() { currentPage++; render(); window.scrollTo(0,0); }
 
 function clearFilters() {
     document.querySelectorAll('select').forEach(s => s.value = '');
     document.querySelectorAll('input').forEach(i => i.value = '');
+    currentPage = 0;
     render();
 }
 
