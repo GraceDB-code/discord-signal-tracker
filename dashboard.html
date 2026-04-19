@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Discord Signal Tracker</title>
+<style>
+    :root {
+        --forest: #143A38;
+        --forest-light: #1a4d4a;
+        --coral: #FF8780;
+        --coral-light: #FAB0B0;
+        --tan: #FAEDDE;
+        --tan-dim: rgba(250, 237, 222, 0.7);
+        --teal: #038780;
+        --black: #1C1C1C;
+        --white: #FFFFFF;
+        --gold: #FFA300;
+        --blue: #057DB2;
+        --red: #FC5C59;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        background: #f5f1ec;
+        color: var(--black);
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .header {
+        background: var(--forest);
+        color: var(--tan);
+        padding: 28px 32px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    .header h1 { font-size: 22px; font-weight: 600; letter-spacing: -0.3px; }
+    .header .subtitle { font-size: 13px; opacity: 0.7; margin-top: 4px; }
+    .header .status { text-align: right; }
+    .header .status-dot {
+        display: inline-block;
+        width: 8px; height: 8px;
+        border-radius: 50%;
+        margin-right: 6px;
+    }
+    .status-dot.live { background: #4caf50; box-shadow: 0 0 6px #4caf50; }
+    .status-dot.offline { background: #888; }
+    .header .status-text { font-size: 12px; opacity: 0.8; }
+    .header .last-update { font-size: 11px; opacity: 0.5; margin-top: 2px; }
+
+    .stats-bar {
+        display: flex;
+        gap: 0;
+        background: var(--forest-light);
+        padding: 0 32px;
+        flex-wrap: wrap;
+    }
+    .stat {
+        padding: 14px 20px;
+        text-align: center;
+        border-right: 1px solid rgba(250, 237, 222, 0.1);
+    }
+    .stat:last-child { border-right: none; }
+    .stat-value { font-size: 20px; font-weight: 700; color: var(--tan); }
+    .stat-label { font-size: 11px; color: var(--tan-dim); text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat.highlight .stat-value { color: var(--coral); }
+    .stat.gold .stat-value { color: var(--gold); }
+    .stat.teal .stat-value { color: var(--teal); }
+
+    .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        padding: 16px 32px;
+        background: var(--white);
+        border-bottom: 1px solid #e0d5c5;
+        align-items: center;
+    }
+    .control-group { display: flex; flex-direction: column; gap: 3px; }
+    .control-group label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #888; font-weight: 600; }
+
+    select, input[type="text"], input[type="date"] {
+        padding: 6px 10px;
+        border: 1px solid #d0c8bc;
+        border-radius: 6px;
+        font-size: 13px;
+        background: var(--white);
+        color: var(--black);
+        outline: none;
+    }
+    select:focus, input:focus { border-color: var(--teal); box-shadow: 0 0 0 2px rgba(3, 135, 128, 0.15); }
+    input[type="text"] { width: 180px; }
+
+    .clear-btn {
+        padding: 6px 14px;
+        border: 1px solid var(--coral);
+        border-radius: 6px;
+        background: transparent;
+        color: var(--coral);
+        font-size: 12px;
+        cursor: pointer;
+        align-self: flex-end;
+    }
+    .clear-btn:hover { background: var(--coral); color: white; }
+
+    .refresh-btn {
+        padding: 6px 14px;
+        border: 1px solid var(--teal);
+        border-radius: 6px;
+        background: transparent;
+        color: var(--teal);
+        font-size: 12px;
+        cursor: pointer;
+        align-self: flex-end;
+    }
+    .refresh-btn:hover { background: var(--teal); color: white; }
+
+    .results-info {
+        padding: 10px 32px;
+        font-size: 12px;
+        color: #888;
+        background: #faf8f5;
+        border-bottom: 1px solid #e8e2d8;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 13px;
+    }
+    thead { position: sticky; top: 0; z-index: 10; }
+    th {
+        background: var(--forest);
+        color: var(--tan);
+        padding: 10px 12px;
+        text-align: left;
+        font-weight: 500;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        cursor: pointer;
+        user-select: none;
+        white-space: nowrap;
+    }
+    th:hover { background: var(--forest-light); }
+    th .sort-arrow { margin-left: 4px; opacity: 0.5; }
+    th.sorted .sort-arrow { opacity: 1; }
+
+    td {
+        padding: 8px 12px;
+        border-bottom: 1px solid #ebe6df;
+        vertical-align: top;
+    }
+    tr:hover td { background: rgba(250, 237, 222, 0.4); }
+
+    .user-cell {
+        font-weight: 500;
+        color: var(--forest);
+        min-width: 140px;
+    }
+    .user-cell .display-name { display: block; }
+    .user-cell .username-dim { font-size: 11px; color: #999; font-weight: 400; }
+    .user-cell .bio-snippet { font-size: 11px; color: #777; font-weight: 400; margin-top: 2px; max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+    .identity-cell { white-space: nowrap; }
+    .identity-link {
+        display: inline-block;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-size: 10px;
+        font-weight: 600;
+        text-decoration: none;
+        margin: 1px 2px;
+    }
+    .id-github { background: #24292e; color: white; }
+    .id-twitter { background: #1da1f2; color: white; }
+    .id-linkedin { background: #0077b5; color: white; }
+    .id-website { background: var(--teal); color: white; }
+    .id-github:hover { background: #444; }
+    .id-twitter:hover { background: #0d8ecf; }
+    .id-linkedin:hover { background: #005f8d; }
+    .id-website:hover { background: #026b66; }
+
+    .message-cell {
+        max-width: 350px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .message-cell:hover {
+        white-space: normal;
+        word-break: break-word;
+    }
+
+    .keyword-cell {
+        max-width: 150px;
+    }
+    .keyword-tag {
+        display: inline-block;
+        padding: 1px 6px;
+        border-radius: 4px;
+        font-size: 10px;
+        background: var(--tan);
+        color: var(--forest);
+        margin: 1px 2px;
+        font-weight: 500;
+    }
+
+    .badge {
+        display: inline-block;
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+    }
+    .badge-high { background: var(--teal); color: white; }
+    .badge-med { background: var(--gold); color: white; }
+    .badge-low { background: #d1ccc5; color: #666; }
+
+    .category-badge {
+        display: inline-block;
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 11px;
+        font-weight: 600;
+    }
+    .cat-founder_activity { background: var(--coral); color: white; }
+    .cat-hiring { background: var(--blue); color: white; }
+    .cat-project_showcase { background: var(--gold); color: white; }
+    .cat-robotics { background: #7c4dff; color: white; }
+    .cat-ai_infrastructure { background: var(--forest); color: var(--tan); }
+    .cat-intent_departure { background: var(--red); color: white; }
+
+    .server-badge {
+        display: inline-block;
+        padding: 1px 6px;
+        border-radius: 4px;
+        font-size: 11px;
+        background: #f0eae0;
+        color: #6a5d4e;
+    }
+
+    .jump-link {
+        color: var(--blue);
+        text-decoration: none;
+        font-size: 12px;
+    }
+    .jump-link:hover { text-decoration: underline; }
+
+    .time-cell {
+        white-space: nowrap;
+        font-size: 12px;
+        color: #666;
+    }
+
+    .empty-state {
+        text-align: center;
+        padding: 60px 32px;
+        color: #888;
+    }
+    .empty-state h2 { font-size: 18px; color: var(--forest); margin-bottom: 8px; }
+    .empty-state p { font-size: 14px; max-width: 500px; margin: 0 auto; }
+
+    footer {
+        padding: 16px 32px;
+        font-size: 11px;
+        color: #aaa;
+        text-align: center;
+        border-top: 1px solid #e8e2d8;
+    }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <div>
+        <h1>Discord Signal Tracker</h1>
+        <div class="subtitle">Founder signals from monitored Discord communities</div>
+    </div>
+    <div class="status">
+        <div><span class="status-dot" id="statusDot"></span><span class="status-text" id="statusText">Connecting...</span></div>
+        <div class="last-update" id="lastUpdate"></div>
+    </div>
+</div>
+
+<div class="stats-bar">
+    <div class="stat"><div class="stat-value" id="statTotal">0</div><div class="stat-label">Total Signals</div></div>
+    <div class="stat"><div class="stat-value" id="statToday">0</div><div class="stat-label">Today</div></div>
+    <div class="stat"><div class="stat-value" id="statWeek">0</div><div class="stat-label">This Week</div></div>
+    <div class="stat highlight"><div class="stat-value" id="statHigh">0</div><div class="stat-label">High Priority</div></div>
+    <div class="stat gold"><div class="stat-value" id="statFounder">0</div><div class="stat-label">Founder Activity</div></div>
+    <div class="stat teal"><div class="stat-value" id="statServers">0</div><div class="stat-label">Servers</div></div>
+</div>
+
+<div class="controls">
+    <div class="control-group">
+        <label>Search</label>
+        <input type="text" id="search" placeholder="User, message, keyword...">
+    </div>
+    <div class="control-group">
+        <label>Priority</label>
+        <select id="filterPriority"><option value="">All</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+    </div>
+    <div class="control-group">
+        <label>Category</label>
+        <select id="filterCategory"><option value="">All</option></select>
+    </div>
+    <div class="control-group">
+        <label>Server</label>
+        <select id="filterServer"><option value="">All</option></select>
+    </div>
+    <div class="control-group">
+        <label>Since</label>
+        <input type="date" id="filterSince">
+    </div>
+    <button class="refresh-btn" onclick="fetchSignals()">Refresh</button>
+    <button class="clear-btn" onclick="clearFilters()">Clear Filters</button>
+</div>
+<div class="results-info" id="resultsInfo"></div>
+
+<table>
+<thead>
+<tr>
+    <th data-col="timestamp">Time <span class="sort-arrow">&#x21C5;</span></th>
+    <th data-col="author">User <span class="sort-arrow">&#x21C5;</span></th>
+    <th>Profiles</th>
+    <th data-col="content">Message <span class="sort-arrow">&#x21C5;</span></th>
+    <th data-col="categories">Category <span class="sort-arrow">&#x21C5;</span></th>
+    <th data-col="priority">Priority <span class="sort-arrow">&#x21C5;</span></th>
+    <th data-col="server">Server <span class="sort-arrow">&#x21C5;</span></th>
+    <th data-col="channel">Channel <span class="sort-arrow">&#x21C5;</span></th>
+    <th>Link</th>
+</tr>
+</thead>
+<tbody id="tableBody"></tbody>
+</table>
+
+<div class="empty-state" id="emptyState" style="display:none;">
+    <h2>No signals yet</h2>
+    <p>The bot is monitoring Discord for founder signals. Matches will appear here as they are detected.</p>
+</div>
+
+<footer>Auto-refreshes every 60 seconds. Last refresh: <span id="refreshTime">--</span></footer>
+
+<script>
+let DATA = [];
+let sortCol = 'timestamp';
+let sortDir = -1;
+
+const priorityOrder = { high: 3, medium: 2, low: 1, '': 0 };
+
+const API_BASE = '';
+
+async function fetchSignals() {
+    try {
+        const resp = await fetch(API_BASE + '/signals.json');
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        DATA = await resp.json();
+        updateStatus(true);
+        populateFilters();
+        render();
+    } catch (e) {
+        console.error('Failed to fetch signals:', e);
+        updateStatus(false);
+    }
+}
+
+function updateStatus(online) {
+    const dot = document.getElementById('statusDot');
+    const text = document.getElementById('statusText');
+    const update = document.getElementById('lastUpdate');
+    const refreshTime = document.getElementById('refreshTime');
+    const now = new Date().toLocaleTimeString();
+
+    if (online) {
+        dot.className = 'status-dot live';
+        text.textContent = 'Bot Connected';
+    } else {
+        dot.className = 'status-dot offline';
+        text.textContent = 'Bot Offline';
+    }
+    update.textContent = 'Last check: ' + now;
+    refreshTime.textContent = now;
+}
+
+function populateFilters() {
+    const categories = [...new Set(DATA.flatMap(d => d.categories || []))].sort();
+    const servers = [...new Set(DATA.map(d => d.server))].sort();
+
+    const catSelect = document.getElementById('filterCategory');
+    const srvSelect = document.getElementById('filterServer');
+
+    // Preserve current selection
+    const curCat = catSelect.value;
+    const curSrv = srvSelect.value;
+
+    catSelect.innerHTML = '<option value="">All</option>';
+    srvSelect.innerHTML = '<option value="">All</option>';
+
+    categories.forEach(c => {
+        const o = document.createElement('option');
+        o.value = c; o.textContent = c.replace(/_/g, ' ');
+        catSelect.appendChild(o);
+    });
+    servers.forEach(s => {
+        const o = document.createElement('option');
+        o.value = s; o.textContent = s;
+        srvSelect.appendChild(o);
+    });
+
+    catSelect.value = curCat;
+    srvSelect.value = curSrv;
+}
+
+function updateStats(filtered) {
+    const now = new Date();
+    const todayStr = now.toISOString().slice(0, 10);
+    const weekAgo = new Date(now - 7 * 86400000).toISOString();
+
+    document.getElementById('statTotal').textContent = DATA.length;
+    document.getElementById('statToday').textContent = DATA.filter(d => (d.timestamp || '').slice(0, 10) === todayStr).length;
+    document.getElementById('statWeek').textContent = DATA.filter(d => (d.timestamp || '') >= weekAgo).length;
+    document.getElementById('statHigh').textContent = DATA.filter(d => d.is_high_priority).length;
+    document.getElementById('statFounder').textContent = DATA.filter(d => (d.categories || []).includes('founder_activity')).length;
+    document.getElementById('statServers').textContent = new Set(DATA.map(d => d.server)).size;
+}
+
+function sortData(data) {
+    return data.sort((a, b) => {
+        let va, vb;
+        if (sortCol === 'priority') {
+            const pa = a.is_high_priority ? 'high' : ((a.categories || []).some(c => (priorityOrder[c] || 0) >= 2) ? 'medium' : 'low');
+            const pb = b.is_high_priority ? 'high' : ((b.categories || []).some(c => (priorityOrder[c] || 0) >= 2) ? 'medium' : 'low');
+            va = priorityOrder[pa] || 0;
+            vb = priorityOrder[pb] || 0;
+        } else if (sortCol === 'categories') {
+            va = (a.categories || []).join(',');
+            vb = (b.categories || []).join(',');
+        } else if (sortCol === 'keywords') {
+            va = (a.keywords || []).join(',');
+            vb = (b.keywords || []).join(',');
+        } else {
+            va = (a[sortCol] || '').toString().toLowerCase();
+            vb = (b[sortCol] || '').toString().toLowerCase();
+        }
+        if (va < vb) return -1 * sortDir;
+        if (va > vb) return 1 * sortDir;
+        return 0;
+    });
+}
+
+function filterData() {
+    const search = document.getElementById('search').value.toLowerCase();
+    const priority = document.getElementById('filterPriority').value;
+    const category = document.getElementById('filterCategory').value;
+    const server = document.getElementById('filterServer').value;
+    const since = document.getElementById('filterSince').value;
+
+    return DATA.filter(d => {
+        if (search) {
+            const haystack = [d.author, d.content, d.server, d.channel, ...(d.keywords || []), ...(d.categories || [])].join(' ').toLowerCase();
+            if (!haystack.includes(search)) return false;
+        }
+        if (priority === 'high' && !d.is_high_priority) return false;
+        if (priority === 'medium' && (d.is_high_priority || !d.categories)) return false;
+        if (category && !(d.categories || []).includes(category)) return false;
+        if (server && d.server !== server) return false;
+        if (since && (d.timestamp || '') < since) return false;
+        return true;
+    });
+}
+
+function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str || '';
+    return div.innerHTML;
+}
+
+function formatTime(ts) {
+    if (!ts) return '--';
+    const d = new Date(ts);
+    const now = new Date();
+    const diffMs = now - d;
+    const diffH = diffMs / 3600000;
+
+    if (diffH < 1) return Math.floor(diffMs / 60000) + 'm ago';
+    if (diffH < 24) return Math.floor(diffH) + 'h ago';
+    if (diffH < 48) return 'Yesterday';
+    return d.toLocaleDateString('en-AU', { day: 'numeric', month: 'short' });
+}
+
+function getCategoryClass(cat) {
+    return 'cat-' + (cat || '').toLowerCase().replace(/\s+/g, '_');
+}
+
+function getPriorityLabel(d) {
+    if (d.is_high_priority) return 'high';
+    return 'medium';
+}
+
+function render() {
+    const filtered = sortData(filterData());
+    updateStats(filtered);
+
+    document.getElementById('resultsInfo').textContent = 'Showing ' + filtered.length + ' of ' + DATA.length + ' signals';
+
+    const empty = document.getElementById('emptyState');
+    const tbody = document.getElementById('tableBody');
+
+    if (DATA.length === 0) {
+        empty.style.display = 'block';
+        tbody.innerHTML = '';
+        return;
+    }
+    empty.style.display = 'none';
+
+    tbody.innerHTML = filtered.map(d => {
+        const pri = getPriorityLabel(d);
+        const priClass = pri === 'high' ? 'badge-high' : pri === 'medium' ? 'badge-med' : 'badge-low';
+
+        const cats = (d.categories || []).map(c =>
+            '<span class="category-badge ' + getCategoryClass(c) + '">' + escapeHtml(c.replace(/_/g, ' ')) + '</span>'
+        ).join(' ');
+
+        // Identity / profile links
+        let profileLinks = [];
+        if (d.github) profileLinks.push('<a class="identity-link id-github" href="' + escapeHtml(d.github) + '" target="_blank">GitHub</a>');
+        if (d.twitter) profileLinks.push('<a class="identity-link id-twitter" href="' + escapeHtml(d.twitter) + '" target="_blank">X</a>');
+        if (d.linkedin) profileLinks.push('<a class="identity-link id-linkedin" href="' + escapeHtml(d.linkedin) + '" target="_blank">LinkedIn</a>');
+        if (d.website) profileLinks.push('<a class="identity-link id-website" href="' + escapeHtml(d.website) + '" target="_blank">Web</a>');
+        const profilesHtml = profileLinks.length > 0 ? profileLinks.join(' ') : '<span style="color:#ccc">--</span>';
+
+        // User cell with bio snippet
+        let userHtml = '<span class="display-name">' + escapeHtml(d.author) + '</span>';
+        if (d.username) userHtml += '<span class="username-dim">@' + escapeHtml(d.username) + '</span>';
+        if (d.bio) userHtml += '<div class="bio-snippet" title="' + escapeHtml(d.bio) + '">' + escapeHtml(d.bio) + '</div>';
+
+        const jumpLink = d.jump_url
+            ? '<a class="jump-link" href="' + escapeHtml(d.jump_url) + '" target="_blank">Open</a>'
+            : '--';
+
+        return '<tr>' +
+            '<td class="time-cell">' + formatTime(d.timestamp) + '</td>' +
+            '<td class="user-cell">' + userHtml + '</td>' +
+            '<td class="identity-cell">' + profilesHtml + '</td>' +
+            '<td class="message-cell">' + escapeHtml(d.content) + '</td>' +
+            '<td>' + cats + '</td>' +
+            '<td><span class="badge ' + priClass + '">' + pri + '</span></td>' +
+            '<td><span class="server-badge">' + escapeHtml(d.server) + '</span></td>' +
+            '<td>#' + escapeHtml(d.channel) + '</td>' +
+            '<td>' + jumpLink + '</td>' +
+            '</tr>';
+    }).join('');
+}
+
+// Sort on header click
+document.querySelectorAll('th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        if (sortCol === col) sortDir *= -1;
+        else { sortCol = col; sortDir = col === 'timestamp' ? -1 : 1; }
+        document.querySelectorAll('th').forEach(h => h.classList.remove('sorted'));
+        th.classList.add('sorted');
+        render();
+    });
+});
+
+// Filter on change
+document.querySelectorAll('select, input').forEach(el => el.addEventListener('input', render));
+
+function clearFilters() {
+    document.querySelectorAll('select').forEach(s => s.value = '');
+    document.querySelectorAll('input').forEach(i => i.value = '');
+    render();
+}
+
+// Initial fetch and auto-refresh
+fetchSignals();
+setInterval(fetchSignals, 60000);
+</script>
+</body>
+</html>
