@@ -358,7 +358,7 @@ const API_BASE = '';
 
 async function fetchSignals() {
     try {
-        const resp = await fetch(API_BASE + '/signals.json');
+        const resp = await fetch('signals.json');
         if (!resp.ok) throw new Error('HTTP ' + resp.status);
         DATA = await resp.json();
         updateStatus(true);
