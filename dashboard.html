@@ -184,6 +184,8 @@
     .id-twitter:hover { background: #0d8ecf; }
     .id-linkedin:hover { background: #005f8d; }
     .id-website:hover { background: #026b66; }
+    .id-li-search { background: #e8e2d8; color: #555; }
+    .id-li-search:hover { background: #0077b5; color: white; }
 
     .message-cell {
         max-width: 350px;
@@ -559,7 +561,10 @@ function render() {
         if (d.twitter) profileLinks.push('<a class="identity-link id-twitter" href="' + escapeHtml(d.twitter) + '" target="_blank">X</a>');
         if (d.linkedin) profileLinks.push('<a class="identity-link id-linkedin" href="' + escapeHtml(d.linkedin) + '" target="_blank">LinkedIn</a>');
         if (d.website) profileLinks.push('<a class="identity-link id-website" href="' + escapeHtml(d.website) + '" target="_blank">Web</a>');
-        const profilesHtml = profileLinks.length > 0 ? profileLinks.join(' ') : '<span style="color:#ccc">--</span>';
+        // Always add a LinkedIn search link
+        const liSearchUrl = 'https://www.linkedin.com/search/results/all/?keywords=' + encodeURIComponent(d.author);
+        if (!d.linkedin) profileLinks.push('<a class="identity-link id-li-search" href="' + liSearchUrl + '" target="_blank">Search LI</a>');
+        const profilesHtml = profileLinks.join(' ');
 
         // User cell with bio snippet
         let userHtml = '<span class="display-name">' + escapeHtml(d.author) + '</span>';

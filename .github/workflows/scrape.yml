@@ -27,6 +27,11 @@ jobs:
           DISCORD_USER_TOKEN: ${{ secrets.DISCORD_USER_TOKEN }}
         run: python scraper.py --backfill
 
+      - name: Enrich signals with identity data
+        env:
+          DISCORD_USER_TOKEN: ${{ secrets.DISCORD_USER_TOKEN }}
+        run: python enrich.py
+
       - name: Commit updated signals
         run: |
           git config user.name "github-actions[bot]"
