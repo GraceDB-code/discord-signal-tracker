@@ -464,11 +464,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1477357677389680640",
     "timestamp": "2026-02-28T17:31:58.268000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1476735056503640177",
@@ -734,11 +732,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1470374527061200896",
     "timestamp": "2026-02-09T11:03:25.489000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1470043324303020183",
@@ -1007,11 +1003,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1465329898435379380",
     "timestamp": "2026-01-26T12:57:52.300000+00:00",
     "linkedin": "https://www.linkedin.com/in/anuchandra444/",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1465233700819308608",
@@ -1052,11 +1046,9 @@
     "timestamp": "2026-01-26T02:37:49.269000+00:00",
     "linkedin": "https://www.linkedin.com/in/alejandro-alemany-a4801a1013asd/",
     "bio": "Data Engineer | ML/AI & Production MLOps | Healthcare AI & Quantitative Finance | Former Brigham and Women’s & Amal Labs Researcher | MSIS @ Northeastern ’25 | VJTI Alumnus",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1463643992188129311",
@@ -1094,11 +1086,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1462901724590379192",
     "timestamp": "2026-01-19T20:09:10.542000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1462901663261003992",
@@ -1116,11 +1106,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1462901663261003992",
     "timestamp": "2026-01-19T20:08:55.920000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1462403296521355370",
@@ -1221,11 +1209,9 @@
     "timestamp": "2026-01-13T15:38:06.438000+00:00",
     "website": "https://terrytangyuan.github.io/about/",
     "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1460159235785625737",
@@ -1244,11 +1230,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1460159235785625737",
     "timestamp": "2026-01-12T06:31:30.258000+00:00",
     "bio": "Down to 0%",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1459672653081350265",
@@ -1681,11 +1665,9 @@
     "timestamp": "2025-12-13T18:03:00.854000+00:00",
     "website": "https://youtu.be/moulsYayvM4",
     "bio": "https://youtu.be/moulsYayvM4",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1449053194037629121",
@@ -1744,11 +1726,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1448445571508600983",
     "timestamp": "2025-12-10T22:45:35.065000+00:00",
     "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1448434571501899970",
@@ -1895,11 +1875,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1444343028620984371",
     "timestamp": "2025-11-29T15:03:32.619000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1444234914957496320",
@@ -2377,11 +2355,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1269724655405498429/1436780632809144456",
     "timestamp": "2025-11-08T18:13:16.955000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1436778821545230419",
@@ -2570,11 +2546,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1433044661659897896",
     "timestamp": "2025-10-29T10:47:52.022000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1432756244040384602",
@@ -2637,11 +2611,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1432396283305394188",
     "timestamp": "2025-10-27T15:51:26.576000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1431744715807785082",
@@ -2762,11 +2734,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1430966567918899240",
     "timestamp": "2025-10-23T17:10:15.865000+00:00",
     "bio": "trying to explore the world~ ^-^",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1430622055274909727",
@@ -2898,11 +2868,9 @@
     "bio": "🫐",
     "real_name": "Nayan",
     "company": "@Couchbase",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1425983319002054838",
@@ -4062,11 +4030,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1403808208379838654",
     "timestamp": "2025-08-09T18:32:38.373000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1403805629193126081",
@@ -4084,11 +4050,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1403805629193126081",
     "timestamp": "2025-08-09T18:22:23.447000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1403712278771011595",
@@ -4354,11 +4318,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1399859375576977439",
     "timestamp": "2025-07-29T21:01:23.267000+00:00",
     "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1399846143344775350",
@@ -4719,11 +4681,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1390828411492106310",
     "timestamp": "2025-07-04T22:55:33.642000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1390522755904180404",
@@ -5031,11 +4991,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1385244681549381672",
     "timestamp": "2025-06-19T13:07:48.683000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1382190233457529014",
@@ -5238,11 +5196,9 @@
     "timestamp": "2025-05-28T18:27:43.462000+00:00",
     "website": "https://promila.info/",
     "bio": "Hi, I’m Promila! 👋\nI’m into NLP, speech recognition, and building AI solutions. \nCurrently working on open source projects and always happy to contribute!\n\n🌐 https://promila.info/",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1377130949426417676",
@@ -5302,11 +5258,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1376739931850018907",
     "timestamp": "2025-05-27T01:52:58.344000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1376585237810647072",
@@ -5345,11 +5299,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1376221348304523315",
     "timestamp": "2025-05-25T15:32:18.392000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1375806309185753088",
@@ -5662,11 +5614,9 @@
     "timestamp": "2025-05-08T01:44:20.158000+00:00",
     "website": "https://www.patreon.com/AndyShanu",
     "bio": "Please join: https://www.patreon.com/AndyShanu",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "bio: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1369717900377854094",
@@ -6044,11 +5994,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1360868219686224045",
     "timestamp": "2025-04-13T06:44:27.282000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1360605336821698570",
@@ -6108,11 +6056,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1359348002447298671",
     "timestamp": "2025-04-09T02:03:39.248000+00:00",
     "bio": "🔥🕊️🫂",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1359164013304615143",
@@ -6606,11 +6552,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/759480675455205417/1346691064932732970",
     "timestamp": "2025-03-05T03:49:30.190000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1346652809541582928",
@@ -6773,11 +6717,9 @@
     "timestamp": "2025-02-21T19:16:34.674000+00:00",
     "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
     "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1342284757530050570",
@@ -6900,11 +6842,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1339169071165345833",
     "timestamp": "2025-02-12T09:39:47.124000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1339139551989596160",
@@ -6963,11 +6903,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1337396691841847328",
     "timestamp": "2025-02-07T12:16:58.964000+00:00",
     "bio": "I'm a designer working right now on helping create an AI driven business.",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1337331659254665278",
@@ -7095,11 +7033,9 @@
     "bio": "LLMs + Legal @HyperVerge\n\nWriting: https://amandalmia.substack.com",
     "real_name": "Aman Dalmia",
     "company": "HyperVerge",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1334275103957057691",
@@ -7120,11 +7056,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1334275103957057691",
     "timestamp": "2025-01-29T21:32:54.416000+00:00",
     "bio": "Operations Manager @ Featureform",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1334272254024093756",
@@ -7205,11 +7139,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/793158435855663154/1333511180958044190",
     "timestamp": "2025-01-27T18:57:20.980000+00:00",
     "bio": "We're on a rock floating through space.\n\nFind your inner strength\nFace your obstacles\nOwn your life\nSeek challenges\nPush your limits\nStay healthy in mind and body\nDo good\nLive a little",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1333338715568996474",
@@ -7249,11 +7181,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1333198192572895363",
     "timestamp": "2025-01-26T22:13:38.734000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1332529466886328330",
@@ -7298,11 +7228,9 @@
     "website": "https://behavior.systems/",
     "real_name": "Aarish Alam",
     "company": "ScaledFocus",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1331367402893475903",
@@ -7475,11 +7403,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1328734718702911510",
     "timestamp": "2025-01-14T14:37:23.636000+00:00",
     "bio": "🥐 🤙",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1327812659952881768",
@@ -7662,11 +7588,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1326255868408496240",
     "timestamp": "2025-01-07T18:27:19.671000+00:00",
     "bio": "Operations Manager @ Featureform",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1326192464909959218",
@@ -7686,11 +7610,9 @@
     "timestamp": "2025-01-07T14:15:23.099000+00:00",
     "website": "http://www.hanakano.com",
     "bio": "Conversational AI consultant \nhttp://www.hanakano.com",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1325927129979818037",
@@ -7957,11 +7879,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1317169560457052170",
     "timestamp": "2024-12-13T16:41:35.040000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uwa"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1316497802456731700",
@@ -8110,11 +8030,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1315567352670326804",
     "timestamp": "2024-12-09T06:34:58.936000+00:00",
     "bio": "I prefer responding in public over DMs",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1314896670521294938",
@@ -8134,11 +8052,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1314896670521294938",
     "timestamp": "2024-12-07T10:09:55.851000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1314728120321970227",
@@ -8632,11 +8548,9 @@
     "website": "https://huggingface.co/spaces/ammar-20112001/portfolio",
     "bio": "Artificial Intelligence Developer\n\nWebsite: https://huggingface.co/spaces/ammar-20112001/portfolio\nGithub: https://github.com/ammar20112001\nLinkedIn: https://linkedin.com/in/ammarjawed/",
     "real_name": "Ammar Jawed",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "github: uwa"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1302607355095154751",
@@ -8803,11 +8717,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1269724655405498429/1300768521592242216",
     "timestamp": "2024-10-29T10:29:42.658000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1300591816869150771",
@@ -8890,11 +8802,9 @@
     "timestamp": "2024-10-24T22:28:33.677000+00:00",
     "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
     "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1299137479802355802",
@@ -9063,11 +8973,9 @@
     "github": "https://github.com/SynaLinks/HybridAGI",
     "linkedin": "https://www.linkedin.com/in/laetitiadelbanio/",
     "bio": "Co-founder of SynaLinks\nPromoting Free and OpenSource neuro-symbolic AGI\nhttps://github.com/SynaLinks/HybridAGI\nFeel free to connect with me :)\nhttps://www.linkedin.com/in/laetitiadelbanio/",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1294361383579680809",
@@ -9108,11 +9016,9 @@
     "github": "https://github.com/tanmay17061",
     "bio": "Domain: ML, GenAI, and Engineering.\nFreelancing and building in stealth.\nEx-Machine Learning Engineer @ Skit.ai\nGithub: https://github.com/tanmay17061",
     "real_name": "Tanmay Garg",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1292813860088053771",
@@ -9372,11 +9278,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1288281409974173697",
     "timestamp": "2024-09-24T23:30:23.249000+00:00",
     "bio": "Founder pretrain.com",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1286978682854047804",
@@ -9416,11 +9320,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1286480824191025276",
     "timestamp": "2024-09-20T00:15:30.145000+00:00",
     "bio": "Interested in a bunch of stuff including machine learning.",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1286079689768566854",
@@ -10367,11 +10269,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1250792339916718161",
     "timestamp": "2024-06-13T12:42:12.434000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1250499976509915256",
@@ -10450,11 +10350,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1247533664401625130",
     "timestamp": "2024-06-04T12:53:23.648000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1247269827102376030",
@@ -11074,11 +10972,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1236009463996092477",
     "timestamp": "2024-05-03T17:40:20.162000+00:00",
     "bio": "🏗️ 🚢 🚀 \n\n- Sr. Deep Learning Product Research Engineer @ NVIDIA",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1236004920742776972",
@@ -11096,11 +10992,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1236004920742776972",
     "timestamp": "2024-05-03T17:22:16.966000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1235333124590665759",
@@ -11140,11 +11034,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1235320399269597315",
     "timestamp": "2024-05-01T20:02:14.329000+00:00",
     "bio": "Pressure is a privilege.",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1234969007782625321",
@@ -11389,11 +11281,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/760199231474106439/1229916821046427789",
     "timestamp": "2024-04-16T22:10:20.887000+00:00",
     "bio": "From the moment I understood the weakness of my flesh, it disgusted me. I craved the strength and certainty of steel. Your kind cling to your flesh as if it will not decay and fail you",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1229884683056316518",
@@ -11432,11 +11322,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1229184838368628756/1229879088513159320",
     "timestamp": "2024-04-16T19:40:24.750000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1229868246765797516",
@@ -11537,11 +11425,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1227939096723329054",
     "timestamp": "2024-04-11T11:11:34.664000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1227164489166753832",
@@ -11856,11 +11742,9 @@
     "timestamp": "2024-03-07T07:48:40.066000+00:00",
     "website": "https://youtube.com/@natecodesai",
     "bio": "softmaestro.eth\nhttps://youtube.com/@natecodesai\n\nAI, machine learning, emergent behavior, dynamical systems, travel, language",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "bio: aest"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1215046427613601822",
@@ -11878,11 +11762,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199231474106439/1215046427613601822",
     "timestamp": "2024-03-06T21:20:42.814000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1215021542610567178",
@@ -11984,11 +11866,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1209047272382537748",
     "timestamp": "2024-02-19T08:02:12.748000+00:00",
     "bio": "https://alexey.work/cv?ref=discord",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: rmit"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1209028066928623626",
@@ -12026,11 +11906,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1208385957204725770",
     "timestamp": "2024-02-17T12:14:22.923000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1207753244084928553",
@@ -12049,11 +11927,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1207753244084928553",
     "timestamp": "2024-02-15T18:20:12.360000+00:00",
     "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1207511659791384626",
@@ -12242,11 +12118,9 @@
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1201685675234299925",
     "timestamp": "2024-01-30T00:29:51.216000+00:00",
     "bio": "Operations Manager @ Featureform",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1199636895685165166",
@@ -12495,11 +12369,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1181668988061745272",
     "timestamp": "2023-12-05T18:50:41.102000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1180459307226124319",
@@ -12611,11 +12483,9 @@
     "bio": "UTC−8",
     "website": "https://www.ai-breakout.com",
     "real_name": "Desmond Grealy",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1175450254808715294",
@@ -12633,11 +12503,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1175450254808715294",
     "timestamp": "2023-11-18T14:59:39.556000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1174790664823771156",
@@ -12862,11 +12730,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1165893732189610054",
     "timestamp": "2023-10-23T06:05:27.012000+00:00",
     "bio": "https://alexey.work/cv?ref=discord",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: rmit"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1164189728170582096",
@@ -12971,11 +12837,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1160812046066139166",
     "timestamp": "2023-10-09T05:32:38.627000+00:00",
     "bio": "https://alexey.work/cv?ref=discord",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: rmit"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1158802736444358736",
@@ -13138,11 +13002,9 @@
     "website": "https://www.krissemmy.com/",
     "bio": "Consultant NodeOps Engineer.......expertise in setup + running, and managing blockchain nodes.\nDevOps/Data Engineer on the side.\n\nWebsite: https://www.krissemmy.com/",
     "real_name": "Emmanuel Christopher",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "real_name: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1154189237474828318",
@@ -13285,11 +13147,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1142994248002699417",
     "timestamp": "2023-08-21T01:31:04.530000+00:00",
     "bio": "https://alexey.work/cv?ref=discord",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: rmit"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1138007606003249182",
@@ -13308,11 +13168,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1138007606003249182",
     "timestamp": "2023-08-07T07:15:56.430000+00:00",
     "bio": "https://alexey.work/cv?ref=discord",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: rmit"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1136603248632016946",
@@ -14073,11 +13931,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1051621704436293653/1071780088158367794",
     "timestamp": "2023-02-05T13:11:25.728000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1069728766647083069",
@@ -14116,11 +13972,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1067494420108292146",
     "timestamp": "2023-01-24T17:21:42.841000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1064403201123696780",
@@ -14431,11 +14285,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1050339256700252200",
     "timestamp": "2022-12-08T09:13:13.157000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1043504512477966376",
@@ -14453,11 +14305,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1043504512477966376",
     "timestamp": "2022-11-19T12:34:23.151000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1041035664268996680",
@@ -14657,11 +14507,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1017724490542759986",
     "timestamp": "2022-09-09T09:13:46.952000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "1010433658030661732",
@@ -14852,11 +14700,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/880936172061352016/988834338252677120",
     "timestamp": "2022-06-21T15:54:37.893000+00:00",
-    "australian_connection": true,
-    "au_confidence": "medium",
-    "au_signals": [
-      "message: nsw"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "984464748785582100",
@@ -15413,11 +15259,9 @@
     "bio": "DM if you wanna talk about some interesting ideas! :]",
     "website": "https://neel04.github.io/my-website/",
     "real_name": "Neel Gupta",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "942147088723083285",
@@ -15481,11 +15325,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/938769348473016340",
     "timestamp": "2022-02-03T12:14:14.167000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "936379636496093264",
@@ -15644,11 +15486,9 @@
     "jump_url": "https://discord.com/channels/714501525455634453/719652688509403148/919260945933545543",
     "timestamp": "2021-12-11T16:14:48.553000+00:00",
     "twitter": "https://twitter.com/yk_feed",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "900876895208476713",
@@ -15769,11 +15609,9 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/893199515245481995",
     "timestamp": "2021-09-30T18:15:59.279000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: uts"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "887749139130122300",
@@ -16091,11 +15929,9 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/795190810546536469",
     "timestamp": "2021-01-03T07:24:23.165000+00:00",
-    "australian_connection": true,
-    "au_confidence": "high",
-    "au_signals": [
-      "message: anu"
-    ]
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
   },
   {
     "message_id": "765542763978031134",

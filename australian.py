@@ -38,54 +38,70 @@ GITHUB_HEADERS = {
 # ── Australian Signal Keywords ──────────────────────────────────────
 # Organized by specificity to reduce false positives
 
-# High confidence: almost certainly means Australian connection
-AU_STRONG = [
+# ── Keyword lists ───────────────────────────────────────────────────
+# All matching uses word boundaries (\b) to avoid substring false positives.
+# "uts" won't match "outputs", "anu" won't match "manual", etc.
+
+# High confidence: these phrases strongly indicate an Australian connection
+AU_STRONG_PHRASES = [
+    # Country-level
     "australia", "australian", "aussie",
+    # Timezone
     "aest", "aedt",
+    # Domain
     ".com.au",
+    # Explicit location phrases
     "moved from australia", "based in australia",
     "from sydney", "from melbourne", "from brisbane",
     "from perth", "from adelaide", "from canberra",
-    # Universities (specific enough to not false-positive)
-    "unsw", "usyd", "unimelb", "monash university",
-    "anu", "australian national university",
-    "uts", "rmit", "university of queensland",
-    "macquarie university", "deakin university",
-    "university of adelaide", "university of western australia",
-    "uwa", "qut", "university of wollongong",
-    "curtin university", "swinburne",
+    # Universities (full names)
     "university of sydney", "university of melbourne",
+    "australian national university", "monash university",
+    "university of queensland", "macquarie university",
+    "deakin university", "university of adelaide",
+    "university of western australia", "university of wollongong",
+    "curtin university", "swinburne university",
+    "university of technology sydney",
     # Research
-    "csiro", "data61", "nicta",
+    "csiro", "data61",
     # VCs / accelerators
-    "blackbird ventures", "blackbird vc", "startmate",
+    "blackbird ventures", "startmate",
     "airtree", "square peg", "main sequence",
     "skip capital", "folklore ventures",
     "blackbird giants", "blackbird foundry",
-    "sunrise festival", "aussie founders",
-    "advance.org",
-    # Notable AU companies
-    "atlassian", "canva", "afterpay", "culture amp",
-    "safety culture", "safetyculture", "go1", "buildkite",
-    "linktree",
-    "harrison.ai", "heidi health", "lorikeet", "marqo",
-    "relevance ai", "leonardo.ai", "neara", "firmus",
-    "hivery", "daisee", "build club", "buildclub",
     "antler australia",
+    # Notable AU companies
+    "atlassian", "afterpay", "culture amp",
+    "safetyculture", "safety culture", "buildkite",
+    "harrison.ai", "heidi health",
+    "relevance ai", "leonardo.ai",
+    "canva", "linktree",
 ]
 
-# Medium confidence: could mean Australian connection but needs context
-AU_MEDIUM = [
-    "sydney", "melbourne", "brisbane", "perth", "adelaide",
-    "canberra", "hobart", "darwin", "gold coast", "newcastle",
-    "new south wales", "nsw", "victoria", "queensland",
-    "western australia", "south australia", "tasmania",
+# Short abbreviations that need word-boundary matching (\bTERM\b).
+# Only matched in bios and location fields, NOT in message content,
+# because these are too ambiguous in general conversation.
+AU_SHORT_BIO_ONLY = [
+    "unsw", "usyd", "unimelb", "rmit", "qut", "uwa",
 ]
 
-# Words that appear in other contexts (Melbourne FL, Perth Scotland, etc.)
-# We only match these in bios/locations, not message content
-AU_LOCATION_ONLY = [
+# Medium confidence: city/state names. Matched with word boundaries.
+# In message content, require context like "in/from/based in {city}".
+# In bios/locations, match directly.
+AU_CITIES = [
+    "sydney", "brisbane", "adelaide",
+    "canberra", "hobart", "gold coast",
+]
+
+# These cities exist outside Australia too (Melbourne FL, Perth Scotland, etc.)
+# Only match in bios/locations when paired with AU context, never in messages.
+AU_AMBIGUOUS_CITIES = [
     "melbourne", "perth", "newcastle", "darwin",
+]
+
+AU_STATES = [
+    "new south wales", "queensland",
+    "western australia", "south australia", "tasmania",
 ]
 
 # GitHub location strings that confirm Australia
@@ -103,6 +119,38 @@ AU_LOCATION_PATTERNS = [
 ]
 
 
+def _wb(term):
+    """Build a word-boundary regex for a term."""
+    return rf'\b{re.escape(term)}\b'
+
+
+# Human-readable descriptions for tooltips
+AU_DESCRIPTIONS = {
+    "unsw": "UNSW (University of New South Wales)",
+    "usyd": "USyd (University of Sydney)",
+    "unimelb": "UniMelb (University of Melbourne)",
+    "rmit": "RMIT University, Melbourne",
+    "qut": "QUT (Queensland University of Technology)",
+    "uwa": "UWA (University of Western Australia)",
+    "csiro": "CSIRO (Australian research agency)",
+    "data61": "Data61 (CSIRO)",
+    "aest": "AEST (Australian Eastern Standard Time)",
+    "aedt": "AEDT (Australian Eastern Daylight Time)",
+    "startmate": "Startmate (Australian accelerator)",
+    "airtree": "Airtree Ventures (Australian VC)",
+    "square peg": "Square Peg Capital (Australian VC)",
+    "main sequence": "Main Sequence Ventures (CSIRO-backed VC)",
+    "blackbird ventures": "Blackbird Ventures (Australian VC)",
+    "buildkite": "Buildkite (Australian company)",
+    "atlassian": "Atlassian (Australian company)",
+    "afterpay": "Afterpay (Australian company)",
+    "safetyculture": "SafetyCulture (Australian company)",
+    "safety culture": "SafetyCulture (Australian company)",
+    "culture amp": "Culture Amp (Australian company)",
+    ".com.au": "Australian domain (.com.au)",
+}
+
+
 def check_australian_connection(text, source="content"):
     """
     Check if text contains Australian signals.
@@ -114,33 +162,58 @@ def check_australian_connection(text, source="content"):
     text_lower = text.lower()
     signals = []
 
-    # Check strong keywords
-    for kw in AU_STRONG:
-        if kw.lower() in text_lower:
-            signals.append(kw)
+    # 1. Strong phrases (word-boundary match)
+    for phrase in AU_STRONG_PHRASES:
+        if re.search(_wb(phrase), text_lower):
+            label = AU_DESCRIPTIONS.get(phrase, phrase)
+            signals.append(label)
 
     if signals:
         return True, "high", signals
 
-    # Check medium keywords
-    for kw in AU_MEDIUM:
-        # For ambiguous city names in message content, require more context
-        if kw.lower() in AU_LOCATION_ONLY and source == "content":
-            # In message content, require "in melbourne" / "from melbourne" etc.
-            pattern = rf'(?:in|from|based in|living in|moved to|born in)\s+{re.escape(kw)}'
+    # 2. Short university abbreviations -- bio/location only, never message content
+    if source in ("bio", "location"):
+        for abbr in AU_SHORT_BIO_ONLY:
+            if re.search(_wb(abbr), text_lower):
+                label = AU_DESCRIPTIONS.get(abbr, abbr)
+                signals.append(label)
+
+        if signals:
+            return True, "high", signals
+
+    # 3. City names
+    for city in AU_CITIES:
+        if source == "content":
+            # In messages, require context like "in Sydney", "from Brisbane"
+            pattern = rf'(?:in|from|based in|living in|moved to|born in|located in)\s+{re.escape(city)}'
             if re.search(pattern, text_lower):
-                signals.append(kw)
-        elif kw.lower() in text_lower:
-            signals.append(kw)
+                signals.append(city.title())
+        else:
+            # In bios/locations, word-boundary match is enough
+            if re.search(_wb(city), text_lower):
+                signals.append(city.title())
+
+    # 4. Ambiguous cities -- only in bios/locations, and only with AU context
+    if source in ("bio", "location"):
+        for city in AU_AMBIGUOUS_CITIES:
+            if re.search(_wb(city), text_lower):
+                # Require some Australian context nearby
+                if re.search(r'\b(au|aus|australia|vic|nsw|wa|qld)\b', text_lower):
+                    signals.append(f"{city.title()} (AU)")
+
+    # 5. State names (word-boundary, any source)
+    for state in AU_STATES:
+        if re.search(_wb(state), text_lower):
+            signals.append(state.title())
 
     if signals:
         return True, "medium", signals
 
-    # Check location patterns (for bio/location fields)
+    # 6. Location-specific patterns (bio/location fields only)
     if source in ("location", "bio"):
         for pattern in AU_LOCATION_PATTERNS:
             if re.search(pattern, text_lower):
-                signals.append(f"location:{pattern}")
+                signals.append("Australian location detected")
                 return True, "high", signals
 
     return False, None, []
