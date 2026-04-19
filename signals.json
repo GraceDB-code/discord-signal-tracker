@@ -1,5 +1,668 @@
 [
   {
+    "message_id": "1494687962154139729",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "chebrutta",
+    "author_id": "1308598149757141062",
+    "username": "chebrutta",
+    "content": "hey looking for 1 or 2 people to potentially join me on a couple projects that are close to the finish line.\n\nboth are real builds with working frontend/backend already done. mostly need polish, production tuning, testing, and pushing live. i work full time and have a lot going on lately, so time has been the bottleneck.\n\nprojects:\n\n1. webapp for the job market focused on reducing AI slop on both the recruiting side and applicant side.\n\n2. iOS app for athletes specifically, not generic fitness, more performance focused.\n\nmy background is machine learning, backend, data engineering/pipelines. stack is mostly python backends, react frontends, monorepos, and related infra. i’ve already shipped/deployed before, just need a couple solid people to help close these out.\n\nopen to profit share / ownership depending on contribution. honestly just want to get them launched instead of letting them sit unfinished.\n\nalso have another project i’d rather spend my limited free time on around NN archite",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1494687962154139729",
+    "timestamp": "2026-04-17T13:16:20.137000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1494646696502624377",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "_mkl_",
+    "author_id": "1316377860633792593",
+    "username": "no_one_7234",
+    "content": "Hi, I am looking for collaborations in logic and symbolic reasoning, NN+combinatorial optimization, and fine-tuning of LLMs -- I am a mathematician and open to collab, for example extending ideas from https://arxiv.org/pdf/2602.17493. I have half baked conceptual works which has to be scaled, so looking for people who can complement.",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1494646696502624377",
+    "timestamp": "2026-04-17T10:32:21.639000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1494575984542744686",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Badnis(33)",
+    "author_id": "458756807251460096",
+    "username": "death_destroy",
+    "content": "Hey Guys \n\nI built a full end-to-end EPL prediction pipeline over the last few months. Data ingestion, cleaning, feature engineering, a Feast feature store on Neon Postgres, 5 XGBoost models tracked in MLflow, and a FastAPI inference endpoint. The model hit 51.5% accuracy on the test set.\nTo put that in context, the top entry in the 2017 Soccer Prediction Challenge hit 52.43% using XGBoost on specialist pi-ratings. My model would have placed 3rd in that competition using only publicly available match data and features built from scratch.\nThis weekend, I put it against the Opta Analyst's Supercomputer on 4 Matchweek 33 fixtures.\nHere is what the model said:\n1. Tottenham Hotspur Football Club vs Brighton & Hove Albion Football Club: Tottenham Win (42.4%) — Opta had Brighton (42.9%)\n2. Chelsea Football Club vs Manchester United: Draw (40%) — Opta had Chelsea (43.7%)\n3. Everton Football Club vs Liverpool Football Club: Everton Win (50%) — Opta had Everton (37.3%)\n4. Manchester City Footbal",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1494575984542744686",
+    "timestamp": "2026-04-17T05:51:22.594000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://medium.com/@juliusnyambok14/bb73ce945855",
+      "https://medium.com/@juliusnyambok14/dfe40ac2e139"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1494105962930507817",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-research",
+    "author": "Ballernovsky",
+    "author_id": "585536056716427275",
+    "username": "ballernovsky",
+    "content": "recently published my working paper which is an applied demonstration of how human thinking or the handover of human thinking to the AI is made visible from the surface dialogue trace. No external proxy instrumentation needed. AI models have all that is required.\n\nFeedback or pushback is welcome:\n\nhttps://zenodo.org/records/19197150",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1494105962930507817",
+    "timestamp": "2026-04-15T22:43:40.709000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1493960787621056552",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "viv2668",
+    "author_id": "751001597290610708",
+    "username": "viv2668",
+    "content": "A credit risk chatbot at a UK bank answers: \"Yes, this customer is eligible for the bridging facility.\"\n\nThe eval score: 0.87. Green checkmark. Validated. Shipped.\n\nSix months later, a regulator asks about that decision.\n\nThe team pulls the eval log. Model version, prompt, output, score. All there.\nThen the regulator asks: \"Which version of 'eligible customer' was this scored against?\" Silence.\n\nThe definition changed three months ago. From v2.3 to v2.4. Different criteria. Different steward. The eval pipeline never knew. The score never moved. The system was being measured against a reality that no longer existed.\n\nSandipan Bhaumik calls this context drift. And it has no standard detection mechanism, no common schema, and no remediation path.\n\nWhether you're the governance steward, the LLMOps engineer instrumenting evals, or the risk professional signing off on them, this is your problem.\nThe model wasn't broken. The context shifted underneath it. Silently. Without trace.\n\nIn the late",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1493960787621056552",
+    "timestamp": "2026-04-15T13:06:48.218000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://metadataweekly.substack.com/p/context-graphs-as-ai-evaluation-infrastructure"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1493668057770491934",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Yuan (Terry) Tang",
+    "author_id": "925211326400315412",
+    "username": "terrytangyuan",
+    "content": "The State of Model Serving Communities: April 2026 Edition is out! Enjoy the updates on vLLM, KServe, llm-d, Llama Stack, Kubernetes, and more from Red Hat AI teams! https://inferenceops.substack.com/p/state-of-the-model-serving-communities-b93",
+    "keywords": [
+      "model serving"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1493668057770491934",
+    "timestamp": "2026-04-14T17:43:35.983000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/",
+    "shared_links": [
+      "https://inferenceops.substack.com/p/state-of-the-model-serving-communities-b93"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1493317765329588275",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "wave function",
+    "author_id": "294632311176298498",
+    "username": ".wavefunction",
+    "content": "I wouldn't call OpenAI snake oil. I would say Sam is a traitor to US democracy, though, since he's effectively agreed to use OpenAI to help Trump's secret police.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1493317765329588275",
+    "timestamp": "2026-04-13T18:31:39.757000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1493021718644527114",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Autonomous",
+    "author_id": "1485466025884647536",
+    "username": "autonomous___",
+    "content": "I’m at the capital raise stage for a startup and I’m looking for engineers and potentially filling C-suite seats (CFO is filled already)",
+    "keywords": [
+      "looking for engineers"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1493021718644527114",
+    "timestamp": "2026-04-12T22:55:16.727000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Autonomous_ My second account got nuked as well",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1490780066118893841",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "tomato",
+    "author_id": "248167239218364416",
+    "username": "pizzapastaspahget",
+    "content": "Hey all, just did a mini project adding latent action modelling to leworldmodel, might interest some people here:\nhttps://x.com/MozarellaPesto/status/2041216929759936712?s=20\n\nThe cool thing about this is that it trains super stably because its all in the latent space (so stably that the action codes are learntly jointly with the dynamics), hence no seperate pixel space based LAM or extended pipeline (i.e. Genie LAM pipeline).\n\nIt is still able to do latent planning --> real action by training a seperate latent -> real action translator.\n\nHope its informative and a fun read! Demo links on the post.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1490780066118893841",
+    "timestamp": "2026-04-06T18:27:45.117000+00:00",
+    "github": null,
+    "twitter": "https://x.com/MozarellaPesto/status/2041216929759936712?s=20",
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1490681646792314910",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Abraham Haskins",
+    "author_id": "337811205064491009",
+    "username": "lincoln0090",
+    "content": "It somehow got doubled! Oh no, thanks so much for telling me. Works now:\n\n(Fixed links: \n\nPreprint (Zenodo): https://doi.org/10.5281/zenodo.19407790\narXiv Endorsement Link: https://arxiv.org/auth/endorse?x=SN3O4P\nArtist-facing version of the model (intended to be a live demonstration of the UX framework) here: https://abrahamhaskins.org/art )\n\nI would feel bad about reposting them for a third time but this is literally the designated area for this kind of thing and I've apparently had broken links up for days.)",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1490681646792314910",
+    "timestamp": "2026-04-06T11:56:40.121000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Ph.D. Human Factors Engineer & AI Systems Architect (Aerospace). Building resilient systems through human understanding.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1490321521426563112",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Abraham Haskins",
+    "author_id": "337811205064491009",
+    "username": "lincoln0090",
+    "content": "Make sense, they're a rare breed. Thanks for your help!\n\nIf anyone else here is willing to give the article (even the abstract) a quick glance, I encourage a look at the article below 🙂! If you think it's worthy, I'd love a shout-out to anyone who might be interested or who can endorse on arXiv. \n\n(Links again: \n\nPreprint (Zenodo): https://doi.org/10.5281/zenodo.19407790\narXiv Endorsement Link: https://arxiv.org/auth/endorse?x=SN3O4P\nArtist-facing version of the model (intended to be a live demonstration of the UX framework) here: https://abrahamhaskins.org/art )",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1490321521426563112",
+    "timestamp": "2026-04-05T12:05:39.543000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Ph.D. Human Factors Engineer & AI Systems Architect (Aerospace). Building resilient systems through human understanding.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1490035221859533042",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Abraham Haskins",
+    "author_id": "337811205064491009",
+    "username": "lincoln0090",
+    "content": "Hey folks! \n\nI'm a human factors engineer over in aerospace (boeing, please don't hold that against me). I’m working on transitioning some safety-critical UX architecture into the alignment space. \n\nI just minted a zenodo preprint that formalizes the biological failure states of genAI using the free energy principle and inverse rl. I’m trying to get this into arXiv under cs.hc or cs.ai, but I need an endorser to bypass the filter. \n\nIf anyone here has publishing privileges in either of those categories and is willing to take a look, I've got the endorsement code ready. \n\nPreprint (Zenodo): https://doi.org/10.5281/zenodo.19407790\narXiv Endorsement Link: https://arxiv.org/auth/endorse?x=SN3O4P\nArtist-facing version of the model (intended to be a live demonstration of the UX framework) here: https://abrahamhaskins.org/art\n\nAbstract:\nGenerative AI inherently triggers a computational failure mode in human observers—a \"generative crash\"—due to a lack of latent intentionality required for Inv",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1490035221859533042",
+    "timestamp": "2026-04-04T17:08:00.407000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Ph.D. Human Factors Engineer & AI Systems Architect (Aerospace). Building resilient systems through human understanding.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1490026433618116730",
+    "server": "Yannic Kilcher",
+    "channel": "events",
+    "author": "ZickZack",
+    "author_id": "178150411545346049",
+    "username": "zickzack",
+    "content": "@everyone <@&782362139087208478> \n**Paper Discussion 2026#13**\n\nSaturday, 6 PM to 8 UTC (local: <t:1775325600:F> - <t:1775332800:t>), <@178150411545346049>  (Author)  will present ⁨`SafeMPO: Constrained Reinforcement Learning with Probabilistic Incremental Improvement`⁩ in <#1337720641528401930>.\n\n\nIf you'd like to present a paper, send a direct message to <@178150411545346049>   with a link to the paper and availability information.\n\n**Paper:**\nhttps://openreview.net/pdf?id=1m0EU6QXj6\n\n**Abstract:**\n> Reinforcement Learning (RL) has demonstrated significant success in optimizing complex control and planning problems. However, scaling RL to real-world applications with multiple, potentially conflicting requirements requires an effective handling of constraints. We propose a novel approach to constraint satisfaction in RL algorithms, focusing on incrementally improving policy safety rather than directly projecting the policy onto a feasible region. We accomplish this by first solving a ",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1490026433618116730",
+    "timestamp": "2026-04-04T16:33:05.127000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1489975569528651816",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "ZickZack",
+    "author_id": "178150411545346049",
+    "username": "zickzack",
+    "content": "> I am not disagreeing in the slightest. I am just saying that this doesn't mean we understand how LLMs work\nIt's because they are\n- Large <:morelayers:850828796596715581> (we can prove that sizes matters in NNs) \n- allow you to put in data of flexible form (i.e. they aren't MLPs with a fixed input size)\n\n\nIn fact, for most NNs I _can_ give you bounds how well the model works, but you have to specify how the data looks like.\nE.g. if you told me \"I have data distributed like `p(x)` how well can an MLP with hidden dimension 256 fit this\"\nI can give you bounds for that (see e.g. https://arxiv.org/pdf/1902.06015).\nIf you don't tell me how your data looks like then I also cannot answer your question: That's usually the bottleneck with these bounds. They are often quite precise but in your \"specification\" of the problem you need to put into the proof, you need to include so much information that it is easier to just run the model.\n\nAlso, you have to actually compare the algorithm with the co",
+    "keywords": [
+      "training run"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1489975569528651816",
+    "timestamp": "2026-04-04T13:10:58.183000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1489948327565852814",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Bureau of Rizz",
+    "author_id": "598574851040739360",
+    "username": "shake_and_drink",
+    "content": "then I gave u 1 example that gave birth to diffusion and flow matching as we know them nowadays, and another example where it doesn't even evolve from the drawing board in the first place to demonstrate 2 sides of this nuance",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1489948327565852814",
+    "timestamp": "2026-04-04T11:22:43.193000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Meowwwww",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1489840136651931818",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Seth",
+    "author_id": "297896073006022656",
+    "username": "slamancusa",
+    "content": "Hey guys. I’m a solo technical founder who just finished building the MVP of a many-to-many AI chat platform (users + specialized bots from indie devs). It wraps OpenAI/Gemini/etc. APIs with a Discord/Poe-style interface.\n\nThe entire tech stack is built. I am drowning in the dev side and need a Business/GTM Co-Founder to step in.\n\nI need someone who understands DevRel to recruit indie bot-builders, can figure out our Stripe unit economics, and hustle to get our first 100 users. I’m looking to do a 2-week trial run to see if we work well together. Let me know if you want to see a demo.",
+    "keywords": [
+      "co-founder",
+      "demo"
+    ],
+    "categories": [
+      "founder_activity",
+      "project_showcase"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1489840136651931818",
+    "timestamp": "2026-04-04T04:12:48.469000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1489521766639337482",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "evanm2651",
+    "author_id": "343118629476499457",
+    "username": "evanm2651",
+    "content": "Random question: What do you think is an optimal way to go about curriculum design for a tutoring agent? I'm building an MVP of a lightweight tutoring application (https://github.com/EvanMcCormick37/scathach-mvp), and I currently go about building a curriculum as a KG of \"topic\"<-\"subtopic\"<-\"concept\", then quiz the user per-concept and gradually build up to the full topic. I'm not sold on this strategy though. Has anyone implemented a KG for LLM tutoring, and if so, what worked well for you and what didn't?",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1489521766639337482",
+    "timestamp": "2026-04-03T07:07:43.143000+00:00",
+    "github": "https://github.com/EvanMcCormick37/scathach-mvp",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1489415012643766422",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "petesoder",
+    "author_id": "632941685587968010",
+    "username": "petesoder",
+    "content": "hi folks, wanted to let you know that AI Launchpad @ AI Council 2026 is open for applications\n\n6 pre-seed B2B AI startups get a 10-min demo slot at the conference (May 12-14, SF) in front of engineers and investors who actually understand what you built. been doing this since 2015. bar is highly technical.\n\nhttps://aicouncil.com/ai-launchpad\n(deadline to apply: 4/24)",
+    "keywords": [
+      "pre-seed",
+      "demo"
+    ],
+    "categories": [
+      "founder_activity",
+      "project_showcase"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1489415012643766422",
+    "timestamp": "2026-04-03T00:03:31.007000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "engineer, founder of datacouncil.ai & zeroprime.vc",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1489347577210999026",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Azure",
+    "author_id": "687756328055472248",
+    "username": "real.azure",
+    "content": "Another quantization company. I believe they did not gain anything: \nhttps://github.com/PrismML-Eng/Bonsai-demo/blob/main/1-bit-bonsai-8b-whitepaper.pdf",
+    "keywords": [
+      "quantization",
+      "demo"
+    ],
+    "categories": [
+      "ai_infrastructure",
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1489347577210999026",
+    "timestamp": "2026-04-02T19:35:33.147000+00:00",
+    "github": "https://github.com/cpldcpu",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1488970305979551967",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "red_wolf",
+    "author_id": "714836278998335619",
+    "username": "red_wolf_v2",
+    "content": "https://yapit.md\nI built a TTS reader for papers that uses a vision LLM to convert PDFs to markdown with natural \"alt text\" for math, citations, figures, removing page numbers, etc.\n\nHere's what it looks like on [Attention Is All You Need](https://yapit.md/listen/3bde213b-3a5a-465f-9198-be65430b699e#3-model-architecture) (all voices cached/free, no account needed).\n\nThe Kokoro voices are free on desktop with WebGPU, and it's open source / easily self-hostable with openai api for TTS and pdf2md: [GitHub](https://github.com/yapit-tts/yapit).\nWith code `YAP10` you get a free month/10€ off of any plan on the hosted version.",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1488970305979551967",
+    "timestamp": "2026-04-01T18:36:24.676000+00:00",
+    "github": "https://github.com/MaxWolf-01",
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://mwolf.dev",
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1488937109090992129",
+    "server": "Yannic Kilcher",
+    "channel": "text-for-voice",
+    "author": "jklw10",
+    "author_id": "271327773195239432",
+    "username": "jklw10",
+    "content": "https://github.com/deepseek-ai/Engram/blob/main/engram_demo_v1.py#L387",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986700814938697728/1488937109090992129",
+    "timestamp": "2026-04-01T16:24:29.921000+00:00",
+    "github": "https://github.com/deepseek-ai/Engram/blob/main/engram_demo_v1.py#L387",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "I am but a man, yet existence begets hallucinations.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1488218015534288936",
+    "server": "Yannic Kilcher",
+    "channel": "shitposting-not-associated-with-yannic",
+    "author": "BluBb_mADe",
+    "author_id": "111252371778084864",
+    "username": "blubb_made",
+    "content": "He doesn't even try to make a well reasoned argument. It's all manipulation and crowd steering in the most underhanded way.",
+    "keywords": [
+      "manipulation"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/1079073513492725850/1488218015534288936",
+    "timestamp": "2026-03-30T16:47:04.657000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1488195124528677138",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "anu",
+    "author_id": "1033415273040072705",
+    "username": "anu4938",
+    "content": "**Technical co-founder — intersection of AI, finance & strategy**\n\nI'm building a startup that helps private equity firms find and evaluate the right companies to acquire.\n\nWhy it matters: better deal sourcing & diligence → better acquisitions → stronger companies → job creation and economic growth.\n\nI'll be hands-on technical. I’m looking for someone equally serious.\n\nBackground: repeat AI founder, corporate strategy (Bain, Nokia), engineering.\nhttps://www.linkedin.com/in/anuchandra444/",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1488195124528677138",
+    "timestamp": "2026-03-30T15:16:07.016000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/anuchandra444/",
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1487880628551553064",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "Badnis(33)",
+    "author_id": "458756807251460096",
+    "username": "death_destroy",
+    "content": "Hey Everyone\nMy name is Julius Nyerere Nyambok from Kenya, a Data Scientist moving towards MLOps Engineering\n\nI am an AI/ML Technical Writer on Medium, where I focus on democratizing tech knowledge about MLOps and AI. Check it out below https://medium.com/data-ai-and-beyond\nI would love to be in a community where we push each other towards our goals.\nI am currently establishing my own Data and AI consulting company, concentrating on developing technology for both the present and future.\nConnect with me through the DMs, and let's connect through LinkedIn: https://www.linkedin.com/in/julius-nyerere/",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1487880628551553064",
+    "timestamp": "2026-03-29T18:26:25.332000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/julius-nyerere/",
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://medium.com/data-ai-and-beyond"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1486692734277255218",
     "server": "MLOps (@chipro)",
     "channel": "events",
@@ -13380,6 +14043,33 @@
     "au_signals": []
   },
   {
+    "message_id": "1107755710537810060",
+    "server": "Yannic Kilcher",
+    "channel": "gpt-4chan-post-hoc",
+    "author": "Awesome_Ruler_007",
+    "author_id": "738058085083381760",
+    "username": "awesome_ruler_007",
+    "content": "> 1GB of Wikipedia is more than enough for this. \nExcept 1GB of wikipedia is a number some old dudes pulled out of their ass? what's the analysis on the shannon limit of LLMs? What's the motivation? It was a number suitable for hardware resources 20 years ago - not in this current day and age.\n\nAh right, I'm not educated clearly. Clearly, 7zip shows more intellectual abilities that LLMs 🤦‍♂️ What's next, AGI was already solved by a bunch of geniuses using decision trees? \n\nThe Hutter prize is the absolute worst way to test for resource efficiency - anyone who's ever done even some naive research about NNs would understand why. Anything tested on that size of corpus will **never** scale. Why not show me benchmarks which actually use larger corpuses? where are the prize winning algorithms there? Or better yet - where are the \"intellectual capabilities\" that Hutter prize winning algorithms demonstrate, as Hutter likes to parrot they will?\n\nOr what, do you need $10B now to scale it up to a",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/985632974311678062/1107755710537810060",
+    "timestamp": "2023-05-15T19:45:42.498000+00:00",
+    "github": "https://github.com/neel04",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "DM if you wanna talk about some interesting ideas! :]",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1106999681088761937",
     "server": "Yannic Kilcher",
     "channel": "events",
@@ -13871,6 +14561,33 @@
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1073568607663046686",
     "timestamp": "2023-02-10T11:38:22.007000+00:00",
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1073524466371543040",
+    "server": "Yannic Kilcher",
+    "channel": "gpt-4chan-post-hoc",
+    "author": "gray00",
+    "author_id": "239666022972522497",
+    "username": "gray00",
+    "content": "basically i had this idea for a better CompU time. also i built the robots file systems. and so on. even netstacks",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/985632974311678062/1073524466371543040",
+    "timestamp": "2023-02-10T08:42:57.903000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
     "australian_connection": false,
     "au_confidence": null,
     "au_signals": []
@@ -14680,6 +15397,60 @@
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/990744148946608198",
     "timestamp": "2022-06-26T22:23:32.245000+00:00",
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "989293165183901706",
+    "server": "Yannic Kilcher",
+    "channel": "gpt-4chan-post-hoc",
+    "author": "dopa",
+    "author_id": "387689209223446528",
+    "username": "gradualist",
+    "content": "I would want more discussion personally about ads, when ads are direct manipulation that are unethical it not easy question to answer",
+    "keywords": [
+      "manipulation"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/985632974311678062/989293165183901706",
+    "timestamp": "2022-06-22T22:17:50.758000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "989267378665828432",
+    "server": "Yannic Kilcher",
+    "channel": "gpt-4chan-post-hoc",
+    "author": "vives",
+    "author_id": "242427236261691392",
+    "username": "_vives_",
+    "content": "It’s different, gangster rap that uses slurs is usually made by that demographic to express a message and stand up comedy has a punch line grounded in some sort of reality (hence why dark humor can be tricky to get right). Spamming the n word as a response is not the same",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/985632974311678062/989267378665828432",
+    "timestamp": "2022-06-22T20:35:22.773000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "思い出なんかいらん",
+    "shared_links": [],
     "australian_connection": false,
     "au_confidence": null,
     "au_signals": []
