@@ -33,7 +33,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1079073513492725850/1485471735456334025",
-    "timestamp": "2026-03-23T02:54:20.463000+00:00"
+    "timestamp": "2026-03-23T02:54:20.463000+00:00",
+    "linkedin": "https://www.linkedin.com/in/barzin-lotfabadi/",
+    "website": "https://clubs.ssfinc.ca/bart/home/",
+    "bio": "President of: https://clubs.ssfinc.ca/bart/home/\nLinkedIn: https://www.linkedin.com/in/barzin-lotfabadi/\nI work @: https://www.sanctus.ca\n\nBook me: https://calendly.com/it-sanctus/60min"
   },
   {
     "message_id": "1484560551421153503",
@@ -84,7 +87,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/719799140267327610/1483460163641020457",
-    "timestamp": "2026-03-17T13:41:04.369000+00:00"
+    "timestamp": "2026-03-17T13:41:04.369000+00:00",
+    "twitter": "https://x.com/sergi24sanchez"
   },
   {
     "message_id": "1483221140032847882",
@@ -135,7 +139,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1483134612816531579",
-    "timestamp": "2026-03-16T16:07:27.004000+00:00"
+    "timestamp": "2026-03-16T16:07:27.004000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "real_name": "Burny"
   },
   {
     "message_id": "1482325834541830286",
@@ -171,7 +180,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1481220299826528328",
-    "timestamp": "2026-03-11T09:20:39.221000+00:00"
+    "timestamp": "2026-03-11T09:20:39.221000+00:00",
+    "bio": "I am but a man, yet existence begets hallucinations."
   },
   {
     "message_id": "1480643088778264596",
@@ -188,7 +198,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1480643088778264596",
-    "timestamp": "2026-03-09T19:07:01.383000+00:00"
+    "timestamp": "2026-03-09T19:07:01.383000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1479882407476723975",
@@ -239,7 +251,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1478978055807438871",
-    "timestamp": "2026-03-05T04:50:46.588000+00:00"
+    "timestamp": "2026-03-05T04:50:46.588000+00:00",
+    "bio": "` ☰        redJ        ― □ ⤬`\n`⤷ ` hi"
   },
   {
     "message_id": "1478635097568841738",
@@ -294,7 +307,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1478545837956010078",
-    "timestamp": "2026-03-04T00:13:17.822000+00:00"
+    "timestamp": "2026-03-04T00:13:17.822000+00:00",
+    "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net"
   },
   {
     "message_id": "1478386433063653578",
@@ -328,7 +342,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1478137137663574087",
-    "timestamp": "2026-03-02T21:09:16.079000+00:00"
+    "timestamp": "2026-03-02T21:09:16.079000+00:00",
+    "github": "https://github.com/cpldcpu",
+    "website": "https://cpldcpu.github.io/",
+    "real_name": "Tim"
   },
   {
     "message_id": "1478132219313918004",
@@ -345,7 +362,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1478132219313918004",
-    "timestamp": "2026-03-02T20:49:43.453000+00:00"
+    "timestamp": "2026-03-02T20:49:43.453000+00:00",
+    "github": "https://github.com/cpldcpu",
+    "website": "https://cpldcpu.github.io/",
+    "real_name": "Tim"
   },
   {
     "message_id": "1477756179353440446",
@@ -362,7 +382,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1477756179353440446",
-    "timestamp": "2026-03-01T19:55:28.540000+00:00"
+    "timestamp": "2026-03-01T19:55:28.540000+00:00",
+    "bio": "Meowwwww"
   },
   {
     "message_id": "1477357677389680640",
@@ -430,7 +451,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1475948429535481866",
-    "timestamp": "2026-02-24T20:12:07.397000+00:00"
+    "timestamp": "2026-02-24T20:12:07.397000+00:00",
+    "bio": "Developer - 7 years"
   },
   {
     "message_id": "1474900061925412906",
@@ -464,7 +486,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/793158435855663154/1474496757504282847",
-    "timestamp": "2026-02-20T20:03:41.814000+00:00"
+    "timestamp": "2026-02-20T20:03:41.814000+00:00",
+    "bio": "I am but a man, yet existence begets hallucinations."
   },
   {
     "message_id": "1474391718806687898",
@@ -515,7 +538,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1135678984840020000/1473497007883681804",
-    "timestamp": "2026-02-18T01:51:02.930000+00:00"
+    "timestamp": "2026-02-18T01:51:02.930000+00:00",
+    "bio": "“You miss 100% of the shots you don’t take.”"
   },
   {
     "message_id": "1472173548356239481",
@@ -532,7 +556,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1472173548356239481",
-    "timestamp": "2026-02-14T10:12:05.590000+00:00"
+    "timestamp": "2026-02-14T10:12:05.590000+00:00",
+    "github": "https://github.com/belocci/UniTrainer",
+    "bio": "Uni Trainer! TOTW!\n\nhttps://github.com/belocci/UniTrainer\n\n19\nAI/ML\nDigital Marketing\nSales\nBrand Management\nWholeSale Realestate\n\nwhatever, whenever, however. \n\n@thefakevaughn - IG"
   },
   {
     "message_id": "1471245489885286515",
@@ -549,7 +575,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1471245489885286515",
-    "timestamp": "2026-02-11T20:44:19.208000+00:00"
+    "timestamp": "2026-02-11T20:44:19.208000+00:00",
+    "bio": "“You miss 100% of the shots you don’t take.”"
   },
   {
     "message_id": "1471163184084816048",
@@ -566,7 +593,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1471163184084816048",
-    "timestamp": "2026-02-11T15:17:15.976000+00:00"
+    "timestamp": "2026-02-11T15:17:15.976000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1470897305355026504",
@@ -619,7 +648,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1470043324303020183",
-    "timestamp": "2026-02-08T13:07:20.598000+00:00"
+    "timestamp": "2026-02-08T13:07:20.598000+00:00",
+    "bio": "🌞 Keep your face always toward the sunshine—and shadows will fall behind you."
   },
   {
     "message_id": "1469611386635157586",
@@ -672,7 +702,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1468875084805701748",
-    "timestamp": "2026-02-05T07:45:10.597000+00:00"
+    "timestamp": "2026-02-05T07:45:10.597000+00:00",
+    "bio": "🌞 Keep your face always toward the sunshine—and shadows will fall behind you."
   },
   {
     "message_id": "1468349641925070848",
@@ -689,7 +720,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1045297868136779846/1468349641925070848",
-    "timestamp": "2026-02-03T20:57:15.252000+00:00"
+    "timestamp": "2026-02-03T20:57:15.252000+00:00",
+    "github": "https://github.com/VictorRielly"
   },
   {
     "message_id": "1468320609514815682",
@@ -706,7 +738,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1045297868136779846/1468320609514815682",
-    "timestamp": "2026-02-03T19:01:53.386000+00:00"
+    "timestamp": "2026-02-03T19:01:53.386000+00:00",
+    "github": "https://github.com/VictorRielly"
   },
   {
     "message_id": "1467806617088168020",
@@ -827,7 +860,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1465329898435379380",
-    "timestamp": "2026-01-26T12:57:52.300000+00:00"
+    "timestamp": "2026-01-26T12:57:52.300000+00:00",
+    "linkedin": "https://www.linkedin.com/in/anuchandra444/"
   },
   {
     "message_id": "1465233700819308608",
@@ -844,7 +878,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1465233700819308608",
-    "timestamp": "2026-01-26T06:35:37.001000+00:00"
+    "timestamp": "2026-01-26T06:35:37.001000+00:00",
+    "twitter": "https://x.com/deepto98/status/2015153491052990841"
   },
   {
     "message_id": "1465173857613643787",
@@ -861,7 +896,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1465173857613643787",
-    "timestamp": "2026-01-26T02:37:49.269000+00:00"
+    "timestamp": "2026-01-26T02:37:49.269000+00:00",
+    "linkedin": "https://www.linkedin.com/in/alejandro-alemany-a4801a1013asd/",
+    "bio": "Data Engineer | ML/AI & Production MLOps | Healthcare AI & Quantitative Finance | Former Brigham and Women’s & Amal Labs Researcher | MSIS @ Northeastern ’25 | VJTI Alumnus"
   },
   {
     "message_id": "1463643992188129311",
@@ -980,7 +1017,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1461438354447929538",
-    "timestamp": "2026-01-15T19:14:15.912000+00:00"
+    "timestamp": "2026-01-15T19:14:15.912000+00:00",
+    "linkedin": "https://www.linkedin.com/in/jodyhesch/"
   },
   {
     "message_id": "1460659180800053299",
@@ -997,7 +1035,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1460659180800053299",
-    "timestamp": "2026-01-13T15:38:06.438000+00:00"
+    "timestamp": "2026-01-13T15:38:06.438000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1460159235785625737",
@@ -1014,7 +1054,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1460159235785625737",
-    "timestamp": "2026-01-12T06:31:30.258000+00:00"
+    "timestamp": "2026-01-12T06:31:30.258000+00:00",
+    "bio": "Down to 0%"
   },
   {
     "message_id": "1459672653081350265",
@@ -1048,7 +1089,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1458932453183066308",
-    "timestamp": "2026-01-08T21:16:42.493000+00:00"
+    "timestamp": "2026-01-08T21:16:42.493000+00:00",
+    "bio": "Attention is all you need"
   },
   {
     "message_id": "1458634424689102881",
@@ -1167,7 +1209,13 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/986701499763654676/1455756588135616595",
-    "timestamp": "2025-12-31T02:56:57.261000+00:00"
+    "timestamp": "2025-12-31T02:56:57.261000+00:00",
+    "github": "https://github.com/teenygrad",
+    "linkedin": "https://www.linkedin.com/in/arshadmahm",
+    "bio": "High Performance Distributed MLOps \nhttps://www.linkedin.com/in/arshadmahm\nhttps://github.com/teenygrad",
+    "twitter": "https://x.com/teenygrad",
+    "website": "https://www.teenygrad.org",
+    "real_name": "teenygrad"
   },
   {
     "message_id": "1455685966294548702",
@@ -1201,7 +1249,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1455591102789718182",
-    "timestamp": "2025-12-30T15:59:22.480000+00:00"
+    "timestamp": "2025-12-30T15:59:22.480000+00:00",
+    "bio": "Bioinformatics Researcher (Ph.D)\nSoftware Engineer"
   },
   {
     "message_id": "1455348530486054944",
@@ -1218,7 +1267,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/992083360719581194/1455348530486054944",
-    "timestamp": "2025-12-29T23:55:28.736000+00:00"
+    "timestamp": "2025-12-29T23:55:28.736000+00:00",
+    "bio": "Bioinformatics Researcher (Ph.D)\nSoftware Engineer"
   },
   {
     "message_id": "1455329471358832651",
@@ -1375,7 +1425,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1269724655405498429/1449461623990255759",
-    "timestamp": "2025-12-13T18:03:00.854000+00:00"
+    "timestamp": "2025-12-13T18:03:00.854000+00:00",
+    "website": "https://youtu.be/moulsYayvM4",
+    "bio": "https://youtu.be/moulsYayvM4"
   },
   {
     "message_id": "1449053194037629121",
@@ -1426,7 +1478,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1448445571508600983",
-    "timestamp": "2025-12-10T22:45:35.065000+00:00"
+    "timestamp": "2025-12-10T22:45:35.065000+00:00",
+    "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net"
   },
   {
     "message_id": "1448434571501899970",
@@ -1460,7 +1513,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1448424793639489720",
-    "timestamp": "2025-12-10T21:23:01.235000+00:00"
+    "timestamp": "2025-12-10T21:23:01.235000+00:00",
+    "github": "https://github.com/flora131/atomic",
+    "bio": "Checkout Atomic: https://github.com/flora131/atomic\nOpinionated Workflows, Ralph Loops, and Memory for AI Coding Agents.\n\nAI/ML Product, prev Microsoft, Cisco, start-up"
   },
   {
     "message_id": "1448082411719102616",
@@ -1496,7 +1551,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1447575411390418975",
-    "timestamp": "2025-12-08T13:07:52.726000+00:00"
+    "timestamp": "2025-12-08T13:07:52.726000+00:00",
+    "bio": "Meowwwww"
   },
   {
     "message_id": "1445760678542704691",
@@ -1513,7 +1569,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1445760678542704691",
-    "timestamp": "2025-12-03T12:56:46.699000+00:00"
+    "timestamp": "2025-12-03T12:56:46.699000+00:00",
+    "website": "http://francesco-p.github.io",
+    "bio": "http://francesco-p.github.io"
   },
   {
     "message_id": "1445334699126820986",
@@ -1566,7 +1624,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1444234914957496320",
-    "timestamp": "2025-11-29T07:53:56.313000+00:00"
+    "timestamp": "2025-11-29T07:53:56.313000+00:00",
+    "linkedin": "https://www.linkedin.com/in/danyal-ai/"
   },
   {
     "message_id": "1443605619297882238",
@@ -1600,7 +1659,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1443405618001084498",
-    "timestamp": "2025-11-27T00:58:36.511000+00:00"
+    "timestamp": "2025-11-27T00:58:36.511000+00:00",
+    "bio": "I prefer responding in public over DMs"
   },
   {
     "message_id": "1442929939883233359",
@@ -1617,7 +1677,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1442929939883233359",
-    "timestamp": "2025-11-25T17:28:26.010000+00:00"
+    "timestamp": "2025-11-25T17:28:26.010000+00:00",
+    "website": "https://aerlabs.tech/",
+    "bio": "https://aerlabs.tech/\nAER: Accelerate Efficient Research | AI Engineering & Research"
   },
   {
     "message_id": "1442732058261852232",
@@ -1651,7 +1713,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1045297868136779846/1442474198613233837",
-    "timestamp": "2025-11-24T11:17:28.824000+00:00"
+    "timestamp": "2025-11-24T11:17:28.824000+00:00",
+    "linkedin": "https://linkedin.com/in/pranaypasula",
+    "website": "https://pranaypasula.com",
+    "bio": "Stealth unicorn exec. NeurIPS Senior AC (2025). Berkeley AI graduate. AI researcher. Noise-free AI insights. View full bio!\n\nhttps://pranaypasula.com\nhttps://linkedin.com/in/pranaypasula"
   },
   {
     "message_id": "1442463635338166355",
@@ -1668,7 +1733,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1045297868136779846/1442463635338166355",
-    "timestamp": "2025-11-24T10:35:30.343000+00:00"
+    "timestamp": "2025-11-24T10:35:30.343000+00:00",
+    "linkedin": "https://linkedin.com/in/pranaypasula",
+    "website": "https://pranaypasula.com",
+    "bio": "Stealth unicorn exec. NeurIPS Senior AC (2025). Berkeley AI graduate. AI researcher. Noise-free AI insights. View full bio!\n\nhttps://pranaypasula.com\nhttps://linkedin.com/in/pranaypasula"
   },
   {
     "message_id": "1441815634018177148",
@@ -1704,7 +1772,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/719799140267327610/1440868603418382457",
-    "timestamp": "2025-11-20T00:57:25.099000+00:00"
+    "timestamp": "2025-11-20T00:57:25.099000+00:00",
+    "bio": "Spacecraft Mission and Instrument Development, Planetary Surface Processes, Data Integration and Machine Learning Methods for Remote Sensing, Education Modernization. theTinker"
   },
   {
     "message_id": "1440726129924116530",
@@ -1721,7 +1790,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1440726129924116530",
-    "timestamp": "2025-11-19T15:31:16.771000+00:00"
+    "timestamp": "2025-11-19T15:31:16.771000+00:00",
+    "github": "https://github.com/adnanlah",
+    "twitter": "https://x.com/AdnanLah",
+    "real_name": "Adnan Lahrech"
   },
   {
     "message_id": "1440462523957641226",
@@ -1738,7 +1810,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1440462523957641226",
-    "timestamp": "2025-11-18T22:03:48.211000+00:00"
+    "timestamp": "2025-11-18T22:03:48.211000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1440280600014753802",
@@ -1772,7 +1846,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1439713021919363243",
-    "timestamp": "2025-11-16T20:25:33+00:00"
+    "timestamp": "2025-11-16T20:25:33+00:00",
+    "github": "https://github.com/CrazyAI9",
+    "twitter": "https://x.com/luckyman1009",
+    "bio": "AI Engineer | Passionate about creating intelligent systems and solving problems with machine learning. Always exploring new tech and innovations!",
+    "website": "https://jonathan-torres.vercel.app/",
+    "real_name": "CrazyAI9"
   },
   {
     "message_id": "1439683762379296869",
@@ -1789,7 +1868,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1439683762379296869",
-    "timestamp": "2025-11-16T18:29:16.982000+00:00"
+    "timestamp": "2025-11-16T18:29:16.982000+00:00",
+    "github": "https://github.com/adnanlah",
+    "twitter": "https://x.com/AdnanLah",
+    "real_name": "Adnan Lahrech"
   },
   {
     "message_id": "1439308798656250046",
@@ -1823,7 +1905,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1438752443725910096",
-    "timestamp": "2025-11-14T04:48:33.312000+00:00"
+    "timestamp": "2025-11-14T04:48:33.312000+00:00",
+    "bio": "https://discord.gg/catcafe"
   },
   {
     "message_id": "1438087289862623252",
@@ -1842,7 +1925,13 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1438087289862623252",
-    "timestamp": "2025-11-12T08:45:28.273000+00:00"
+    "timestamp": "2025-11-12T08:45:28.273000+00:00",
+    "github": "https://github.com/LoGic142",
+    "twitter": "https://x.com/no_mads_games",
+    "website": "https://www.nomads.games/about-us",
+    "bio": "Constantly learning and evolving! 🙂\nhttps://www.nomads.games/about-us",
+    "real_name": "Aditya Raj",
+    "company": "@jetoslabs"
   },
   {
     "message_id": "1437910919626621040",
@@ -1910,7 +1999,12 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1436802110518984845",
-    "timestamp": "2025-11-08T19:38:37.640000+00:00"
+    "timestamp": "2025-11-08T19:38:37.640000+00:00",
+    "github": "https://github.com/MyelinsheathXD",
+    "twitter": "https://x.com/SabRango",
+    "website": "https://sefu.uz",
+    "bio": "Gameplay Programmer\nhttps://sefu.uz",
+    "real_name": "Sunnatulla Esanov"
   },
   {
     "message_id": "1436780632809144456",
@@ -1982,7 +2076,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1436387780241658019",
-    "timestamp": "2025-11-07T16:12:13.604000+00:00"
+    "timestamp": "2025-11-07T16:12:13.604000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1436057185552568390",
@@ -1999,7 +2095,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1436057185552568390",
-    "timestamp": "2025-11-06T18:18:33.688000+00:00"
+    "timestamp": "2025-11-06T18:18:33.688000+00:00",
+    "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7392133553297240064/",
+    "bio": "Partner Engineer, GenAI at Meta, Learning AI Evals. https://www.linkedin.com/in/kasianenko/"
   },
   {
     "message_id": "1435519009704378380",
@@ -2016,7 +2114,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1435519009704378380",
-    "timestamp": "2025-11-05T06:40:02.567000+00:00"
+    "timestamp": "2025-11-05T06:40:02.567000+00:00",
+    "bio": "Down to 0%"
   },
   {
     "message_id": "1435100918067494942",
@@ -2067,7 +2166,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1433354191522234448",
-    "timestamp": "2025-10-30T07:17:49.692000+00:00"
+    "timestamp": "2025-10-30T07:17:49.692000+00:00",
+    "github": "https://github.com/Harly-1506/polyp-segmentation-mlops",
+    "bio": "AI research scientist\n\nCheck my latest project: https://github.com/Harly-1506/polyp-segmentation-mlops"
   },
   {
     "message_id": "1433044661659897896",
@@ -2101,7 +2202,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/719799140267327610/1432756244040384602",
-    "timestamp": "2025-10-28T15:41:47.903000+00:00"
+    "timestamp": "2025-10-28T15:41:47.903000+00:00",
+    "bio": "I am but a man, yet existence begets hallucinations."
   },
   {
     "message_id": "1432564858888392767",
@@ -2118,7 +2220,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1432564858888392767",
-    "timestamp": "2025-10-28T03:01:18.127000+00:00"
+    "timestamp": "2025-10-28T03:01:18.127000+00:00",
+    "website": "http://www.hanakano.com",
+    "bio": "Conversational AI consultant \nhttp://www.hanakano.com"
   },
   {
     "message_id": "1432396283305394188",
@@ -2171,7 +2275,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1431391709086093362",
-    "timestamp": "2025-10-24T21:19:37.418000+00:00"
+    "timestamp": "2025-10-24T21:19:37.418000+00:00",
+    "bio": "Former Physicist. AI/ML & Software developer."
   },
   {
     "message_id": "1431288796779122830",
@@ -2188,7 +2293,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1431288796779122830",
-    "timestamp": "2025-10-24T14:30:41.212000+00:00"
+    "timestamp": "2025-10-24T14:30:41.212000+00:00",
+    "bio": "Hi!"
   },
   {
     "message_id": "1431058731600445585",
@@ -2239,7 +2345,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1430966567918899240",
-    "timestamp": "2025-10-23T17:10:15.865000+00:00"
+    "timestamp": "2025-10-23T17:10:15.865000+00:00",
+    "bio": "trying to explore the world~ ^-^"
   },
   {
     "message_id": "1430622055274909727",
@@ -2290,7 +2397,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1428813346110701609",
-    "timestamp": "2025-10-17T18:34:07.781000+00:00"
+    "timestamp": "2025-10-17T18:34:07.781000+00:00",
+    "bio": "Situated in Hyderabad. IT Online Training Institution."
   },
   {
     "message_id": "1427935008106221601",
@@ -2326,7 +2434,14 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1427387740105740398",
-    "timestamp": "2025-10-13T20:09:16.823000+00:00"
+    "timestamp": "2025-10-13T20:09:16.823000+00:00",
+    "github": "https://github.com/rolandtannous",
+    "linkedin": "https://www.linkedin.com/in/rolandjosephtannous/",
+    "website": "https://gravityq.ai",
+    "bio": "https://www.linkedin.com/in/rolandjosephtannous/\n\nhttps://gravityq.ai\n\nhttps://github.com/rolandtannous/",
+    "twitter": "https://x.com/rolandtannous",
+    "real_name": "Roland Tannous",
+    "company": "GravityQ"
   },
   {
     "message_id": "1427342816555696343",
@@ -2343,7 +2458,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/828325357102432327/1427342816555696343",
-    "timestamp": "2025-10-13T17:10:46.214000+00:00"
+    "timestamp": "2025-10-13T17:10:46.214000+00:00",
+    "github": "https://github.com/wizenheimer",
+    "bio": "🫐",
+    "real_name": "Nayan",
+    "company": "@Couchbase"
   },
   {
     "message_id": "1425983319002054838",
@@ -2398,7 +2517,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/882748207996760164/1425849351338725456",
-    "timestamp": "2025-10-09T14:16:16.359000+00:00"
+    "timestamp": "2025-10-09T14:16:16.359000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1424756591894335488",
@@ -2483,7 +2604,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1422497918719361025",
-    "timestamp": "2025-09-30T08:18:52.556000+00:00"
+    "timestamp": "2025-09-30T08:18:52.556000+00:00",
+    "bio": "Freelance Recruiter passionate about connecting top talent with the right opportunities. Skilled in sourcing & screening, eager to grow in HR."
   },
   {
     "message_id": "1421542309979226182",
@@ -2500,7 +2622,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/769511840643809292/1421542309979226182",
-    "timestamp": "2025-09-27T17:01:37.678000+00:00"
+    "timestamp": "2025-09-27T17:01:37.678000+00:00",
+    "github": "https://github.com/k-nearest-neighbor",
+    "bio": "UTC−8",
+    "website": "https://www.ai-breakout.com",
+    "real_name": "Desmond Grealy"
   },
   {
     "message_id": "1421517957380444324",
@@ -2536,7 +2662,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1420839285745127424",
-    "timestamp": "2025-09-25T18:28:03.639000+00:00"
+    "timestamp": "2025-09-25T18:28:03.639000+00:00",
+    "linkedin": "https://www.linkedin.com/in/bruno-scaglione-4412a0165/",
+    "website": "https://www.instagram.com/bruno_scaglione/",
+    "bio": "Linkedin: https://www.linkedin.com/in/bruno-scaglione-4412a0165/\n\nInstagram:\nhttps://www.instagram.com/bruno_scaglione/"
   },
   {
     "message_id": "1420617029207199845",
@@ -2553,7 +2682,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1420617029207199845",
-    "timestamp": "2025-09-25T03:44:53.551000+00:00"
+    "timestamp": "2025-09-25T03:44:53.551000+00:00",
+    "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net"
   },
   {
     "message_id": "1420063796512424086",
@@ -2570,7 +2700,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1420063796512424086",
-    "timestamp": "2025-09-23T15:06:32.598000+00:00"
+    "timestamp": "2025-09-23T15:06:32.598000+00:00",
+    "twitter": "https://x.com/lia_aixyz/status/1970383757510365203"
   },
   {
     "message_id": "1419999502550696016",
@@ -2672,7 +2803,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1419651258436030554",
-    "timestamp": "2025-09-22T11:47:15.856000+00:00"
+    "timestamp": "2025-09-22T11:47:15.856000+00:00",
+    "twitter": "https://x.com/KozodubAlena"
   },
   {
     "message_id": "1418220192881836083",
@@ -2742,7 +2874,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1416837422712492192",
-    "timestamp": "2025-09-14T17:26:05.141000+00:00"
+    "timestamp": "2025-09-14T17:26:05.141000+00:00",
+    "linkedin": "https://www.linkedin.com/in/terrytangyuan/",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1416457681509814332",
@@ -2778,7 +2913,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1414527160454217758",
-    "timestamp": "2025-09-08T08:25:55.696000+00:00"
+    "timestamp": "2025-09-08T08:25:55.696000+00:00",
+    "bio": "We are changing."
   },
   {
     "message_id": "1413973028223717660",
@@ -2831,7 +2967,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1413881229111201973",
-    "timestamp": "2025-09-06T13:39:13.663000+00:00"
+    "timestamp": "2025-09-06T13:39:13.663000+00:00",
+    "bio": "Meowwwww"
   },
   {
     "message_id": "1413631124520829008",
@@ -2848,7 +2985,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/882748207996760164/1413631124520829008",
-    "timestamp": "2025-09-05T21:05:24.082000+00:00"
+    "timestamp": "2025-09-05T21:05:24.082000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1413631035987595326",
@@ -2865,7 +3004,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1413631035987595326",
-    "timestamp": "2025-09-05T21:05:02.974000+00:00"
+    "timestamp": "2025-09-05T21:05:02.974000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1413236921311825950",
@@ -2969,7 +3110,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/985636953749848114/1411463498952736788",
-    "timestamp": "2025-08-30T21:32:01.874000+00:00"
+    "timestamp": "2025-08-30T21:32:01.874000+00:00",
+    "website": "https://arc.markbarney.net",
+    "bio": "Eccentric, Yorkshire Terrier and LLM enthusiast, ARC Prize fan  https://arc.markbarney.net"
   },
   {
     "message_id": "1411029561587798159",
@@ -2986,7 +3129,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1411029561587798159",
-    "timestamp": "2025-08-29T16:47:43.144000+00:00"
+    "timestamp": "2025-08-29T16:47:43.144000+00:00",
+    "github": "https://github.com/XBastille",
+    "bio": "AI Researcher specialized in Computer Vision and Generative Models :this: :grandmaster: :sparklestars:",
+    "real_name": "XBastille"
   },
   {
     "message_id": "1410268959445487757",
@@ -3022,7 +3168,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1409907047931056158",
-    "timestamp": "2025-08-26T14:27:15.033000+00:00"
+    "timestamp": "2025-08-26T14:27:15.033000+00:00",
+    "bio": "We are changing."
   },
   {
     "message_id": "1409559432601538663",
@@ -3090,7 +3237,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1408060312770580592",
-    "timestamp": "2025-08-21T12:08:59.060000+00:00"
+    "timestamp": "2025-08-21T12:08:59.060000+00:00",
+    "bio": "Fear neither hardship nor darkness"
   },
   {
     "message_id": "1407800480884588546",
@@ -3124,7 +3272,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1407728918064005211",
-    "timestamp": "2025-08-20T14:12:08.405000+00:00"
+    "timestamp": "2025-08-20T14:12:08.405000+00:00",
+    "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7362932566431076352/"
   },
   {
     "message_id": "1407465119641768006",
@@ -3158,7 +3307,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/759480675455205417/1407345480291188867",
-    "timestamp": "2025-08-19T12:48:29.716000+00:00"
+    "timestamp": "2025-08-19T12:48:29.716000+00:00",
+    "bio": "Spacecraft Mission and Instrument Development, Planetary Surface Processes, Data Integration and Machine Learning Methods for Remote Sensing, Education Modernization. theTinker"
   },
   {
     "message_id": "1406818879904157759",
@@ -3209,7 +3359,13 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1269724655405498429/1405640608181260299",
-    "timestamp": "2025-08-14T19:53:56.530000+00:00"
+    "timestamp": "2025-08-14T19:53:56.530000+00:00",
+    "twitter": "https://x.com/tjbecker_/status/1956081184611688667",
+    "github": "https://github.com/tim-becker",
+    "website": "https://code.xint.io",
+    "bio": "Researcher at Theori working on Xint\n\nhttps://x.com/tjbecker\nhttps://github.com/tim-becker\nhttps://code.xint.io",
+    "real_name": "Tim Becker",
+    "company": "Theori"
   },
   {
     "message_id": "1404683171773157406",
@@ -3245,7 +3401,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1404643701120176200",
-    "timestamp": "2025-08-12T01:52:35.365000+00:00"
+    "timestamp": "2025-08-12T01:52:35.365000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1404638953604120637",
@@ -3262,7 +3420,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1404638953604120637",
-    "timestamp": "2025-08-12T01:33:43.469000+00:00"
+    "timestamp": "2025-08-12T01:33:43.469000+00:00",
+    "bio": "family and machine learning"
   },
   {
     "message_id": "1404440376529649664",
@@ -3281,7 +3440,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1404440376529649664",
-    "timestamp": "2025-08-11T12:24:39.005000+00:00"
+    "timestamp": "2025-08-11T12:24:39.005000+00:00",
+    "twitter": "https://x.com/_ar9av",
+    "bio": "ar9av.in"
   },
   {
     "message_id": "1403808208379838654",
@@ -3417,7 +3578,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1402026935269327019",
-    "timestamp": "2025-08-04T20:34:29.769000+00:00"
+    "timestamp": "2025-08-04T20:34:29.769000+00:00",
+    "github": "https://github.com/fractaldna22",
+    "bio": "\"If you're so hollowed-out by irony and doomscrolling that raw joy feels like an attack, maybe it's not the tone that's the problem—but the deadness you're defending.”"
   },
   {
     "message_id": "1402023703536992266",
@@ -3434,7 +3597,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1402023703536992266",
-    "timestamp": "2025-08-04T20:21:39.264000+00:00"
+    "timestamp": "2025-08-04T20:21:39.264000+00:00",
+    "twitter": "https://x.com/garythung"
   },
   {
     "message_id": "1401324026927775837",
@@ -3451,7 +3615,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/992083360719581194/1401324026927775837",
-    "timestamp": "2025-08-02T22:01:23.361000+00:00"
+    "timestamp": "2025-08-02T22:01:23.361000+00:00",
+    "github": "https://github.com/BouajilaHamza",
+    "real_name": "Hamza Bouajila"
   },
   {
     "message_id": "1401220879978856490",
@@ -3519,7 +3685,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1399947558419169330",
-    "timestamp": "2025-07-30T02:51:47.695000+00:00"
+    "timestamp": "2025-07-30T02:51:47.695000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/nadiveedishravanreddy_ai-hackathon-qwen-ugcPost-7355265897877434369-7RI5?utm_source=share&utm_medium=member_android&rcm=ACoAADX5z6YBuglxAEU8qLTSpw8ONQlWu0Yd44Q",
+    "bio": "Artificial intelligence"
   },
   {
     "message_id": "1399859375576977439",
@@ -3536,7 +3704,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1399859375576977439",
-    "timestamp": "2025-07-29T21:01:23.267000+00:00"
+    "timestamp": "2025-07-29T21:01:23.267000+00:00",
+    "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net"
   },
   {
     "message_id": "1399846143344775350",
@@ -3553,7 +3722,13 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1399846143344775350",
-    "timestamp": "2025-07-29T20:08:48.457000+00:00"
+    "timestamp": "2025-07-29T20:08:48.457000+00:00",
+    "github": "https://github.com/vkkhare",
+    "twitter": "https://x.com/AKAvkkhare",
+    "bio": "Founder/Researcher/Developer\n\nWorking on awesome projects in machine learning, privacy and edge computing\n\nBuilding @nimbleedge @deliteai",
+    "website": "https://nimbleedge.com",
+    "real_name": "Varun Khare",
+    "company": "NimbleEdge"
   },
   {
     "message_id": "1398449776592289886",
@@ -3587,7 +3762,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1398370049500119092",
-    "timestamp": "2025-07-25T18:23:20.260000+00:00"
+    "timestamp": "2025-07-25T18:23:20.260000+00:00",
+    "bio": "Everyone has the potential to create wealth. If you lack the skills, we can work together to succeed."
   },
   {
     "message_id": "1398012066530590870",
@@ -3604,7 +3780,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1398012066530590870",
-    "timestamp": "2025-07-24T18:40:50.469000+00:00"
+    "timestamp": "2025-07-24T18:40:50.469000+00:00",
+    "website": "https://promila.info/",
+    "bio": "Hi, I’m Promila! 👋\nI’m into NLP, speech recognition, and building AI solutions. \nCurrently working on open source projects and always happy to contribute!\n\n🌐 https://promila.info/"
   },
   {
     "message_id": "1397994527184257075",
@@ -3655,7 +3833,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1397645648203091969",
-    "timestamp": "2025-07-23T18:24:49.532000+00:00"
+    "timestamp": "2025-07-23T18:24:49.532000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1395537402369540249",
@@ -3672,7 +3851,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1395537402369540249",
-    "timestamp": "2025-07-17T22:47:24.556000+00:00"
+    "timestamp": "2025-07-17T22:47:24.556000+00:00",
+    "linkedin": "https://www.linkedin.com/in/div-s/"
   },
   {
     "message_id": "1395484650230775961",
@@ -3742,7 +3922,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1394902487882006578",
-    "timestamp": "2025-07-16T04:44:29.146000+00:00"
+    "timestamp": "2025-07-16T04:44:29.146000+00:00",
+    "bio": "family and machine learning"
   },
   {
     "message_id": "1393276288155910326",
@@ -3759,7 +3940,13 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1393276288155910326",
-    "timestamp": "2025-07-11T17:02:32.918000+00:00"
+    "timestamp": "2025-07-11T17:02:32.918000+00:00",
+    "github": "https://github.com/vkkhare",
+    "twitter": "https://x.com/AKAvkkhare",
+    "bio": "Founder/Researcher/Developer\n\nWorking on awesome projects in machine learning, privacy and edge computing\n\nBuilding @nimbleedge @deliteai",
+    "website": "https://nimbleedge.com",
+    "real_name": "Varun Khare",
+    "company": "NimbleEdge"
   },
   {
     "message_id": "1392621642911449263",
@@ -3793,7 +3980,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1392580799026692136",
-    "timestamp": "2025-07-09T18:58:55.388000+00:00"
+    "timestamp": "2025-07-09T18:58:55.388000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1390969449145696287",
@@ -3931,7 +4119,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1387559453607591969",
-    "timestamp": "2025-06-25T22:25:53.348000+00:00"
+    "timestamp": "2025-06-25T22:25:53.348000+00:00",
+    "bio": "Passionate and Enthusiastic💯 😆 💪"
   },
   {
     "message_id": "1387559314029285409",
@@ -3948,7 +4137,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1387559314029285409",
-    "timestamp": "2025-06-25T22:25:20.070000+00:00"
+    "timestamp": "2025-06-25T22:25:20.070000+00:00",
+    "bio": "Passionate and Enthusiastic💯 😆 💪"
   },
   {
     "message_id": "1387074682070634496",
@@ -3965,7 +4155,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1387074682070634496",
-    "timestamp": "2025-06-24T14:19:34.807000+00:00"
+    "timestamp": "2025-06-24T14:19:34.807000+00:00",
+    "website": "https://massivehorde.substack.com",
+    "bio": "Game Jam Discord:\nhttps://discord.gg/pX7M4Hn5DE\nhttps://massivehorde.substack.com"
   },
   {
     "message_id": "1387019619381936208",
@@ -3982,7 +4174,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1387019619381936208",
-    "timestamp": "2025-06-24T10:40:46.839000+00:00"
+    "timestamp": "2025-06-24T10:40:46.839000+00:00",
+    "bio": "he/him"
   },
   {
     "message_id": "1386867066077708298",
@@ -3999,7 +4192,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1386867066077708298",
-    "timestamp": "2025-06-24T00:34:35.297000+00:00"
+    "timestamp": "2025-06-24T00:34:35.297000+00:00",
+    "website": "https://massivehorde.substack.com",
+    "bio": "Game Jam Discord:\nhttps://discord.gg/pX7M4Hn5DE\nhttps://massivehorde.substack.com"
   },
   {
     "message_id": "1386684035408986172",
@@ -4016,7 +4211,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1386684035408986172",
-    "timestamp": "2025-06-23T12:27:17.385000+00:00"
+    "timestamp": "2025-06-23T12:27:17.385000+00:00",
+    "bio": "Meowwwww"
   },
   {
     "message_id": "1385985692034797768",
@@ -4239,7 +4435,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1379231445494530070",
-    "timestamp": "2025-06-02T22:53:21.487000+00:00"
+    "timestamp": "2025-06-02T22:53:21.487000+00:00",
+    "bio": "AI Alignment"
   },
   {
     "message_id": "1377352657244655726",
@@ -4258,7 +4455,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1377352657244655726",
-    "timestamp": "2025-05-28T18:27:43.462000+00:00"
+    "timestamp": "2025-05-28T18:27:43.462000+00:00",
+    "website": "https://promila.info/",
+    "bio": "Hi, I’m Promila! 👋\nI’m into NLP, speech recognition, and building AI solutions. \nCurrently working on open source projects and always happy to contribute!\n\n🌐 https://promila.info/"
   },
   {
     "message_id": "1377130949426417676",
@@ -4328,7 +4527,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1376585237810647072",
-    "timestamp": "2025-05-26T15:38:16.411000+00:00"
+    "timestamp": "2025-05-26T15:38:16.411000+00:00",
+    "bio": "Everyone has the potential to create wealth. If you lack the skills, we can work together to succeed."
   },
   {
     "message_id": "1376221348304523315",
@@ -4398,7 +4598,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1375232478347788299",
-    "timestamp": "2025-05-22T22:02:53.422000+00:00"
+    "timestamp": "2025-05-22T22:02:53.422000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1375141932375871600",
@@ -4432,7 +4633,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1373920073042886676",
-    "timestamp": "2025-05-19T07:07:51.614000+00:00"
+    "timestamp": "2025-05-19T07:07:51.614000+00:00",
+    "bio": "Ban da wani sai kai"
   },
   {
     "message_id": "1373878986899193877",
@@ -4449,7 +4651,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1373878986899193877",
-    "timestamp": "2025-05-19T04:24:35.914000+00:00"
+    "timestamp": "2025-05-19T04:24:35.914000+00:00",
+    "bio": "Ban da wani sai kai"
   },
   {
     "message_id": "1373491838861709433",
@@ -4483,7 +4686,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1372922966895235146",
-    "timestamp": "2025-05-16T13:05:42.983000+00:00"
+    "timestamp": "2025-05-16T13:05:42.983000+00:00",
+    "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7329104815861477376/"
   },
   {
     "message_id": "1372736674500444230",
@@ -4500,7 +4704,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/860540580513579018/1372736674500444230",
-    "timestamp": "2025-05-16T00:45:27.415000+00:00"
+    "timestamp": "2025-05-16T00:45:27.415000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "real_name": "Burny"
   },
   {
     "message_id": "1371624923465908254",
@@ -4604,7 +4813,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1369852388973744159",
-    "timestamp": "2025-05-08T01:44:20.158000+00:00"
+    "timestamp": "2025-05-08T01:44:20.158000+00:00",
+    "website": "https://www.patreon.com/AndyShanu",
+    "bio": "Please join: https://www.patreon.com/AndyShanu"
   },
   {
     "message_id": "1369717900377854094",
@@ -4638,7 +4849,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1369716304797368390",
-    "timestamp": "2025-05-07T16:43:35.162000+00:00"
+    "timestamp": "2025-05-07T16:43:35.162000+00:00",
+    "github": "https://github.com/evidentlyai/evidently",
+    "bio": "I build https://github.com/evidentlyai/evidently and mostly hang out in this ML in production discord https://discord.com/invite/xZjKRaNp8b"
   },
   {
     "message_id": "1369584341725876265",
@@ -4672,7 +4885,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1369506693964107907",
-    "timestamp": "2025-05-07T02:50:40.045000+00:00"
+    "timestamp": "2025-05-07T02:50:40.045000+00:00",
+    "twitter": "https://x.com/eric_wwf_cpunks"
   },
   {
     "message_id": "1369342542784757931",
@@ -4706,7 +4920,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1226572230935187538/1367627818464448573",
-    "timestamp": "2025-05-01T22:24:41.218000+00:00"
+    "timestamp": "2025-05-01T22:24:41.218000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1367559832512757930",
@@ -4740,7 +4955,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/985636953749848114/1367047656676786277",
-    "timestamp": "2025-04-30T07:59:19.869000+00:00"
+    "timestamp": "2025-04-30T07:59:19.869000+00:00",
+    "github": "https://github.com/neoneye",
+    "website": "https://neoneye.github.io/",
+    "bio": "My homepage\nhttps://neoneye.github.io/",
+    "twitter": "https://x.com/SimonStran36407",
+    "real_name": "Simon Strandgaard"
   },
   {
     "message_id": "1366774410891231375",
@@ -4774,7 +4994,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1366301830937841754",
-    "timestamp": "2025-04-28T06:35:41.156000+00:00"
+    "timestamp": "2025-04-28T06:35:41.156000+00:00",
+    "website": "https://promila.info/",
+    "bio": "Hi, I’m Promila! 👋\nI’m into NLP, speech recognition, and building AI solutions. \nCurrently working on open source projects and always happy to contribute!\n\n🌐 https://promila.info/"
   },
   {
     "message_id": "1363071797045628938",
@@ -4791,7 +5013,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1363071797045628938",
-    "timestamp": "2025-04-19T08:40:41.065000+00:00"
+    "timestamp": "2025-04-19T08:40:41.065000+00:00",
+    "bio": "Just another guy existing in this universe & navigating life  |  Into AI/ML, Technology, Star Talks, Minecraft, Etc. Socials : mostly '@arjunraghunandanan'  |  IST, GMT+5:30   |   Earth-1218"
   },
   {
     "message_id": "1363071769778327655",
@@ -4808,7 +5031,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1363071769778327655",
-    "timestamp": "2025-04-19T08:40:34.564000+00:00"
+    "timestamp": "2025-04-19T08:40:34.564000+00:00",
+    "bio": "Just another guy existing in this universe & navigating life  |  Into AI/ML, Technology, Star Talks, Minecraft, Etc. Socials : mostly '@arjunraghunandanan'  |  IST, GMT+5:30   |   Earth-1218"
   },
   {
     "message_id": "1362403205488705747",
@@ -4825,7 +5049,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1362403205488705747",
-    "timestamp": "2025-04-17T12:23:56.416000+00:00"
+    "timestamp": "2025-04-17T12:23:56.416000+00:00",
+    "github": "https://github.com/Bartosz-G",
+    "website": "https://gawin-ml.com/?g=dBsz7",
+    "bio": "Website: https://gawin-ml.com/?g=dBsz7",
+    "real_name": "Bartosz"
   },
   {
     "message_id": "1362383295022628915",
@@ -4842,7 +5070,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1362383295022628915",
-    "timestamp": "2025-04-17T11:04:49.391000+00:00"
+    "timestamp": "2025-04-17T11:04:49.391000+00:00",
+    "website": "https://promila.info/",
+    "bio": "Hi, I’m Promila! 👋\nI’m into NLP, speech recognition, and building AI solutions. \nCurrently working on open source projects and always happy to contribute!\n\n🌐 https://promila.info/"
   },
   {
     "message_id": "1361810933764063362",
@@ -4893,7 +5123,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1361395885019369525",
-    "timestamp": "2025-04-14T17:41:12.501000+00:00"
+    "timestamp": "2025-04-14T17:41:12.501000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1360868219686224045",
@@ -4944,7 +5175,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/860540580513579018/1359913411898507385",
-    "timestamp": "2025-04-10T15:30:23.366000+00:00"
+    "timestamp": "2025-04-10T15:30:23.366000+00:00",
+    "bio": "Math and CS"
   },
   {
     "message_id": "1359348002447298671",
@@ -4961,7 +5193,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1359348002447298671",
-    "timestamp": "2025-04-09T02:03:39.248000+00:00"
+    "timestamp": "2025-04-09T02:03:39.248000+00:00",
+    "bio": "🔥🕊️🫂"
   },
   {
     "message_id": "1359164013304615143",
@@ -5048,7 +5281,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1357255234405011457",
-    "timestamp": "2025-04-03T07:27:44.465000+00:00"
+    "timestamp": "2025-04-03T07:27:44.465000+00:00",
+    "bio": "[Developer]\nNext.js, HeroUI(NextUI), Supabase✨"
   },
   {
     "message_id": "1357087288273801377",
@@ -5065,7 +5299,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1357087288273801377",
-    "timestamp": "2025-04-02T20:20:22.987000+00:00"
+    "timestamp": "2025-04-02T20:20:22.987000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/jack-muller-b56450113_platform-engineer-activity-7313264580162396161-3j08",
+    "bio": "George1: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nI love talking about random stuff n makin' Art, lov3 makin' new pals!! hmu if ur 3pic\n\nSingularities don't exist -Roy Kerr"
   },
   {
     "message_id": "1355636519519523121",
@@ -5082,7 +5318,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1355636519519523121",
-    "timestamp": "2025-03-29T20:15:32.762000+00:00"
+    "timestamp": "2025-03-29T20:15:32.762000+00:00",
+    "bio": "Become the impossible!!"
   },
   {
     "message_id": "1355572686553616516",
@@ -5152,7 +5389,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1354476335246086315",
-    "timestamp": "2025-03-26T15:25:23.276000+00:00"
+    "timestamp": "2025-03-26T15:25:23.276000+00:00",
+    "bio": "there will be no explanation there will just be reputation"
   },
   {
     "message_id": "1354444692720451594",
@@ -5256,7 +5494,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1351643141857476709",
-    "timestamp": "2025-03-18T19:47:17.334000+00:00"
+    "timestamp": "2025-03-18T19:47:17.334000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1350897753143902252",
@@ -5360,7 +5599,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1347687591331364936",
-    "timestamp": "2025-03-07T21:49:20.598000+00:00"
+    "timestamp": "2025-03-07T21:49:20.598000+00:00",
+    "website": "https://withcharcoal.com",
+    "bio": "Founder https://withcharcoal.com\n\nPersonal: https://robechun.com/"
   },
   {
     "message_id": "1346691064932732970",
@@ -5445,7 +5686,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/864261571646717974/1345489172072235019",
-    "timestamp": "2025-03-01T20:13:36.602000+00:00"
+    "timestamp": "2025-03-01T20:13:36.602000+00:00",
+    "twitter": "https://x.com/camilothorne",
+    "linkedin": "https://www.linkedin.com/in/camilothorne/",
+    "bio": "NLP practicioner based in Germany.  https://www.linkedin.com/in/camilothorne/"
   },
   {
     "message_id": "1345451771266596904",
@@ -5513,7 +5757,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1342575716541137046",
-    "timestamp": "2025-02-21T19:16:34.674000+00:00"
+    "timestamp": "2025-02-21T19:16:34.674000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1342284757530050570",
@@ -5568,7 +5814,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1341218599246762024",
-    "timestamp": "2025-02-18T01:23:52.697000+00:00"
+    "timestamp": "2025-02-18T01:23:52.697000+00:00",
+    "bio": "Early-stage Investor; HYSTA Founders Club (incubator); Females in AI community;"
   },
   {
     "message_id": "1340682050537000960",
@@ -5670,7 +5917,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1337396691841847328",
-    "timestamp": "2025-02-07T12:16:58.964000+00:00"
+    "timestamp": "2025-02-07T12:16:58.964000+00:00",
+    "bio": "I'm a designer working right now on helping create an AI driven business."
   },
   {
     "message_id": "1337331659254665278",
@@ -5689,7 +5937,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1337331659254665278",
-    "timestamp": "2025-02-07T07:58:33.987000+00:00"
+    "timestamp": "2025-02-07T07:58:33.987000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1336988817059745802",
@@ -5740,7 +5989,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1335793348711288854",
-    "timestamp": "2025-02-03T02:05:52.173000+00:00"
+    "timestamp": "2025-02-03T02:05:52.173000+00:00",
+    "bio": "Ti Guo (郭天宇). Spelled just like Texas Instrument\n- AI Community @ MiniMax, LLM @ IBM, Effective Altruism, OpenPrinciples.org\n- Learn about me at tiguo.net"
   },
   {
     "message_id": "1334632219481870399",
@@ -5774,7 +6024,13 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1334514359421894758",
-    "timestamp": "2025-01-30T13:23:37.364000+00:00"
+    "timestamp": "2025-01-30T13:23:37.364000+00:00",
+    "github": "https://github.com/dalmia",
+    "twitter": "https://x.com/dalmiaman",
+    "website": "https://amandalmia.substack.com",
+    "bio": "LLMs + Legal @HyperVerge\n\nWriting: https://amandalmia.substack.com",
+    "real_name": "Aman Dalmia",
+    "company": "HyperVerge"
   },
   {
     "message_id": "1334275103957057691",
@@ -5793,7 +6049,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1334275103957057691",
-    "timestamp": "2025-01-29T21:32:54.416000+00:00"
+    "timestamp": "2025-01-29T21:32:54.416000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1334272254024093756",
@@ -5827,7 +6084,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1333802398556098610",
-    "timestamp": "2025-01-28T14:14:32.666000+00:00"
+    "timestamp": "2025-01-28T14:14:32.666000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1333654777954828309",
@@ -5861,7 +6120,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/793158435855663154/1333511180958044190",
-    "timestamp": "2025-01-27T18:57:20.980000+00:00"
+    "timestamp": "2025-01-27T18:57:20.980000+00:00",
+    "bio": "We're on a rock floating through space.\n\nFind your inner strength\nFace your obstacles\nOwn your life\nSeek challenges\nPush your limits\nStay healthy in mind and body\nDo good\nLive a little"
   },
   {
     "message_id": "1333338715568996474",
@@ -5914,7 +6174,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1332529466886328330",
-    "timestamp": "2025-01-25T01:56:22.106000+00:00"
+    "timestamp": "2025-01-25T01:56:22.106000+00:00",
+    "twitter": "https://x.com/TheVariational/status/1882141592573927755",
+    "website": "https://www.thevariationalbook.com/",
+    "bio": "Computer scientist + biomedical engineer.\n\nStay up to date with my 📖 The Variational Book: https://www.thevariationalbook.com/ or on 𝕏 @TheVariational"
   },
   {
     "message_id": "1331847177647030302",
@@ -5931,7 +6194,11 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1331847177647030302",
-    "timestamp": "2025-01-23T04:45:11.675000+00:00"
+    "timestamp": "2025-01-23T04:45:11.675000+00:00",
+    "github": "https://github.com/RheagalFire",
+    "website": "https://behavior.systems/",
+    "real_name": "Aarish Alam",
+    "company": "ScaledFocus"
   },
   {
     "message_id": "1331367402893475903",
@@ -5948,7 +6215,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1331367402893475903",
-    "timestamp": "2025-01-21T20:58:44.460000+00:00"
+    "timestamp": "2025-01-21T20:58:44.460000+00:00",
+    "bio": "because we're the same person"
   },
   {
     "message_id": "1331334728829243412",
@@ -5965,7 +6233,12 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1331334728829243412",
-    "timestamp": "2025-01-21T18:48:54.356000+00:00"
+    "timestamp": "2025-01-21T18:48:54.356000+00:00",
+    "github": "https://github.com/ScienceStanley",
+    "twitter": "https://x.com/ScienceStanley",
+    "bio": "Your friendly neighborhood AI-scientist. 🥼",
+    "website": "https://www.stanley.science",
+    "real_name": "sciencestanley"
   },
   {
     "message_id": "1331130017308213370",
@@ -5982,7 +6255,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1331130017308213370",
-    "timestamp": "2025-01-21T05:15:27.326000+00:00"
+    "timestamp": "2025-01-21T05:15:27.326000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/sanatl_music-happybirthday-codingfun-activity-7286602010148134912-Nn69?utm_source=share&utm_medium=member_desktop",
+    "github": "https://github.com/sanatladkat",
+    "bio": "The matrix is everywhere!",
+    "website": "https://sanatladkat.github.io/portfolio/",
+    "real_name": "Sanat Ladkat"
   },
   {
     "message_id": "1330218294560555038",
@@ -6018,7 +6296,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1329191527175553084",
-    "timestamp": "2025-01-15T20:52:35.263000+00:00"
+    "timestamp": "2025-01-15T20:52:35.263000+00:00",
+    "linkedin": "https://www.linkedin.com/jobs/view/staff-machine-learning-operations-mlops-engineer-at-grubhub-4119811967/"
   },
   {
     "message_id": "1328928382812950631",
@@ -6069,7 +6348,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1328734718702911510",
-    "timestamp": "2025-01-14T14:37:23.636000+00:00"
+    "timestamp": "2025-01-14T14:37:23.636000+00:00",
+    "bio": "🥐 🤙"
   },
   {
     "message_id": "1327812659952881768",
@@ -6173,7 +6453,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1327101122086961233",
-    "timestamp": "2025-01-10T02:26:03.852000+00:00"
+    "timestamp": "2025-01-10T02:26:03.852000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/isham-rashik-5a547711b_machinelearning-deeplearning-artificialintelligence-ugcPost-7282117485712003074-M_wX",
+    "bio": "https://www.linkedin.com/in/isham-rashik-5a547711b/"
   },
   {
     "message_id": "1326703687719981066",
@@ -6224,7 +6506,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1326255868408496240",
-    "timestamp": "2025-01-07T18:27:19.671000+00:00"
+    "timestamp": "2025-01-07T18:27:19.671000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1326192464909959218",
@@ -6241,7 +6524,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1326192464909959218",
-    "timestamp": "2025-01-07T14:15:23.099000+00:00"
+    "timestamp": "2025-01-07T14:15:23.099000+00:00",
+    "website": "http://www.hanakano.com",
+    "bio": "Conversational AI consultant \nhttp://www.hanakano.com"
   },
   {
     "message_id": "1325927129979818037",
@@ -6258,7 +6543,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1325927129979818037",
-    "timestamp": "2025-01-06T20:41:02.322000+00:00"
+    "timestamp": "2025-01-06T20:41:02.322000+00:00",
+    "linkedin": "https://www.linkedin.com/hiring/jobs/4115482936"
   },
   {
     "message_id": "1324909458220122212",
@@ -6275,7 +6561,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/828325357102432327/1324909458220122212",
-    "timestamp": "2025-01-04T01:17:10.467000+00:00"
+    "timestamp": "2025-01-04T01:17:10.467000+00:00",
+    "bio": "I prefer responding in public over DMs"
   },
   {
     "message_id": "1324875633175822479",
@@ -6309,7 +6596,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/828325357102432327/1324365540906504275",
-    "timestamp": "2025-01-02T13:15:50.474000+00:00"
+    "timestamp": "2025-01-02T13:15:50.474000+00:00",
+    "bio": "riding the concavities and convexities of life, one step at a time :)"
   },
   {
     "message_id": "1323528474857701446",
@@ -6326,7 +6614,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1323528474857701446",
-    "timestamp": "2024-12-31T05:49:38.376000+00:00"
+    "timestamp": "2024-12-31T05:49:38.376000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/people-gains_activity-7270754589111443457-ecLH"
   },
   {
     "message_id": "1322879171856302081",
@@ -6377,7 +6666,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1321453315271168021",
-    "timestamp": "2024-12-25T12:23:41.776000+00:00"
+    "timestamp": "2024-12-25T12:23:41.776000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/bhatia-siddharth_machinelearning-hiring-internship-activity-7277571475795034112-06vy",
+    "bio": "......."
   },
   {
     "message_id": "1320620569175265320",
@@ -6447,7 +6738,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1317646813268017254",
-    "timestamp": "2024-12-15T00:18:00.977000+00:00"
+    "timestamp": "2024-12-15T00:18:00.977000+00:00",
+    "linkedin": "https://www.linkedin.com/in/cwojtak/"
   },
   {
     "message_id": "1317169560457052170",
@@ -6481,7 +6773,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1316497802456731700",
-    "timestamp": "2024-12-11T20:12:15.452000+00:00"
+    "timestamp": "2024-12-11T20:12:15.452000+00:00",
+    "bio": "Devrel @Unify AI"
   },
   {
     "message_id": "1316398633414819851",
@@ -6498,7 +6791,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199202541928478/1316398633414819851",
-    "timestamp": "2024-12-11T13:38:11.710000+00:00"
+    "timestamp": "2024-12-11T13:38:11.710000+00:00",
+    "github": "https://github.com/Francesco215",
+    "twitter": "https://x.com/FrancescoSacco1",
+    "bio": "Addomesticatore professionista di zanzare\nProfessional mosquito tamer",
+    "website": "https://Francesco215.github.io",
+    "real_name": "Francesco Sacco"
   },
   {
     "message_id": "1316352189702344736",
@@ -6534,7 +6832,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1316340516547461162",
-    "timestamp": "2024-12-11T09:47:15.569000+00:00"
+    "timestamp": "2024-12-11T09:47:15.569000+00:00",
+    "website": "https://www.rerun.io.",
+    "bio": "Computer vision / ML engineer and founder of https://www.rerun.io. We're building incredibly powerful visual printf-style debugging for computer vision."
   },
   {
     "message_id": "1316165282372522034",
@@ -6585,7 +6885,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1315567352670326804",
-    "timestamp": "2024-12-09T06:34:58.936000+00:00"
+    "timestamp": "2024-12-09T06:34:58.936000+00:00",
+    "bio": "I prefer responding in public over DMs"
   },
   {
     "message_id": "1314896670521294938",
@@ -6655,7 +6956,13 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1312900346212782180",
-    "timestamp": "2024-12-01T21:57:15.046000+00:00"
+    "timestamp": "2024-12-01T21:57:15.046000+00:00",
+    "github": "https://github.com/mertbozkir",
+    "twitter": "https://x.com/mert_xai",
+    "website": "https://llmengineer.substack.com",
+    "bio": "AI Engineer @ngc-consulting\n\nFor more: https://llmengineer.substack.com",
+    "real_name": "Mert Bozkir",
+    "company": "NGC"
   },
   {
     "message_id": "1311351166608867430",
@@ -6672,7 +6979,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1311351166608867430",
-    "timestamp": "2024-11-27T15:21:21.846000+00:00"
+    "timestamp": "2024-11-27T15:21:21.846000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1311140466716184628",
@@ -6723,7 +7031,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1309415556788785182",
-    "timestamp": "2024-11-22T07:09:56.503000+00:00"
+    "timestamp": "2024-11-22T07:09:56.503000+00:00",
+    "website": "https://praful932.dev/",
+    "bio": "https://praful932.dev/"
   },
   {
     "message_id": "1309202652902457345",
@@ -6774,7 +7084,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1307936820000194600",
-    "timestamp": "2024-11-18T05:13:58.179000+00:00"
+    "timestamp": "2024-11-18T05:13:58.179000+00:00",
+    "twitter": "https://x.com/Chi_Wang_/status/1857794803905474950"
   },
   {
     "message_id": "1307785466988462150",
@@ -6825,7 +7136,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1306993971335266304",
-    "timestamp": "2024-11-15T14:47:25.540000+00:00"
+    "timestamp": "2024-11-15T14:47:25.540000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1306577140136935434",
@@ -6842,7 +7155,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1306577140136935434",
-    "timestamp": "2024-11-14T11:11:05.238000+00:00"
+    "timestamp": "2024-11-14T11:11:05.238000+00:00",
+    "linkedin": "https://www.linkedin.com/in/naiyarah",
+    "bio": "Your resident AI Safety Engineer ✌️\nhttps://www.linkedin.com/in/naiyarah"
   },
   {
     "message_id": "1306448834096009226",
@@ -6876,7 +7191,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1306402521333502074",
-    "timestamp": "2024-11-13T23:37:12.871000+00:00"
+    "timestamp": "2024-11-13T23:37:12.871000+00:00",
+    "bio": "Architected and operationalized a fully autonomous, multi-timeframe, world-model-driven trading system that now self-monitors, self-recovers, and continuously learns from live outcomes."
   },
   {
     "message_id": "1305921102832209920",
@@ -6893,7 +7209,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1305921102832209920",
-    "timestamp": "2024-11-12T15:44:13.756000+00:00"
+    "timestamp": "2024-11-12T15:44:13.756000+00:00",
+    "github": "https://github.com/Techie5879",
+    "website": "https://techie5879.github.io/",
+    "real_name": "Aritra Bandyopadhyay",
+    "company": "@BrighterwayAI"
   },
   {
     "message_id": "1305158697479307335",
@@ -6910,7 +7230,14 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1305158697479307335",
-    "timestamp": "2024-11-10T13:14:42.155000+00:00"
+    "timestamp": "2024-11-10T13:14:42.155000+00:00",
+    "github": "https://github.com/rolandtannous",
+    "linkedin": "https://www.linkedin.com/in/rolandjosephtannous/",
+    "website": "https://gravityq.ai",
+    "bio": "https://www.linkedin.com/in/rolandjosephtannous/\n\nhttps://gravityq.ai\n\nhttps://github.com/rolandtannous/",
+    "twitter": "https://x.com/rolandtannous",
+    "real_name": "Roland Tannous",
+    "company": "GravityQ"
   },
   {
     "message_id": "1305138866172198922",
@@ -6944,7 +7271,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1304902557843587154",
-    "timestamp": "2024-11-09T20:16:53.707000+00:00"
+    "timestamp": "2024-11-09T20:16:53.707000+00:00",
+    "website": "https://thephilosophyaddict.wordpress.com/",
+    "bio": "BLOG: https://thephilosophyaddict.wordpress.com/\nYOUTUBE: https://www.youtube.com/watch?v=-c_-cHUMOuY&ab_channel=ThePhilosophyAddict\n\nAlt of @Kattenelvis"
   },
   {
     "message_id": "1303576007541788683",
@@ -6961,7 +7290,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1303576007541788683",
-    "timestamp": "2024-11-06T04:25:39.469000+00:00"
+    "timestamp": "2024-11-06T04:25:39.469000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1303346205585182770",
@@ -6995,7 +7326,13 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1303055792173219922",
-    "timestamp": "2024-11-04T17:58:30.460000+00:00"
+    "timestamp": "2024-11-04T17:58:30.460000+00:00",
+    "github": "https://github.com/ammar20112001",
+    "twitter": "https://x.com/ammar_20112001",
+    "linkedin": "https://linkedin.com/in/ammarjawed/",
+    "website": "https://huggingface.co/spaces/ammar-20112001/portfolio",
+    "bio": "Artificial Intelligence Developer\n\nWebsite: https://huggingface.co/spaces/ammar-20112001/portfolio\nGithub: https://github.com/ammar20112001\nLinkedIn: https://linkedin.com/in/ammarjawed/",
+    "real_name": "Ammar Jawed"
   },
   {
     "message_id": "1302607355095154751",
@@ -7029,7 +7366,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1269724655405498429/1302423568801464382",
-    "timestamp": "2024-11-03T00:06:16.662000+00:00"
+    "timestamp": "2024-11-03T00:06:16.662000+00:00",
+    "website": "https://youtu.be/moulsYayvM4",
+    "bio": "https://youtu.be/moulsYayvM4"
   },
   {
     "message_id": "1302014758689443931",
@@ -7063,7 +7402,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1301999006947344569",
-    "timestamp": "2024-11-01T19:59:13.228000+00:00"
+    "timestamp": "2024-11-01T19:59:13.228000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1301722909592522752",
@@ -7082,7 +7423,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1301722909592522752",
-    "timestamp": "2024-11-01T01:42:06.489000+00:00"
+    "timestamp": "2024-11-01T01:42:06.489000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1301592882976784575",
@@ -7116,7 +7459,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1269724655405498429/1301471167479156777",
-    "timestamp": "2024-10-31T09:01:46.492000+00:00"
+    "timestamp": "2024-10-31T09:01:46.492000+00:00",
+    "twitter": "https://x.com/blinkdl_ai/status/1851671346054345133"
   },
   {
     "message_id": "1300768521592242216",
@@ -7167,7 +7511,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1299443318253555783",
-    "timestamp": "2024-10-25T18:43:49.561000+00:00"
+    "timestamp": "2024-10-25T18:43:49.561000+00:00",
+    "twitter": "https://twitter.com/whodatAM",
+    "linkedin": "https://www.linkedin.com/in/anannya-mishra/",
+    "bio": "https://twitter.com/whodatAM\nhttps://www.linkedin.com/in/anannya-mishra/"
   },
   {
     "message_id": "1299315712552206379",
@@ -7201,7 +7548,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1299137486869500016",
-    "timestamp": "2024-10-24T22:28:33.677000+00:00"
+    "timestamp": "2024-10-24T22:28:33.677000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1299137479802355802",
@@ -7218,7 +7567,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1299137479802355802",
-    "timestamp": "2024-10-24T22:28:31.992000+00:00"
+    "timestamp": "2024-10-24T22:28:31.992000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1298635436083777567",
@@ -7235,7 +7586,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1298635436083777567",
-    "timestamp": "2024-10-23T13:13:35.442000+00:00"
+    "timestamp": "2024-10-23T13:13:35.442000+00:00",
+    "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7254834230872993793/"
   },
   {
     "message_id": "1298398270405607466",
@@ -7269,7 +7621,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/860540580513579018/1297982491638104114",
-    "timestamp": "2024-10-21T17:59:01.355000+00:00"
+    "timestamp": "2024-10-21T17:59:01.355000+00:00",
+    "bio": "✨ Maybe the real \"all you need\" were the friends we made along the way. ✨"
   },
   {
     "message_id": "1297368489220243507",
@@ -7286,7 +7639,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1297368489220243507",
-    "timestamp": "2024-10-20T01:19:11.771000+00:00"
+    "timestamp": "2024-10-20T01:19:11.771000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/terrytangyuan_we-are-hiring-a-few-full-time-software-e[…",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1296847108585816115",
@@ -7303,7 +7659,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1296847108585816115",
-    "timestamp": "2024-10-18T14:47:24.941000+00:00"
+    "timestamp": "2024-10-18T14:47:24.941000+00:00",
+    "linkedin": "https://www.linkedin.com/pulse/fine-tuning-embeddings-domain-specific-nlp-premai-ws4uf/?trackingId=%2B%2FL5QZsJEpcJGGCkG2FI5A%3D%3D"
   },
   {
     "message_id": "1296728383316557824",
@@ -7337,7 +7694,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1295690515496570901",
-    "timestamp": "2024-10-15T10:11:31.660000+00:00"
+    "timestamp": "2024-10-15T10:11:31.660000+00:00",
+    "github": "https://github.com/SynaLinks/HybridAGI",
+    "linkedin": "https://www.linkedin.com/in/laetitiadelbanio/",
+    "bio": "Co-founder of SynaLinks\nPromoting Free and OpenSource neuro-symbolic AGI\nhttps://github.com/SynaLinks/HybridAGI\nFeel free to connect with me :)\nhttps://www.linkedin.com/in/laetitiadelbanio/"
   },
   {
     "message_id": "1294361383579680809",
@@ -7371,7 +7731,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1294210549726445649",
-    "timestamp": "2024-10-11T08:10:40.324000+00:00"
+    "timestamp": "2024-10-11T08:10:40.324000+00:00",
+    "github": "https://github.com/tanmay17061",
+    "bio": "Domain: ML, GenAI, and Engineering.\nFreelancing and building in stealth.\nEx-Machine Learning Engineer @ Skit.ai\nGithub: https://github.com/tanmay17061",
+    "real_name": "Tanmay Garg"
   },
   {
     "message_id": "1292813860088053771",
@@ -7541,7 +7904,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/759480675455205417/1289658583885025412",
-    "timestamp": "2024-09-28T18:42:47.096000+00:00"
+    "timestamp": "2024-09-28T18:42:47.096000+00:00",
+    "bio": "✨ Maybe the real \"all you need\" were the friends we made along the way. ✨"
   },
   {
     "message_id": "1289561218893221909",
@@ -7592,7 +7956,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1288281409974173697",
-    "timestamp": "2024-09-24T23:30:23.249000+00:00"
+    "timestamp": "2024-09-24T23:30:23.249000+00:00",
+    "bio": "Founder pretrain.com"
   },
   {
     "message_id": "1286978682854047804",
@@ -7609,7 +7974,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1286978682854047804",
-    "timestamp": "2024-09-21T09:13:48.900000+00:00"
+    "timestamp": "2024-09-21T09:13:48.900000+00:00",
+    "bio": "AI Student\nJKU\n🇺🇦🇦🇹"
   },
   {
     "message_id": "1286480824191025276",
@@ -7626,7 +7992,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1286480824191025276",
-    "timestamp": "2024-09-20T00:15:30.145000+00:00"
+    "timestamp": "2024-09-20T00:15:30.145000+00:00",
+    "bio": "Interested in a bunch of stuff including machine learning."
   },
   {
     "message_id": "1286079689768566854",
@@ -7713,7 +8080,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1284218605231280241",
-    "timestamp": "2024-09-13T18:26:15.115000+00:00"
+    "timestamp": "2024-09-13T18:26:15.115000+00:00",
+    "bio": "Early-stage Investor; HYSTA Founders Club (incubator); Females in AI community;"
   },
   {
     "message_id": "1284115228572913674",
@@ -7764,7 +8132,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1283342001621962762",
-    "timestamp": "2024-09-11T08:22:56.528000+00:00"
+    "timestamp": "2024-09-11T08:22:56.528000+00:00",
+    "linkedin": "https://www.linkedin.com/in/jjayasri"
   },
   {
     "message_id": "1281872017561227344",
@@ -7834,7 +8203,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/882748207996760164/1276549197470105744",
-    "timestamp": "2024-08-23T14:30:45.814000+00:00"
+    "timestamp": "2024-08-23T14:30:45.814000+00:00",
+    "bio": "Manifestation of my own imagination."
   },
   {
     "message_id": "1276516471790505985",
@@ -7868,7 +8238,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1276367828345163859",
-    "timestamp": "2024-08-23T02:30:04.045000+00:00"
+    "timestamp": "2024-08-23T02:30:04.045000+00:00",
+    "linkedin": "https://www.linkedin.com/in/sagar-s-desai",
+    "bio": "NVIDIA | AI | LLM | LLMops | MLOps | ML"
   },
   {
     "message_id": "1273638655507828817",
@@ -7940,7 +8312,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/828325357102432327/1272995794504388670",
-    "timestamp": "2024-08-13T19:10:48.528000+00:00"
+    "timestamp": "2024-08-13T19:10:48.528000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1272763451827290152",
@@ -7974,7 +8348,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1272626086416617532",
-    "timestamp": "2024-08-12T18:41:43.251000+00:00"
+    "timestamp": "2024-08-12T18:41:43.251000+00:00",
+    "website": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/",
+    "bio": "Code/MLEng/Python\nA little ham radio\nA lotta heavy metal\n\n[Buy my book](https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/)"
   },
   {
     "message_id": "1270654888052920409",
@@ -8025,7 +8401,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/986701499763654676/1270245904741306518",
-    "timestamp": "2024-08-06T05:03:43.718000+00:00"
+    "timestamp": "2024-08-06T05:03:43.718000+00:00",
+    "bio": "Every act of conscious learning requires the willingness to suffer an injury to one's self-esteem.\n\nPlanning the ideal way to improve is a noble way of procrastinating."
   },
   {
     "message_id": "1268599285751218269",
@@ -8076,7 +8453,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1265860653571375176",
-    "timestamp": "2024-07-25T02:38:18.365000+00:00"
+    "timestamp": "2024-07-25T02:38:18.365000+00:00",
+    "bio": "Just hangin' around"
   },
   {
     "message_id": "1262895724065067008",
@@ -8093,7 +8471,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1262895724065067008",
-    "timestamp": "2024-07-16T22:16:44.085000+00:00"
+    "timestamp": "2024-07-16T22:16:44.085000+00:00",
+    "bio": "Comms at Arize AI"
   },
   {
     "message_id": "1262453325454901320",
@@ -8110,7 +8489,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1262453325454901320",
-    "timestamp": "2024-07-15T16:58:48.037000+00:00"
+    "timestamp": "2024-07-15T16:58:48.037000+00:00",
+    "bio": "i agree with ron swanson a lil too much."
   },
   {
     "message_id": "1262453253241569410",
@@ -8127,7 +8507,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1135678984840020000/1262453253241569410",
-    "timestamp": "2024-07-15T16:58:30.820000+00:00"
+    "timestamp": "2024-07-15T16:58:30.820000+00:00",
+    "bio": "i agree with ron swanson a lil too much."
   },
   {
     "message_id": "1262369119676796928",
@@ -8144,7 +8525,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1262369119676796928",
-    "timestamp": "2024-07-15T11:24:11.815000+00:00"
+    "timestamp": "2024-07-15T11:24:11.815000+00:00",
+    "linkedin": "https://www.linkedin.com/in/robertmichaelhooks",
+    "bio": "🚀  Even in ruin, the code runs clean. 🚀"
   },
   {
     "message_id": "1261013886157717588",
@@ -8161,7 +8544,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1261013886157717588",
-    "timestamp": "2024-07-11T17:38:58.965000+00:00"
+    "timestamp": "2024-07-11T17:38:58.965000+00:00",
+    "website": "https://rotational.io/",
+    "bio": "Co-founder of Rotational Labs (https://rotational.io/). Seeking to learn more, support, and contribute."
   },
   {
     "message_id": "1260117841089134592",
@@ -8263,7 +8648,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1256019429360140381",
-    "timestamp": "2024-06-27T22:52:47.672000+00:00"
+    "timestamp": "2024-06-27T22:52:47.672000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1255947812454141984",
@@ -8314,7 +8700,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1253585315868708927",
-    "timestamp": "2024-06-21T05:40:29.792000+00:00"
+    "timestamp": "2024-06-21T05:40:29.792000+00:00",
+    "bio": "Sr. AI/ML Engineer"
   },
   {
     "message_id": "1253436473013964900",
@@ -8348,7 +8735,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1253002953384529953/1253432378186010768",
-    "timestamp": "2024-06-20T19:32:46.607000+00:00"
+    "timestamp": "2024-06-20T19:32:46.607000+00:00",
+    "twitter": "https://x.com/HanchungLee"
   },
   {
     "message_id": "1252830578856820777",
@@ -8450,7 +8838,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1248386815891865701",
-    "timestamp": "2024-06-06T21:23:30.814000+00:00"
+    "timestamp": "2024-06-06T21:23:30.814000+00:00",
+    "bio": "We're on a rock floating through space.\n\nFind your inner strength\nFace your obstacles\nOwn your life\nSeek challenges\nPush your limits\nStay healthy in mind and body\nDo good\nLive a little"
   },
   {
     "message_id": "1247553071245037648",
@@ -8501,7 +8890,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1247269827102376030",
-    "timestamp": "2024-06-03T19:24:59.934000+00:00"
+    "timestamp": "2024-06-03T19:24:59.934000+00:00",
+    "bio": "` ☰        redJ        ― □ ⤬`\n`⤷ ` hi"
   },
   {
     "message_id": "1246682051340664913",
@@ -8537,7 +8927,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/992083360719581194/1246520291396419724",
-    "timestamp": "2024-06-01T17:46:36.696000+00:00"
+    "timestamp": "2024-06-01T17:46:36.696000+00:00",
+    "twitter": "https://twitter.com/brianhhough",
+    "website": "https://youtube.com/brianhhough",
+    "bio": "👨‍💻 Full-Stack Software Engineer\n📸 YouTube: https://youtube.com/brianhhough\n📲 Twitter: https://twitter.com/brianhhough\n➡️ Collab: https://linktr.ee/brianhhough"
   },
   {
     "message_id": "1243581338712277034",
@@ -8554,7 +8947,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1243581338712277034",
-    "timestamp": "2024-05-24T15:08:15.773000+00:00"
+    "timestamp": "2024-05-24T15:08:15.773000+00:00",
+    "bio": "Grateful to be alive in this moment of tech.  Created a CNN to predict facial emotions w/ 94% accuracy after 50+ experiments. BSEE, MBA, Applied ML (MIT)."
   },
   {
     "message_id": "1243296663620026450",
@@ -8673,7 +9067,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1238254376263356527/1243285698967109793",
-    "timestamp": "2024-05-23T19:33:29.765000+00:00"
+    "timestamp": "2024-05-23T19:33:29.765000+00:00",
+    "bio": "if friend requesting, please interact somehow first :)"
   },
   {
     "message_id": "1243285471635963995",
@@ -8726,7 +9121,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/986699680027127878/1242800519806976060",
-    "timestamp": "2024-05-22T11:25:34.039000+00:00"
+    "timestamp": "2024-05-22T11:25:34.039000+00:00",
+    "twitter": "https://twitter.com/OpenAI/status/1727065166188274145"
   },
   {
     "message_id": "1242594772506513570",
@@ -8743,7 +9139,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1238254376263356527/1242594772506513570",
-    "timestamp": "2024-05-21T21:48:00.060000+00:00"
+    "timestamp": "2024-05-21T21:48:00.060000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1242332394783117393",
@@ -8777,7 +9174,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1241589174688157841",
-    "timestamp": "2024-05-19T03:12:06.857000+00:00"
+    "timestamp": "2024-05-19T03:12:06.857000+00:00",
+    "bio": "🏗️ 🚢 🚀 \n\n- Sr. Deep Learning Product Research Engineer @ NVIDIA"
   },
   {
     "message_id": "1241552403052892212",
@@ -8794,7 +9192,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1241552403052892212",
-    "timestamp": "2024-05-19T00:45:59.816000+00:00"
+    "timestamp": "2024-05-19T00:45:59.816000+00:00",
+    "bio": "I prefer responding in public over DMs"
   },
   {
     "message_id": "1239538953225240581",
@@ -8811,7 +9210,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1239538953225240581",
-    "timestamp": "2024-05-13T11:25:15.969000+00:00"
+    "timestamp": "2024-05-13T11:25:15.969000+00:00",
+    "bio": "uwu"
   },
   {
     "message_id": "1239276688240807987",
@@ -8845,7 +9245,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1238254376263356527/1238266037812727959",
-    "timestamp": "2024-05-09T23:07:09.285000+00:00"
+    "timestamp": "2024-05-09T23:07:09.285000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1238265331529814035",
@@ -8862,7 +9263,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/1238265331529814035",
-    "timestamp": "2024-05-09T23:04:20.894000+00:00"
+    "timestamp": "2024-05-09T23:04:20.894000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1237436067066675260",
@@ -8915,7 +9317,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1236039181499891825",
-    "timestamp": "2024-05-03T19:38:25.367000+00:00"
+    "timestamp": "2024-05-03T19:38:25.367000+00:00",
+    "twitter": "https://x.com/HanchungLee"
   },
   {
     "message_id": "1236030614738698251",
@@ -8932,7 +9335,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1236030614738698251",
-    "timestamp": "2024-05-03T19:04:22.892000+00:00"
+    "timestamp": "2024-05-03T19:04:22.892000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1236026331532099684",
@@ -9000,7 +9404,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1236009463996092477",
-    "timestamp": "2024-05-03T17:40:20.162000+00:00"
+    "timestamp": "2024-05-03T17:40:20.162000+00:00",
+    "bio": "🏗️ 🚢 🚀 \n\n- Sr. Deep Learning Product Research Engineer @ NVIDIA"
   },
   {
     "message_id": "1236004920742776972",
@@ -9034,7 +9439,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760219176463499264/1235333124590665759",
-    "timestamp": "2024-05-01T20:52:48.282000+00:00"
+    "timestamp": "2024-05-01T20:52:48.282000+00:00",
+    "bio": "AI/ML Product Manager | Deep Tech Technical Product Strategist, Director @Google @AWS | Founder | CTPO | Startup Advisor | Hyperscaler"
   },
   {
     "message_id": "1235320399269597315",
@@ -9051,7 +9457,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1235320399269597315",
-    "timestamp": "2024-05-01T20:02:14.329000+00:00"
+    "timestamp": "2024-05-01T20:02:14.329000+00:00",
+    "bio": "Pressure is a privilege."
   },
   {
     "message_id": "1234969007782625321",
@@ -9068,7 +9475,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1226284260361506836/1234969007782625321",
-    "timestamp": "2024-04-30T20:45:56.070000+00:00"
+    "timestamp": "2024-04-30T20:45:56.070000+00:00",
+    "github": "https://github.com/SynaLinks/synalinks",
+    "bio": "https://github.com/SynaLinks/synalinks\n\nA production-first in-context RL framework for neuro-symbolic applications."
   },
   {
     "message_id": "1234896190013702255",
@@ -9085,7 +9494,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1226284260361506836/1234896190013702255",
-    "timestamp": "2024-04-30T15:56:34.961000+00:00"
+    "timestamp": "2024-04-30T15:56:34.961000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1233901735983190079",
@@ -9189,7 +9599,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1226284260361506836/1232907350969552937",
-    "timestamp": "2024-04-25T04:13:38.782000+00:00"
+    "timestamp": "2024-04-25T04:13:38.782000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1232794082862960710",
@@ -9257,7 +9668,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199231474106439/1229916821046427789",
-    "timestamp": "2024-04-16T22:10:20.887000+00:00"
+    "timestamp": "2024-04-16T22:10:20.887000+00:00",
+    "bio": "From the moment I understood the weakness of my flesh, it disgusted me. I craved the strength and certainty of steel. Your kind cling to your flesh as if it will not decay and fail you"
   },
   {
     "message_id": "1229884683056316518",
@@ -9274,7 +9686,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1229184838368628756/1229884683056316518",
-    "timestamp": "2024-04-16T20:02:38.593000+00:00"
+    "timestamp": "2024-04-16T20:02:38.593000+00:00",
+    "bio": "aka. KARTHIK"
   },
   {
     "message_id": "1229879088513159320",
@@ -9342,7 +9755,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1226284260361506836/1228538717917151252",
-    "timestamp": "2024-04-13T02:54:15.497000+00:00"
+    "timestamp": "2024-04-13T02:54:15.497000+00:00",
+    "website": "https://eugeneyan.com/",
+    "bio": "Don't hesitate to @ me as I don't actively check most channels.\n\nhttps://eugeneyan.com/"
   },
   {
     "message_id": "1228314669538611272",
@@ -9359,7 +9774,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1228314669538611272",
-    "timestamp": "2024-04-12T12:03:58.201000+00:00"
+    "timestamp": "2024-04-12T12:03:58.201000+00:00",
+    "bio": "Scaling the team at TryHackMe"
   },
   {
     "message_id": "1227939096723329054",
@@ -9393,7 +9809,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1226284260361506836/1227164489166753832",
-    "timestamp": "2024-04-09T07:53:33.831000+00:00"
+    "timestamp": "2024-04-09T07:53:33.831000+00:00",
+    "github": "https://github.com/HassanJbara",
+    "bio": "Telegram @HasJba",
+    "twitter": "https://x.com/Xela_Akwaen",
+    "website": "https://hassanjbara.github.io/xela-blog",
+    "real_name": "Hassan"
   },
   {
     "message_id": "1226908633636274319",
@@ -9412,7 +9833,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/1226908633636274319",
-    "timestamp": "2024-04-08T14:56:53.119000+00:00"
+    "timestamp": "2024-04-08T14:56:53.119000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1226903757779112007",
@@ -9431,7 +9853,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/1226284260361506836/1226903757779112007",
-    "timestamp": "2024-04-08T14:37:30.624000+00:00"
+    "timestamp": "2024-04-08T14:37:30.624000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1226271496679198881",
@@ -9465,7 +9888,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1225263306772713602",
-    "timestamp": "2024-04-04T01:58:56.626000+00:00"
+    "timestamp": "2024-04-04T01:58:56.626000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1224959370249506886",
@@ -9550,7 +9974,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/1135678984840020000/1220939891408375888",
-    "timestamp": "2024-03-23T03:39:14.078000+00:00"
+    "timestamp": "2024-03-23T03:39:14.078000+00:00",
+    "bio": "www.linkedin.com/in/hritikjain\n@thehritikjain on X"
   },
   {
     "message_id": "1219039963174273144",
@@ -9584,7 +10009,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1216775320829562911",
-    "timestamp": "2024-03-11T15:50:43.078000+00:00"
+    "timestamp": "2024-03-11T15:50:43.078000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1216564667258900592",
@@ -9601,7 +10027,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1216564667258900592",
-    "timestamp": "2024-03-11T01:53:39.353000+00:00"
+    "timestamp": "2024-03-11T01:53:39.353000+00:00",
+    "bio": "Early-stage Investor; HYSTA Founders Club (incubator); Females in AI community;"
   },
   {
     "message_id": "1216041616813330472",
@@ -9635,7 +10062,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1215204457462235176",
-    "timestamp": "2024-03-07T07:48:40.066000+00:00"
+    "timestamp": "2024-03-07T07:48:40.066000+00:00",
+    "website": "https://youtube.com/@natecodesai",
+    "bio": "softmaestro.eth\nhttps://youtube.com/@natecodesai\n\nAI, machine learning, emergent behavior, dynamical systems, travel, language"
   },
   {
     "message_id": "1215046427613601822",
@@ -9703,7 +10132,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1211804783577538634",
-    "timestamp": "2024-02-26T22:39:34.649000+00:00"
+    "timestamp": "2024-02-26T22:39:34.649000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1210950165205090314",
@@ -9739,7 +10169,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1209047272382537748",
-    "timestamp": "2024-02-19T08:02:12.748000+00:00"
+    "timestamp": "2024-02-19T08:02:12.748000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1209028066928623626",
@@ -9790,7 +10221,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1207753244084928553",
-    "timestamp": "2024-02-15T18:20:12.360000+00:00"
+    "timestamp": "2024-02-15T18:20:12.360000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1207511659791384626",
@@ -9841,7 +10273,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1206523149139574804",
-    "timestamp": "2024-02-12T08:52:14.871000+00:00"
+    "timestamp": "2024-02-12T08:52:14.871000+00:00",
+    "website": "https://gut-ai.org/",
+    "bio": "🏴‍☠️ Feel free to DM me for more info.\n\nhttps://gut-ai.org/ \n\nViews are my own."
   },
   {
     "message_id": "1205601984288260126",
@@ -9894,7 +10328,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1204155540654137435",
-    "timestamp": "2024-02-05T20:04:13.020000+00:00"
+    "timestamp": "2024-02-05T20:04:13.020000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1203262287549440030",
@@ -9930,7 +10365,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1202663623911153754",
-    "timestamp": "2024-02-01T17:15:52.350000+00:00"
+    "timestamp": "2024-02-01T17:15:52.350000+00:00",
+    "twitter": "https://x.com/joogzzzz",
+    "linkedin": "https://www.linkedin.com/in/jugalumeshpatel/",
+    "bio": "https://www.linkedin.com/in/jugalumeshpatel/\n\nhttps://x.com/joogzzzz"
   },
   {
     "message_id": "1201685675234299925",
@@ -9947,7 +10385,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1201685675234299925",
-    "timestamp": "2024-01-30T00:29:51.216000+00:00"
+    "timestamp": "2024-01-30T00:29:51.216000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1199636895685165166",
@@ -9964,7 +10403,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1199636895685165166",
-    "timestamp": "2024-01-24T08:48:44.107000+00:00"
+    "timestamp": "2024-01-24T08:48:44.107000+00:00",
+    "bio": "22, INTP, I code and (sometimes) draw.\n\n*QVO MAGIS ERRATA FECITIS EO MAGIS ALESCERE*"
   },
   {
     "message_id": "1199078012474368070",
@@ -10068,7 +10508,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1184892290553090128",
-    "timestamp": "2023-12-14T16:18:56.302000+00:00"
+    "timestamp": "2023-12-14T16:18:56.302000+00:00",
+    "bio": "Comms at Arize AI"
   },
   {
     "message_id": "1184621135799799848",
@@ -10085,7 +10526,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1184621135799799848",
-    "timestamp": "2023-12-13T22:21:27.971000+00:00"
+    "timestamp": "2023-12-13T22:21:27.971000+00:00",
+    "bio": "Operations Manager @ Featureform"
   },
   {
     "message_id": "1182634432994234448",
@@ -10102,7 +10544,9 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/882748207996760164/1182634432994234448",
-    "timestamp": "2023-12-08T10:47:01.111000+00:00"
+    "timestamp": "2023-12-08T10:47:01.111000+00:00",
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/"
   },
   {
     "message_id": "1182345354134429756",
@@ -10191,7 +10635,10 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1179876351243735201",
-    "timestamp": "2023-11-30T20:07:23.179000+00:00"
+    "timestamp": "2023-11-30T20:07:23.179000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/rparundekar_call-for-soap-box-talks-at-the-mlops-community-activity-7136036160006463488-ZgZ3",
+    "website": "https://aihero.studio/,",
+    "bio": "Founder of https://aihero.studio/, helping product teams, domain experts, and data scientists build AI solutions."
   },
   {
     "message_id": "1178717680501530705",
@@ -10210,7 +10657,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1178717680501530705",
-    "timestamp": "2023-11-27T15:23:14.547000+00:00"
+    "timestamp": "2023-11-27T15:23:14.547000+00:00",
+    "bio": "Co-founder & Head of GTM @ Modzy"
   },
   {
     "message_id": "1176673329529241700",
@@ -10227,7 +10675,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/955974158368518144/1176673329529241700",
-    "timestamp": "2023-11-21T23:59:43.293000+00:00"
+    "timestamp": "2023-11-21T23:59:43.293000+00:00",
+    "github": "https://github.com/k-nearest-neighbor",
+    "bio": "UTC−8",
+    "website": "https://www.ai-breakout.com",
+    "real_name": "Desmond Grealy"
   },
   {
     "message_id": "1176672996161748993",
@@ -10244,7 +10696,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/955974158368518144/1176672996161748993",
-    "timestamp": "2023-11-21T23:58:23.812000+00:00"
+    "timestamp": "2023-11-21T23:58:23.812000+00:00",
+    "github": "https://github.com/k-nearest-neighbor",
+    "bio": "UTC−8",
+    "website": "https://www.ai-breakout.com",
+    "real_name": "Desmond Grealy"
   },
   {
     "message_id": "1175450254808715294",
@@ -10295,7 +10751,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1174170223696416869",
-    "timestamp": "2023-11-15T02:13:16.357000+00:00"
+    "timestamp": "2023-11-15T02:13:16.357000+00:00",
+    "bio": "Always trying to do my best. \n\nCareer - mostly ML, developer Ed, and DevEx.\n\nOthers - Christianity, wellness, sports, family, friends, and non-profits impact at scale."
   },
   {
     "message_id": "1171845405781274644",
@@ -10348,7 +10805,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1169270663530426490",
-    "timestamp": "2023-11-01T13:44:10.184000+00:00"
+    "timestamp": "2023-11-01T13:44:10.184000+00:00",
+    "bio": "Co-founder & Head of GTM @ Modzy"
   },
   {
     "message_id": "1169038882755584111",
@@ -10365,7 +10823,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1169038882755584111",
-    "timestamp": "2023-10-31T22:23:09.341000+00:00"
+    "timestamp": "2023-10-31T22:23:09.341000+00:00",
+    "bio": "Always Improving"
   },
   {
     "message_id": "1168229273371410523",
@@ -10433,7 +10892,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1165908814747418644",
-    "timestamp": "2023-10-23T07:05:22.974000+00:00"
+    "timestamp": "2023-10-23T07:05:22.974000+00:00",
+    "bio": "Your local data scientist with AI infra superpowers 💫 \n\nM.Sc. Robotics, Cognition, Intelligence @TUM \nBoard member @TUM.ai\nUsing those superpowers @AI Infrastructure Club"
   },
   {
     "message_id": "1165893732189610054",
@@ -10450,7 +10910,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1165893732189610054",
-    "timestamp": "2023-10-23T06:05:27.012000+00:00"
+    "timestamp": "2023-10-23T06:05:27.012000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1164189728170582096",
@@ -10484,7 +10945,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/828325357102432327/1164186155688927322",
-    "timestamp": "2023-10-18T13:00:09.049000+00:00"
+    "timestamp": "2023-10-18T13:00:09.049000+00:00",
+    "linkedin": "https://www.linkedin.com/posts/llamaindex_how-i-built-the-streamlit-llm-hackathon-winning-activity-7120082049394241537-Apxv?utm_source=share&utm_medium=member_desktop"
   },
   {
     "message_id": "1162451808338329610",
@@ -10520,7 +10982,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1161351166542745670",
-    "timestamp": "2023-10-10T17:14:54.965000+00:00"
+    "timestamp": "2023-10-10T17:14:54.965000+00:00",
+    "bio": "Co-founder & Head of GTM @ Modzy"
   },
   {
     "message_id": "1160812046066139166",
@@ -10537,7 +11000,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1160812046066139166",
-    "timestamp": "2023-10-09T05:32:38.627000+00:00"
+    "timestamp": "2023-10-09T05:32:38.627000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1158802736444358736",
@@ -10673,7 +11137,12 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1154438355824672778",
-    "timestamp": "2023-09-21T15:25:52.456000+00:00"
+    "timestamp": "2023-09-21T15:25:52.456000+00:00",
+    "github": "https://github.com/krissemmy",
+    "twitter": "https://x.com/chris__emma",
+    "website": "https://www.krissemmy.com/",
+    "bio": "Consultant NodeOps Engineer.......expertise in setup + running, and managing blockchain nodes.\nDevOps/Data Engineer on the side.\n\nWebsite: https://www.krissemmy.com/",
+    "real_name": "Emmanuel Christopher"
   },
   {
     "message_id": "1154189237474828318",
@@ -10709,7 +11178,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1153025507085000787",
-    "timestamp": "2023-09-17T17:51:43.067000+00:00"
+    "timestamp": "2023-09-17T17:51:43.067000+00:00",
+    "bio": "Always trying to do my best. \n\nCareer - mostly ML, developer Ed, and DevEx.\n\nOthers - Christianity, wellness, sports, family, friends, and non-profits impact at scale."
   },
   {
     "message_id": "1150220945869525022",
@@ -10777,7 +11247,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1143542341278371960",
-    "timestamp": "2023-08-22T13:49:00.150000+00:00"
+    "timestamp": "2023-08-22T13:49:00.150000+00:00",
+    "bio": "Co-founder & Head of GTM @ Modzy"
   },
   {
     "message_id": "1142994248002699417",
@@ -10794,7 +11265,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1142994248002699417",
-    "timestamp": "2023-08-21T01:31:04.530000+00:00"
+    "timestamp": "2023-08-21T01:31:04.530000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1138007606003249182",
@@ -10811,7 +11283,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1138007606003249182",
-    "timestamp": "2023-08-07T07:15:56.430000+00:00"
+    "timestamp": "2023-08-07T07:15:56.430000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1136603248632016946",
@@ -10862,7 +11335,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1132227658416128012",
-    "timestamp": "2023-07-22T08:28:29.539000+00:00"
+    "timestamp": "2023-07-22T08:28:29.539000+00:00",
+    "github": "https://github.com/fractaldna22",
+    "bio": "\"If you're so hollowed-out by irony and doomscrolling that raw joy feels like an attack, maybe it's not the tone that's the problem—but the deadness you're defending.”"
   },
   {
     "message_id": "1127871088274182205",
@@ -10930,7 +11405,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/882748207996760164/1118399920441933948",
-    "timestamp": "2023-06-14T04:41:59.899000+00:00"
+    "timestamp": "2023-06-14T04:41:59.899000+00:00",
+    "bio": "Learning The Art of Learning. (linkedin.com/in/aditya-ecdrid); Might be slow to respond, busy at building \"problem solving\""
   },
   {
     "message_id": "1116790447558369380",
@@ -10981,7 +11457,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1108475777017729064",
-    "timestamp": "2023-05-17T19:26:59.725000+00:00"
+    "timestamp": "2023-05-17T19:26:59.725000+00:00",
+    "github": "https://github.com/k-nearest-neighbor",
+    "bio": "UTC−8",
+    "website": "https://www.ai-breakout.com",
+    "real_name": "Desmond Grealy"
   },
   {
     "message_id": "1106999681088761937",
@@ -11015,7 +11495,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/986699680027127878/1106255626432163950",
-    "timestamp": "2023-05-11T16:24:54.577000+00:00"
+    "timestamp": "2023-05-11T16:24:54.577000+00:00",
+    "website": "https://www.researchgate.net/profile/Kyrtin-Atreides",
+    "bio": "COO and Researcher at AGI Laboratory.\nhttps://www.researchgate.net/profile/Kyrtin-Atreides"
   },
   {
     "message_id": "1105770484567642132",
@@ -11083,7 +11565,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/955974158368518144/1101878528850526312",
-    "timestamp": "2023-04-29T14:31:53.191000+00:00"
+    "timestamp": "2023-04-29T14:31:53.191000+00:00",
+    "github": "https://github.com/neoneye",
+    "website": "https://neoneye.github.io/",
+    "bio": "My homepage\nhttps://neoneye.github.io/",
+    "twitter": "https://x.com/SimonStran36407",
+    "real_name": "Simon Strandgaard"
   },
   {
     "message_id": "1101783432419344396",
@@ -11117,7 +11604,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/986699680027127878/1099616822292127744",
-    "timestamp": "2023-04-23T08:44:40.327000+00:00"
+    "timestamp": "2023-04-23T08:44:40.327000+00:00",
+    "website": "https://www.researchgate.net/profile/Kyrtin-Atreides",
+    "bio": "COO and Researcher at AGI Laboratory.\nhttps://www.researchgate.net/profile/Kyrtin-Atreides"
   },
   {
     "message_id": "1099259729458499666",
@@ -11323,7 +11812,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760219176463499264/1076991026650169354",
-    "timestamp": "2023-02-19T22:17:50.279000+00:00"
+    "timestamp": "2023-02-19T22:17:50.279000+00:00",
+    "bio": "An undergrad aspiring AI researcher who loves multi-agent and model-based deep reinforcement learning, primarily for general game playing.  I also like neuroscience and evolutionary biology."
   },
   {
     "message_id": "1076213593839783946",
@@ -11357,7 +11847,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1075929061345460304",
-    "timestamp": "2023-02-16T23:57:58.020000+00:00"
+    "timestamp": "2023-02-16T23:57:58.020000+00:00",
+    "linkedin": "https://www.linkedin.com/in/alimirzaei1993",
+    "twitter": "https://x.com/Ali_Mirzaei_en",
+    "bio": "Working on multimodal generative AI.\n\n👨🏻‍🎓 MSc in AI and Robotics from UC San Diego (2018)\n\n👨🏻‍🎓 BSc in Electrical Engineering from Sharif University (2016)\n\n📍Vancouver 🇨🇦"
   },
   {
     "message_id": "1075195389810061332",
@@ -11374,7 +11867,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/1075195389810061332",
-    "timestamp": "2023-02-14T23:22:37.095000+00:00"
+    "timestamp": "2023-02-14T23:22:37.095000+00:00",
+    "twitter": "https://twitter.com/HassanTahir__/status/1625634652957421572?s=20&t=ubwPLla3Q5K6kkN3aOJ5fg"
   },
   {
     "message_id": "1073568607663046686",
@@ -11459,7 +11953,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/880936172061352016/1069728766647083069",
-    "timestamp": "2023-01-30T21:20:12.568000+00:00"
+    "timestamp": "2023-01-30T21:20:12.568000+00:00",
+    "github": "https://github.com/siddhantjain07"
   },
   {
     "message_id": "1067494420108292146",
@@ -11493,7 +11988,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1064403201123696780",
-    "timestamp": "2023-01-16T04:38:18.803000+00:00"
+    "timestamp": "2023-01-16T04:38:18.803000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1063429746702159922",
@@ -11527,7 +12023,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/1062051474789650493",
-    "timestamp": "2023-01-09T16:53:23.552000+00:00"
+    "timestamp": "2023-01-09T16:53:23.552000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1061892343252398120",
@@ -11544,7 +12041,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1061892343252398120",
-    "timestamp": "2023-01-09T06:21:03.637000+00:00"
+    "timestamp": "2023-01-09T06:21:03.637000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1061866239858835507",
@@ -11561,7 +12059,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1061866239858835507",
-    "timestamp": "2023-01-09T04:37:20.103000+00:00"
+    "timestamp": "2023-01-09T04:37:20.103000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1059882786841968661",
@@ -11595,7 +12094,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/1059881629398601818",
-    "timestamp": "2023-01-03T17:11:12.097000+00:00"
+    "timestamp": "2023-01-03T17:11:12.097000+00:00",
+    "bio": "Machine learning enthusiast \n🕉️🇳🇪"
   },
   {
     "message_id": "1059881308786016347",
@@ -11612,7 +12112,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/1059881308786016347",
-    "timestamp": "2023-01-03T17:09:55.657000+00:00"
+    "timestamp": "2023-01-03T17:09:55.657000+00:00",
+    "github": "https://github.com/Kaushlesh2370",
+    "bio": "Add Life to your days not days to your life. ☺️☺️",
+    "twitter": "https://x.com/KaushleshKO",
+    "real_name": "Kaushleshcodes"
   },
   {
     "message_id": "1059880923648229466",
@@ -11629,7 +12133,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/1059880923648229466",
-    "timestamp": "2023-01-03T17:08:23.833000+00:00"
+    "timestamp": "2023-01-03T17:08:23.833000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "1059706128084242462",
@@ -11680,7 +12185,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/966821706813546567/1059362022174769264",
-    "timestamp": "2023-01-02T06:46:28.081000+00:00"
+    "timestamp": "2023-01-02T06:46:28.081000+00:00",
+    "bio": "https://alexey.work/cv?ref=discord"
   },
   {
     "message_id": "1058165524636368977",
@@ -11939,7 +12445,12 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/760199308808421396/1010433658030661732",
-    "timestamp": "2022-08-20T06:22:37.024000+00:00"
+    "timestamp": "2022-08-20T06:22:37.024000+00:00",
+    "twitter": "https://twitter.com/EMostaque/status/1560800368371580928?s=20&t=doiRyljiHiwZ7IFDmBMvPw",
+    "github": "https://github.com/k-nearest-neighbor",
+    "bio": "UTC−8",
+    "website": "https://www.ai-breakout.com",
+    "real_name": "Desmond Grealy"
   },
   {
     "message_id": "1009899267630059520",
@@ -12007,7 +12518,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/880936172061352016/998906973019975700",
-    "timestamp": "2022-07-19T10:59:41.162000+00:00"
+    "timestamp": "2022-07-19T10:59:41.162000+00:00",
+    "github": "https://github.com/neel04",
+    "bio": "DM if you wanna talk about some interesting ideas! :]",
+    "website": "https://neel04.github.io/my-website/",
+    "real_name": "Neel Gupta"
   },
   {
     "message_id": "994496874142760970",
@@ -12024,7 +12539,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/994496874142760970",
-    "timestamp": "2022-07-07T06:55:31.654000+00:00"
+    "timestamp": "2022-07-07T06:55:31.654000+00:00",
+    "github": "https://github.com/k-nearest-neighbor",
+    "bio": "UTC−8",
+    "website": "https://www.ai-breakout.com",
+    "real_name": "Desmond Grealy"
   },
   {
     "message_id": "990879958975000606",
@@ -12092,7 +12611,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/909521706404687922/984464748785582100",
-    "timestamp": "2022-06-09T14:31:26.581000+00:00"
+    "timestamp": "2022-06-09T14:31:26.581000+00:00",
+    "bio": "Soft Kisses 😘, Hard Techno 🔨"
   },
   {
     "message_id": "983049436122976287",
@@ -12160,7 +12680,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/814557108065534033/905288121934049310/981054610355675156",
-    "timestamp": "2022-05-31T04:40:46.222000+00:00"
+    "timestamp": "2022-05-31T04:40:46.222000+00:00",
+    "bio": "@chipro on Twitter. i live on MLOps (@chipro) Discord"
   },
   {
     "message_id": "979330853287112714",
@@ -12264,7 +12785,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/742900835981328408/974758199133614140",
-    "timestamp": "2022-05-13T19:41:04.805000+00:00"
+    "timestamp": "2022-05-13T19:41:04.805000+00:00",
+    "twitter": "https://twitter.com/danijarh/status/1524842688532467712"
   },
   {
     "message_id": "974381592350982184",
@@ -12451,7 +12973,9 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/742900835981328408/952318574612078592",
-    "timestamp": "2022-03-12T21:34:01.411000+00:00"
+    "timestamp": "2022-03-12T21:34:01.411000+00:00",
+    "website": "https://futurisold.github.io",
+    "bio": "digital horse whisperer ∧ cyberpunk pirate ∨ perhaps just a craftsman embracing a dream\n\nThreads: @iamfuturisold\nX: @futurisold \nBlog: https://futurisold.github.io"
   },
   {
     "message_id": "949482638001983578",
@@ -12468,7 +12992,10 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/949482638001983578",
-    "timestamp": "2022-03-05T01:45:01.434000+00:00"
+    "timestamp": "2022-03-05T01:45:01.434000+00:00",
+    "twitter": "https://twitter.com/g_rant__",
+    "website": "https://www.wand.app/",
+    "bio": "ceo/founder @ Wand ✨ \nalso co-founded Muze!\nhttps://twitter.com/g_rant__\nhttps://www.wand.app/"
   },
   {
     "message_id": "948931332208218142",
@@ -12502,7 +13029,12 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/909182992474320957/947223641131733003",
-    "timestamp": "2022-02-26T20:08:34.610000+00:00"
+    "timestamp": "2022-02-26T20:08:34.610000+00:00",
+    "github": "https://github.com/apaz-cli",
+    "website": "https://apaz.dev",
+    "bio": "Someone must step onto the frontier.\n- Liang Wenfeng 梁文锋\nhttps://apaz.dev",
+    "real_name": "apaz",
+    "company": "Prime Intellect AI"
   },
   {
     "message_id": "946437026381705266",
@@ -12536,7 +13068,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/909521706404687922/942562255827005511",
-    "timestamp": "2022-02-13T23:25:53.749000+00:00"
+    "timestamp": "2022-02-13T23:25:53.749000+00:00",
+    "github": "https://github.com/neel04",
+    "bio": "DM if you wanna talk about some interesting ideas! :]",
+    "website": "https://neel04.github.io/my-website/",
+    "real_name": "Neel Gupta"
   },
   {
     "message_id": "942147088723083285",
@@ -12553,7 +13089,11 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/909521706404687922/942147088723083285",
-    "timestamp": "2022-02-12T19:56:10.198000+00:00"
+    "timestamp": "2022-02-12T19:56:10.198000+00:00",
+    "github": "https://github.com/neel04",
+    "bio": "DM if you wanna talk about some interesting ideas! :]",
+    "website": "https://neel04.github.io/my-website/",
+    "real_name": "Neel Gupta"
   },
   {
     "message_id": "941342791349440514",
@@ -12725,7 +13265,8 @@
     ],
     "is_high_priority": true,
     "jump_url": "https://discord.com/channels/714501525455634453/719652688509403148/919260945933545543",
-    "timestamp": "2021-12-11T16:14:48.553000+00:00"
+    "timestamp": "2021-12-11T16:14:48.553000+00:00",
+    "twitter": "https://twitter.com/yk_feed"
   },
   {
     "message_id": "900876895208476713",
@@ -12812,7 +13353,8 @@
     ],
     "is_high_priority": false,
     "jump_url": "https://discord.com/channels/714501525455634453/792643532040699944/894100827378155540",
-    "timestamp": "2021-10-03T05:57:28.837000+00:00"
+    "timestamp": "2021-10-03T05:57:28.837000+00:00",
+    "linkedin": "https://www.linkedin.com/in/ericfillion/"
   },
   {
     "message_id": "893199515245481995",
