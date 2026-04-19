@@ -32,6 +32,9 @@ jobs:
           DISCORD_USER_TOKEN: ${{ secrets.DISCORD_USER_TOKEN }}
         run: python enrich.py
 
+      - name: Scan for Australian connections
+        run: python australian.py --fetch-gh
+
       - name: Commit updated signals
         run: |
           git config user.name "github-actions[bot]"

@@ -187,6 +187,18 @@
     .id-li-search { background: #e8e2d8; color: #555; }
     .id-li-search:hover { background: #0077b5; color: white; }
 
+    .au-badge {
+        display: inline-block;
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 11px;
+        font-weight: 700;
+        cursor: help;
+    }
+    .au-high { background: #00843D; color: white; }
+    .au-med { background: #FFCD00; color: #333; }
+    tr.au-row td { background: rgba(0, 132, 61, 0.04); }
+
     .message-cell {
         max-width: 350px;
         overflow: hidden;
@@ -310,6 +322,7 @@
     <div class="stat highlight"><div class="stat-value" id="statHigh">0</div><div class="stat-label">High Priority</div></div>
     <div class="stat gold"><div class="stat-value" id="statFounder">0</div><div class="stat-label">Founder Activity</div></div>
     <div class="stat teal"><div class="stat-value" id="statServers">0</div><div class="stat-label">Servers</div></div>
+    <div class="stat highlight"><div class="stat-value" id="statAU">0</div><div class="stat-label">AU Connected</div></div>
 </div>
 
 <div class="controls">
@@ -324,6 +337,10 @@
     <div class="control-group">
         <label>Category</label>
         <select id="filterCategory"><option value="">All</option></select>
+    </div>
+    <div class="control-group">
+        <label>AU Connection</label>
+        <select id="filterAU"><option value="">All</option><option value="yes">AU Only</option><option value="high">AU High Conf.</option><option value="no">Non-AU</option></select>
     </div>
     <div class="control-group">
         <label>Server</label>
@@ -341,6 +358,7 @@
 <table>
 <thead>
 <tr>
+    <th data-col="australian_connection">AU <span class="sort-arrow">&#x21C5;</span></th>
     <th data-col="timestamp">Time <span class="sort-arrow">&#x21C5;</span></th>
     <th data-col="author">User <span class="sort-arrow">&#x21C5;</span></th>
     <th>Profiles</th>
@@ -446,6 +464,7 @@ function updateStats(filtered) {
     document.getElementById('statHigh').textContent = DATA.filter(d => d.is_high_priority).length;
     document.getElementById('statFounder').textContent = DATA.filter(d => (d.categories || []).includes('founder_activity')).length;
     document.getElementById('statServers').textContent = new Set(DATA.map(d => d.server)).size;
+    document.getElementById('statAU').textContent = new Set(DATA.filter(d => d.australian_connection).map(d => d.author_id)).size;
 }
 
 function sortData(data) {
@@ -478,12 +497,16 @@ function filterData() {
     const category = document.getElementById('filterCategory').value;
     const server = document.getElementById('filterServer').value;
     const since = document.getElementById('filterSince').value;
+    const auFilter = document.getElementById('filterAU').value;
 
     return DATA.filter(d => {
         if (search) {
-            const haystack = [d.author, d.content, d.server, d.channel, ...(d.keywords || []), ...(d.categories || [])].join(' ').toLowerCase();
+            const haystack = [d.author, d.content, d.server, d.channel, ...(d.keywords || []), ...(d.categories || []), ...(d.au_signals || [])].join(' ').toLowerCase();
             if (!haystack.includes(search)) return false;
         }
+        if (auFilter === 'yes' && !d.australian_connection) return false;
+        if (auFilter === 'high' && d.au_confidence !== 'high') return false;
+        if (auFilter === 'no' && d.australian_connection) return false;
         if (priority === 'high' && !d.is_high_priority) return false;
         if (priority === 'medium' && (d.is_high_priority || !d.categories)) return false;
         if (category && !(d.categories || []).includes(category)) return false;
@@ -575,7 +598,16 @@ function render() {
             ? '<a class="jump-link" href="' + escapeHtml(d.jump_url) + '" target="_blank">Open</a>'
             : '--';
 
-        return '<tr>' +
+        // Australian connection badge
+        let auHtml = '';
+        if (d.australian_connection) {
+            const auTip = (d.au_signals || []).join(', ');
+            const auClass = d.au_confidence === 'high' ? 'au-high' : 'au-med';
+            auHtml = '<span class="au-badge ' + auClass + '" title="' + escapeHtml(auTip) + '">AU</span>';
+        }
+
+        return '<tr' + (d.australian_connection ? ' class="au-row"' : '') + '>' +
+            '<td style="text-align:center">' + auHtml + '</td>' +
             '<td class="time-cell">' + formatTime(d.timestamp) + '</td>' +
             '<td class="user-cell">' + userHtml + '</td>' +
             '<td class="identity-cell">' + profilesHtml + '</td>' +
