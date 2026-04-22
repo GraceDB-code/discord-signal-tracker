@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1496606768787095694",
+    "server": "MLOps (@chipro)",
+    "channel": "career-advice",
+    "author": "Raksha",
+    "author_id": "1465651043206561916",
+    "username": "savindi.wijenayaka",
+    "content": "I can tell my 2 cents but I am from New Zealand, so not sure how much of this will help you. \n\n1. Tweak your resume to the job posting. Check their website, what they do, what are their existing ML/AI features. Put the experiences you have that would come across desirable to them as first bullet point of an experience or highlight projects you have done in those areas. Same goes for cover letters. No matter how much people say write the cover letters with AI, I disagree. Write the sketch and give a personal touch/your unique motivation to work with the company. \n2. Goto networking events, build relationships. Even reaching out to people in Linkedin is a good option. \n3. Speaking of Linkedin, when you post things, do not write shallow AI slop, rather, try to write deep and original thoughts, use AI to rephrase if needed.",
+    "keywords": [
+      "job posting"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1496606768787095694",
+    "timestamp": "2026-04-22T20:20:59.288000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1496539975846461511",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Sauravnotfound",
+    "author_id": "1142756021496979566",
+    "username": "beastmaster65._52934",
+    "content": "Hello everyone would love to show a new project where I built an **MCP server for research papers** that gives LLMs actual superpowers for academic research — here's what it does:\n\n- queries **Semantic Scholar + OpenAlex APIs** for real paper data \n- has **Google Search (SERP)** so it can search Google \n- can **read full webpages** via JINA reader\n- hosted on **Hugging Face Spaces** — just plug the link into Claude Desktop, no setup needed\n\nBasically, your AI stops hallucinating  and starts pulling real data from the internet\n\n **MCP Server:** https://github.com/Sauravroy34/ResearchPaperMCP\n\nAlso built a **React chatbot** powered by Gemini that uses this MCP server under the hood:\n\n- built to improve both **accuracy and interpretability** of research answers\n\n**Research Agent:** https://github.com/Sauravroy34/ResearchAgent\n\n\nwould love feedback / thoughts on where to take it next",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1496539975846461511",
+    "timestamp": "2026-04-22T15:55:34.610000+00:00",
+    "github": "https://github.com/Sauravroy34",
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://sauravroy34.github.io/",
+    "bio": "A guy who loves science!\nPersonal website: https://sauravroy34.github.io/\nGithub: https://github.com/Sauravroy34",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1496539939557343412",
     "server": "Yannic Kilcher",
     "channel": "promotion",
