@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1496539939557343412",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Sauravnotfound",
+    "author_id": "1142756021496979566",
+    "username": "beastmaster65._52934",
+    "content": "Hello everyone would love to show a new project where I built an **MCP server for research papers** that gives LLMs actual superpowers for academic research — here's what it does:\n\n- queries **Semantic Scholar + OpenAlex APIs** for real paper data \n- has **Google Search (SERP)** so it can search Google \n- can **read full webpages** via JINA reader\n- hosted on **Hugging Face Spaces** — just plug the link into Claude Desktop, no setup needed\n\nBasically, your AI stops hallucinating  and starts pulling real data from the internet\n\n **MCP Server:** https://github.com/Sauravroy34/ResearchPaperMCP\n\nAlso built a **React chatbot** powered by Gemini that uses this MCP server under the hood:\n\n- built to improve both **accuracy and interpretability** of research answers\n\n**Research Agent:** https://github.com/Sauravroy34/ResearchAgent\n\n\nwould love feedback / thoughts on where to take it next",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1496539939557343412",
+    "timestamp": "2026-04-22T15:55:25.958000+00:00",
+    "github": "https://github.com/Sauravroy34",
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://sauravroy34.github.io/",
+    "bio": "A guy who loves science!\nPersonal website: https://sauravroy34.github.io/\nGithub: https://github.com/Sauravroy34",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1494687962154139729",
     "server": "Yannic Kilcher",
     "channel": "jobs-and-internships",
