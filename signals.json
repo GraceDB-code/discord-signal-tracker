@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1496735102137274439",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "R.",
+    "author_id": "1158297569642946603",
+    "username": "zoye2004",
+    "content": "Hello friends, I was working on a project and it's MVP is ready. It is also open source you can contribute to it also.\n\nNorthStar is AI powered educational platform for students so they can get educational guidance and do entry test preparations of different universities by giving mock tests.\n\nI would love your feedback on this and share with high school students.\n\nhttps://north-stars.app/",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1496735102137274439",
+    "timestamp": "2026-04-23T04:50:56.343000+00:00",
+    "github": "https://github.com/RaeesRaqeeb",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1496606768787095694",
     "server": "MLOps (@chipro)",
     "channel": "career-advice",
