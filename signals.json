@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1498174348861636761",
+    "server": "MLOps (@chipro)",
+    "channel": "career-advice",
+    "author": "thomas.to.bcheme",
+    "author_id": "330450964605698049",
+    "username": "thomas.to.bcheme",
+    "content": "The standard feedback does work: optimize linkedin for recruiter inbound, while applying outbound to roles and messaging on linkedin (premium only if you want to cold-message inmail, otherwise connecting with a note works too). Posting at least once a week is optional but seems to help show your page is still active for new recruiters.\n\nAttached is/my stats since starting \"my own advice\" this calendar year. Averaging 3-5 interviews a week but they come in sprints depending on review cycle(s) from employers.\n\nI've had more success with recruiters and hiring managers doing live demonstrations of my open-source material",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1498174348861636761",
+    "timestamp": "2026-04-27T04:09:59.502000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1496878114586890250",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
