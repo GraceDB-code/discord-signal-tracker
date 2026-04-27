@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1498339586332688435",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "We're going over \"Automated Alignment Researchers: Using large language models to scale scalable oversight\" in the reading group now in the mechanistic interpretability discord!\nAbstract:\n\"We built autonomous AI agents that propose ideas, run experiments, and iterate on an open research problem: how to train a strong model using only a weaker model's supervision. These agents outperform human researchers, suggesting that automating this kind of research is already practical.\"\nhttps://www.anthropic.com/research/automated-alignment-researchers\nhttps://alignment.anthropic.com/2026/automated-w2s-researcher/\nInvite: <https://discord.gg/TnTGx7cQwh>",
+    "keywords": [
+      "we built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1498339586332688435",
+    "timestamp": "2026-04-27T15:06:35.185000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1498174348861636761",
     "server": "MLOps (@chipro)",
     "channel": "career-advice",
