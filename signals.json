@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1498462398116266105",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "James Hizon",
+    "author_id": "837747924086816769",
+    "username": "letechnical_james",
+    "content": "Hi - my name is James and I am an AI Engineer, looking for next opportunity to help design and engineer end-to-end, production-ready AI systems.\n\nAs former cofounder, I helped build custom AI business consulting agent from 0 -> 1 including exp. building custom state and memory solutions, hybrid LLM model-tiers for latency and cost optimization, business profiling, KPI, OKR and action recommendation using RAG personalized to user data. Took ownership of product design, frontend, backend and AI engineering workflows while using TypeScript, React, Claude Code, Docker and AWS primarily.\n\nBefore this, I worked as a Data Engineer using Python to help with building complex data pipelines to power end-user custom analytics applications.\n\nMy LinkedIn:\nhttps://www.linkedin.com/in/jameshizon/",
+    "keywords": [
+      "cofounder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1498462398116266105",
+    "timestamp": "2026-04-27T23:14:35.796000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/jameshizon/",
+    "website": null,
+    "bio": "My name is James, and I am a data professional. Connect w/ me on LinkedIn @: https://www.linkedin.com/in/jameshizon/",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1498339586332688435",
     "server": "Yannic Kilcher",
     "channel": "promotion",
