@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1498985244253093948",
+    "server": "MLOps (@chipro)",
+    "channel": "looking-for-work",
+    "author": "Jin",
+    "author_id": "1488531631969931425",
+    "username": "arjina629",
+    "content": "Dear everyone,\n\nAs I am a Senior AI Engineer with extensive experience designing and delivering enterprise-grade AI solutions, I would welcome the opportunity to discuss your project requirements and demonstrate how my expertise can add immediate value to your team.\n\nBest regards,\nJin\n\nPS: I'm sharing my portfolio here.\nhttps://jinbest.vercel.app/",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1397729750008725504/1498985244253093948",
+    "timestamp": "2026-04-29T09:52:12.029000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1498789658040074341",
     "server": "MLOps (@chipro)",
     "channel": "events",
