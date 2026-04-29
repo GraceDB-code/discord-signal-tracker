@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1498789658040074341",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Kamil Alaa",
+    "author_id": "209330145478049793",
+    "username": "kamilalaa1615",
+    "content": "🚨Apart Research & Atlas Computing are launching the Secure Program Synthesis Fellowship! \nHave experience in Formal Methods and AI Safety? We would love to have you as a mentor!\n\n✍🏽 Please apply here till 5th May End of Day AoE: https://tally.so/r/gDNP2d\n🌐 Website: https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship\n❓For questions please write us at: secure-program-synthesis-fellowship@apartresearch.com",
+    "keywords": [
+      "launching"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1498789658040074341",
+    "timestamp": "2026-04-28T20:55:00.642000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1498462398116266105",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
