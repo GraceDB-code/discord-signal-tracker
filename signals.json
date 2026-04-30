@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1499402527026839602",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Niko",
+    "author_id": "796470462288232468",
+    "username": "nikolauswest",
+    "content": "I'm a co-founder of rerun.io and as part of that I've gotten to spend a lot of time with many of the top teams in Physical AI over the last years. I've written an article on what I've learned on what makes working with data for robot difficult and the underlying causes: https://rerun.io/blog/data-layer-tax",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1499402527026839602",
+    "timestamp": "2026-04-30T13:30:19.995000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://www.rerun.io.",
+    "bio": "Computer vision / ML engineer and founder of https://www.rerun.io. We're building incredibly powerful visual printf-style debugging for computer vision.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1498985244253093948",
     "server": "MLOps (@chipro)",
     "channel": "looking-for-work",
