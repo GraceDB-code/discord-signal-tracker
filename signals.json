@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1500198499650900112",
+    "server": "MLOps (@chipro)",
+    "channel": "welcome",
+    "author": "Moon",
+    "author_id": "1070155018495348807",
+    "username": "moon.runner09",
+    "content": "I build AI products that work after the demo ends. 10 years. Multiple founders. Real results, including a predictive AI model with 68% accuracy built for a client who had already burned two other developers. Open to one serious project. Remote. US/Europe. Full ownership.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/814557108530839574/1500198499650900112",
+    "timestamp": "2026-05-02T18:13:14.657000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "```   senior software engineer —⠀❐⠀⤬```\n\nFull Stack | Mobile App | API Integration | Chatbot | Assistant | RAG | Multimodal AI | N8N | Workflow Automation",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1500189057622343873",
+    "server": "Yannic Kilcher",
+    "channel": "events",
+    "author": "Yannic Kilcher",
+    "author_id": "699606075023949884",
+    "username": "ykilcher",
+    "content": "@everyone <@&782362139087208478> \n**Paper Discussion 2026#16**\n\n<t:1777744800:F> until <t:1777752000:t>, <@139426008976588801>   will present `LILogic Net: Compact Logic Gate Networks with Learnable Connectivity for Efficient Hardware Deployment` in https://discord.com/channels/714501525455634453/1337720641528401930.\n\nEvent:\nhttps://discord.gg/MEPkbXxE?event=1500177550041944216\n\nIf you'd like to present a paper, send a direct message to <@178150411545346049>  with a link to the paper and availability information.\n\n**Paper:**\nhttps://arxiv.org/abs/2511.12340v1\n\n**Abstract:**\nEfficient deployment of machine learning models ultimately requires taking hardware constraints into account. The binary logic gate is the fundamental building block of all digital chips. Designing models that operate directly on these units enables energy-efficient computation. Recent work has demonstrated the feasibility of training randomly connected networks of binary logic gates (such as OR and NAND) using grad",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1500189057622343873",
+    "timestamp": "2026-05-02T17:35:43.502000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1499402527026839602",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
