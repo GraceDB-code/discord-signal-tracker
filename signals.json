@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1500537089027084338",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Padfoot",
+    "author_id": "1496798661470851084",
+    "username": "devwithbrain",
+    "content": "**Just deployed my EDA tool (FitLater) — would love feedback **\n\nHey everyone \n\nI built a project called **FitLater** focused on:\n**understanding data first, modeling later.**\n\nIt helps you:\n• Get a quick overview of your dataset\n• Detect issues (missing values, skew, etc.)\n• Get suggestions on what to fix before modeling\n\nStarted as a simple idea, but turned into a full system with a UI (Dashboard, Analytics, Report).\nA lot of debugging along the way — every new feature broke multiple others \n\n🌐 Live App: https://fit-later.vercel.app\n(Currently optimized for laptop/desktop screens)\n\nWould really appreciate any feedback or thoughts 🙌",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1500537089027084338",
+    "timestamp": "2026-05-03T16:38:40.655000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Curious mind. Code builder. Math enthusiast. Building brains for machines while still growing my own.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1500198499650900112",
     "server": "MLOps (@chipro)",
     "channel": "welcome",
