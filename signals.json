@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1501604847773028382",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Badnis(33)",
+    "author_id": "458756807251460096",
+    "username": "death_destroy",
+    "content": "Hey everyone\nShipped phase 6 of the EPL prediction project — it's live now\n\nbuilt a Streamlit app on top of the full pipeline. you pick the home team, away team, referee, date and match week from dropdowns and it runs all 5 models and spits out the predictions.\n\nhad one annoying deployment issue — MLflow breaks on Python 3.14 which is what Streamlit Cloud runs on. had to move FEATURE_COLS to its own module to cut mlflow out of the import chain entirely and load the XGBoost models directly from .ubj files instead of the registry.\n\napp: https://soca-scores-myvodygmgommomvn5ttssm.streamlit.app/\narticle: https://medium.com/data-ai-and-beyond/building-a-full-stack-mlops-system-predicting-the-2025-2026-english-premier-league-season-phase-695b0ea78ee6",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1501604847773028382",
+    "timestamp": "2026-05-06T15:21:34.178000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://medium.com/data-ai-and-beyond/building-a-full-stack-mlops-system-predicting-the-2025-2026-english-premier-league-season-phase-695b0ea78ee6"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1500537089027084338",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
