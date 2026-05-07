@@ -15619,7 +15619,10 @@
     "timestamp": "2022-09-24T14:10:26.336000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "github": "https://github.com/Liamdev631",
+    "real_name": "Liam Bury",
+    "company": "University of Electronic Science and Technology of China"
   },
   {
     "message_id": "1017724490542759986",
