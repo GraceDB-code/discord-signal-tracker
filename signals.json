@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1501910598714396713",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Karthik Kaiplody",
+    "author_id": "761289923453648906",
+    "username": "karthikkaiplody",
+    "content": "Hey everyone,\n\nI wanted to understand what actually happens inside LLM inference when an agent is running. Not the API-level numbers, but the layers underneath. So I built an end-to-end stack, traced a request through every layer, and wrote up what I found.\n\nPart 1 covers the architecture — how the experiment system, observability, and inference backends fit together. Parts 2 and 3 will cover the experiment results and what the metrics revealed.\n\nSharing in case it's useful to anyone digging into inference or building agentic systems. Let me know what you think.\n\nArticle: https://karthikkaiplody.substack.com/p/from-request-to-silicon-inside-an\nRepo: https://github.com/karthikkaiplody/agent-infer-stack",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1501910598714396713",
+    "timestamp": "2026-05-07T11:36:30.883000+00:00",
+    "github": "https://github.com/karthikkaiplody/agent-infer-stack",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "ML Engineer with MS in Datascience & 5+ years of work experience in 𝐈𝐧𝐬𝐮𝐫𝐚𝐧𝐜𝐞, 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 𝐚𝐧𝐝 𝐅𝐢𝐧𝐓𝐞𝐜𝐡 Industries. I like solving complex problems using AI and ML.",
+    "shared_links": [
+      "https://karthikkaiplody.substack.com/p/from-request-to-silicon-inside-an"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1501604847773028382",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
