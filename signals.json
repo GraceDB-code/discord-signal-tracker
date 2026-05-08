@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1502421771075195054",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Kamil Alaa",
+    "author_id": "209330145478049793",
+    "username": "kamilalaa1615",
+    "content": "🚨**Secure Program Synthesis Hackathon + Fellowship | Two opportunities**🚨\n\n[Apart Research](<https://apartresearch.com/>) and [Atlas Computing](<https://atlascomputing.org/>) are running two things back to back: a 4-month formal methods Fellowship (June-October), and a 3-day hackathon (May 22-24) that feeds into it.\n\n📚 **Mentor the SPS Fellowship: applications close Saturday May 9, 11:59 PM AoE**\nSenior researchers in PL, verification, formal methods, or applied security propose a project; we screen and pair fellows; an Apart project manager handles ops. Compute, API credits, and demo-day travel funded. Minimum 3 hours/week.\n\nConfirmed mentors: Erik Meijer (Leibniz Labs, ex-Director at Meta) and Shriram Krishnamurthi (Brown CS). More to be announced.\n\n👉 **[Apply to mentor](<https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship>)**\n\n🛠️ **SPS Hackathon | May 22-24 | Online**\nThree days, small teams, four tracks: spec elicitation, spec validation, spec-driven devel",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1502421771075195054",
+    "timestamp": "2026-05-08T21:27:43.871000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1501910598714396713",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
