@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1502560380923416616",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "soma",
+    "author_id": "592741641966845972",
+    "username": "n.soma5962",
+    "content": "half the time i just didn’t want to open my laptop + set up notebooks so I built an app called tangent  mostly because i was frustrated learning AI safety, usually you need math + python tooling, but everything is taught like: here’s syntax or here’s theory with no connection to actual safety work\n\nin the app you can learn: pandas matplotlib linear algebra calculus\nbut every concept is tied to real safety stuff:\n\ngradient explosions as red flags\nembedding norms for OOD detection\neval log filtering + audit joins\ndistribution shift tracking\n\nsome features :  short lessons (2–8 min), 180 exercises, spaced repetition, works offline\n\nandroid only rn:\nhttps://github.com/SomaxSoma/tangent-/releases/latest\n\nif you guys try it, please tell me what’s missing / wrong ,especially if you’re doing eval or monitoring.",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1502560380923416616",
+    "timestamp": "2026-05-09T06:38:31.034000+00:00",
+    "github": "https://github.com/SomaxSoma/tangent-/releases/latest",
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://letterboxd.com/somaxsoma/",
+    "bio": "https://letterboxd.com/somaxsoma/",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1502421771075195054",
     "server": "MLOps (@chipro)",
     "channel": "events",
