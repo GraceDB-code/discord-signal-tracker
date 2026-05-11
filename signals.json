@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1503437700961800274",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "visy_ani",
+    "author_id": "1068139212857159741",
+    "username": "visy_ani",
+    "content": "Hey everyone! I'm Anish - building and writing about LLM agents in production. Specifically focused on agent reliability, evaluation frameworks, and the real gap between demos and what actually survives prod. Also following the open-weight model wave closely and the business dynamics around it. Chip Huyen's writing on ML systems is part of why I'm here - excited to find a community that takes the production side seriously.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1503437700961800274",
+    "timestamp": "2026-05-11T16:44:40.431000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Co-Founder of ReArc, I'm the one who planted the seeds of ReArc and Designed it from UI/UX to Fully Functional and secured Frontend.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1503429933811368027",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "visy_ani",
+    "author_id": "1068139212857159741",
+    "username": "visy_ani",
+    "content": "Building and writing about LLM agents in production — particularly interested in evaluation, reliability, and the gap between demo and prod.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1503429933811368027",
+    "timestamp": "2026-05-11T16:13:48.598000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Co-Founder of ReArc, I'm the one who planted the seeds of ReArc and Designed it from UI/UX to Fully Functional and secured Frontend.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1502560380923416616",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
