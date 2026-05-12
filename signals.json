@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1503674294566129724",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "arshadm",
+    "author_id": "863766103822303274",
+    "username": "arshadm",
+    "content": "👋 Hi everyone — I've just launched a new weekly newsletter called This Week in Edge AI.\nEvery Tuesday I curate the most interesting developments in edge AI, embedded ML, and silicon for engineers building real systems. No hype, just signal.\n\nIssue 1 is live now — edge MCU inference best practices, Altera's FPGA AI Suite update, ESD Tech Embedded AI live event recap and the growing Rust embedded ecosystem.\n\n👉 https://this-week-in-edge-ai.beehiiv.com/\n\nHappy to hear any feedback on the format or topics you'd like to see covered.",
+    "keywords": [
+      "just launched"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1503674294566129724",
+    "timestamp": "2026-05-12T08:24:48.742000+00:00",
+    "github": "https://github.com/teenygrad",
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/arshadmahm",
+    "website": null,
+    "bio": "High Performance Distributed MLOps \nhttps://www.linkedin.com/in/arshadmahm\nhttps://github.com/teenygrad",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1503467055716892692",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "hk",
+    "author_id": "467771568983113763",
+    "username": "khoussam",
+    "content": "Hi folks, \n\nI'm hiring for my team for a MLOps Engineer II position. **__Must be based in the US already__**, visa sponsorship available. I figure many folks in this community might be a good fit or know someone who is, since we do a lot of \"LLMOps\" these days. Here is the [JD/app](https://careers.spglobal.com/jobs/327217?lang=en-us) and you can learn more about it's like to work on the team in this recent [blog post](https://blog.kensho.com/building-on-moving-ground-life-as-an-mlops-engineer-at-kensho-a1e05f933dd0). Job posting says NYC/Boston but we can definitely make it remote. Tons of interesting problems and a really cool team in my (biased) opinion! Feel free to reach out if you have any questions 🙂",
+    "keywords": [
+      "job posting"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1503467055716892692",
+    "timestamp": "2026-05-11T18:41:19.150000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1503437700961800274",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
@@ -8037,7 +8091,8 @@
     "timestamp": "2025-02-14T00:43:35.540000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "bio": "morbjs maintainer"
   },
   {
     "message_id": "1339169071165345833",
@@ -12772,7 +12827,8 @@
     "timestamp": "2024-04-03T05:51:12.512000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "bio": "morbjs maintainer"
   },
   {
     "message_id": "1224736183427399790",
@@ -12792,7 +12848,8 @@
     "timestamp": "2024-04-02T15:04:20.627000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "bio": "morbjs maintainer"
   },
   {
     "message_id": "1224255984143302748",
