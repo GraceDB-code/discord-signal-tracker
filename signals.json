@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1504312502064775301",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "Jah.R",
+    "author_id": "832686308181803039",
+    "username": "jahrakal6950",
+    "content": "Hey, nice to meet you.\nI’m a full-stack dev working mainly with TypeScript and Python.\nA lot of my work is around AI apps lately. Things like LLM integrations, RAG, and agent-style systems. Kind of focused on making them actually useful in real products, not just demos.\nI usually work with Next.js, Node, and FastAPI. For AI stuff, tools like LangChain or Vercel AI SDK come up a lot. Also using vector DBs like Pinecone or FAISS depending on what fits.\nFor infra, I go with AWS or serverless setups most of the time. Also I handled integrations like Stripe, Supabase, Twilio, stuff like that.\nI care a lot about scalability and usability. Clean systems that don’t break later on.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1504312502064775301",
+    "timestamp": "2026-05-14T02:40:49.267000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1504243700216234046",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "hiveco",
+    "author_id": "875197147950247956",
+    "username": "hiveco",
+    "content": "B\"H\n\nHey folks! 👋  Hive Collective (https://hivecollective.co) is hiring a **Senior AI Engineer**!\n\n**Location:** Remote in Canada or US (Montreal preferred)\n\n**Highlights:**\n- Full-time contract with option of contract-to-hire\n- First AI hire\n- Greenfield AI systems, leadership access, production impact from day one\n\n**Role**\nEstablished Canada/US financial services firm hiring its first dedicated AI engineer to own an AI-powered underwriting and operations platform. Embedded with CTO, department heads, and five developers (Salesforce/full-stack). Not research: clear roadmap, strong deal flow; bottleneck is underwriting and client-support speed/accuracy — you ship production-grade AI to remove it.\n\n**You**\nExperienced, self-directed; proven agentic or LLM-powered systems in a business context. Hit the ground running.\n\n**Examples of Projects in Backlog**\n\n*AI underwriting & pricing*\nAgentic system to help underwriters evaluate and price loans faster and more accurately. Ingest/classify",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1504243700216234046",
+    "timestamp": "2026-05-13T22:07:25.628000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "hivecollective.co | LLMOps, Agentic Systems, Cloud & DevOps",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1503674294566129724",
     "server": "Yannic Kilcher",
     "channel": "promotion",
