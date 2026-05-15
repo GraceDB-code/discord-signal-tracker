@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1504960501443199088",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "James Hizon",
+    "author_id": "837747924086816769",
+    "username": "letechnical_james",
+    "content": "Just applied -- please take note of email/DM. Thanks. I took ownership of core MVP AI product as cofounder and previously owned Python-focused data engineering & custom analytics dashboard workflows consulting for F500 Companies like Amazon, PG&E for technical solution delivery.",
+    "keywords": [
+      "cofounder",
+      "mvp"
+    ],
+    "categories": [
+      "founder_activity",
+      "project_showcase"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1504960501443199088",
+    "timestamp": "2026-05-15T21:35:44.358000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/jameshizon/",
+    "website": null,
+    "bio": "My name is James, and I am a data professional. Connect w/ me on LinkedIn @: https://www.linkedin.com/in/jameshizon/",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1504312502064775301",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
