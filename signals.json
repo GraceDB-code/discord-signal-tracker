@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1505029692808364052",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Kamil Alaa",
+    "author_id": "209330145478049793",
+    "username": "kamilalaa1615",
+    "content": "🚨 **Secure Program Synthesis Hackathon, May 22-24** 🚨 \n\n[Apart Research](<https://apartresearch.com>) and [Atlas Computing](<https://atlascomputing.org>) are running a three-day online hackathon attacking the spec gap in AI-generated code. Pick a track, ship a research artifact across the formal methods pipeline.\n\n🎤 **Speakers:**\n- [Joe Kiniry](<https://www.galois.com/team/joe-kiniry>): CEO Sigil Logic, Principal Scientist [Galois](<https://www.galois.com>)\n- [Jason Gross](<https://jasongross.github.io>): co-founder [Theorem](<https://theorem.dev>) (YC S25, $6M Khosla seed)\n- [Max von Hippel](<https://mxvh.pl>): co-founder and CTO [Benchify](<https://benchify.com>) (YC S24)\n- Quinn Dougherty: Research Engineer at Galois and Beneficial AI Foundation, SPS director\n\n🎯 **Tracks:**\n1. Specification Elicitation: pulling formal specs out of docs, code, conversations\n2. Specification Validation: checking whether a spec captures intended behavior\n3. Spec-Driven Development & Evaluation: generat",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1505029692808364052",
+    "timestamp": "2026-05-16T02:10:40.865000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/erikmeijer1/",
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1504960501443199088",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
