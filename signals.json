@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1505551407439417395",
+    "server": "Yannic Kilcher",
+    "channel": "text-for-voice",
+    "author": "alpha",
+    "author_id": "1369060648910327859",
+    "username": "alpha_30304",
+    "content": "i think they need to demonstrate they can get competitive capability without these features if they want to be taken seriously",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986700814938697728/1505551407439417395",
+    "timestamp": "2026-05-17T12:43:47.326000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1505029692808364052",
     "server": "MLOps (@chipro)",
     "channel": "events",
