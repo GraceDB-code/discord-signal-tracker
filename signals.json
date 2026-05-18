@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1505950912592613556",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "We're going over \"Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior\" in the reading group now in the mechanistic interpretability discord! \nAbstract:\n\"Neural representations carry rich geometric structure; but does that structure causally shape behavior? To address this question, we intervene along paths through activation space defined by different geometries, and measure the behavioral trajectories they induce. In particular, we test whether interventions that respect the geometry of activation space will yield behaviors close to those the model exhibits naturally. Concretely, we first fit an activation manifold Mh to representations and a behavior manifold My to output probability distributions.\n We then test the link Mh ↔ My via interventions: we find that steering along Mh, which we term manifold steering, yields behavioral trajectories that follow My, while linear steering—which assumes a Euclidean geometry—cuts through off-manifold regio",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1505950912592613556",
+    "timestamp": "2026-05-18T15:11:16.777000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1505551407439417395",
     "server": "Yannic Kilcher",
     "channel": "text-for-voice",
