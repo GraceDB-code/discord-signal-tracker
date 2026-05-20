@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1506452652685393960",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Kamil Alaa",
+    "author_id": "209330145478049793",
+    "username": "kamilalaa1615",
+    "content": "🚨 **Secure Program Synthesis Hackathon, May 22-24** (online) 🚨\n\nFirst HackTalk starts tomorrow. Hackathon kicks off Friday. Three days on the spec gap in AI-generated code. With [Apart Research](<https://apartresearch.com/>) and [Atlas Computing](<https://atlascomputing.org/>).\n\n🎤 **Talks:**\n1. Wed 5pm PT: [Jason Gross](<https://jasongross.github.io/>): co-founder Theorem (YC S25, $6M Khosla seed), MIT PhD on Fiat Cryptography. [RSVP](<https://luma.com/sps-hackathon-26-jason-gross>)\n2. Thu 11am PT: [Quinn Dougherty](<https://www.linkedin.com/in/quinn-dougherty/>): Research Engineer at Forall R&D, SPS Director, Lean4 benchmarks for AI safety. [RSVP](<https://luma.com/sps-hackathon-26-quinn-dougherty>)\n3. Fri 11am PT: [Joe Kiniry](<https://www.galois.com/team/joe-kiniry>): CEO & Chief Scientist Sigil Logic, Principal Scientist Galois. [RSVP](<https://luma.com/sps-hackathon-26-joe-kiniry>)\n4. Fri 1pm PT: [Kiran Gopinathan](<https://kirancodes.me>): Research Scientist at Basis, formal veri",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1506452652685393960",
+    "timestamp": "2026-05-20T00:25:00.937000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/quinn-dougherty/",
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1505950912592613556",
     "server": "Yannic Kilcher",
     "channel": "promotion",
