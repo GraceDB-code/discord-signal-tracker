@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1506541229356089364",
+    "server": "MLOps (@chipro)",
+    "channel": "welcome",
+    "author": "Emmanuel",
+    "author_id": "1399967745977880577",
+    "username": "emmanuel04028",
+    "content": "If you’re building something new or looking for a trusted technical partner, feel free to reach out. I’m always open to connecting with founders working on meaningful opportunities.",
+    "keywords": [
+      "building something new"
+    ],
+    "categories": [
+      "intent_departure"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/814557108530839574/1506541229356089364",
+    "timestamp": "2026-05-20T06:16:59.261000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "昨日の自分を超えるコードを書け。",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1506452652685393960",
     "server": "MLOps (@chipro)",
     "channel": "events",
