@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1507053017223135423",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "mgostIH",
+    "author_id": "185084125265395712",
+    "username": "mgostih",
+    "content": "<@205424484419633152> There's a paper training a randomly initialized MLP to do MNIST classification using GRPO, so as proof of concept it does show that the gradients from RL training do carry meaning beyond a slight change of distributions to choose from",
+    "keywords": [
+      "proof of concept"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1507053017223135423",
+    "timestamp": "2026-05-21T16:10:38.997000+00:00",
+    "github": null,
+    "twitter": "https://x.com/mgostIH",
+    "linkedin": null,
+    "website": null,
+    "bio": "I'm in my Nanachi arc, Made in Abyss maxxing, a faputapilled bondrewdcel.𒁈",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1507052097789493358",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "I tried to look into the giant debate around what all the different methods of RLVR actually does to the LLM's output distribution and internal representations.\n\nPapers are arguing whether \"RL truly expands a model’s reasoning capabilities or merely amplifies high-reward outputs already latent in the base model’s distribution. And whether continually scaling up RL compute reliably leads to improved reasoning performance.\" <https://arxiv.org/abs/2505.24864>\n\nAnswer to that question is different across different papers because the different papers use different KL-divergence formulations etc. in RLVR methods, different evaluation methodologies, different amount of compute.\n \nFor example, this \"Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?\" paper <https://arxiv.org/abs/2504.13837> says:\n\n\"In this study we critically examine the current state of RLVR by systematically probing the reasoning capability boundaries of RLVR-trained LLMs across ",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1507052097789493358",
+    "timestamp": "2026-05-21T16:06:59.787000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1506541229356089364",
     "server": "MLOps (@chipro)",
     "channel": "welcome",
