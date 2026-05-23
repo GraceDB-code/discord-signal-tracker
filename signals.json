@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1507771151340802079",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Muhammad Zeeshan",
+    "author_id": "1086217556815253534",
+    "username": "malikzeeshan007",
+    "content": "https://www.linkedin.com/posts/muhammadzeeshan007_zorcex-aiengineering-buildercommunity-share-7463919597885505536-DarL/?utm_source=share&utm_medium=member_android&rcm=ACoAAEQfcQMB9V8AMjQXHrsyGvLjMvpEtO-mdrg",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1507771151340802079",
+    "timestamp": "2026-05-23T15:44:15.513000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/muhammadzeeshan007/",
+    "website": null,
+    "bio": "https://www.linkedin.com/in/muhammadzeeshan007/",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1507738855187546112",
+    "server": "Yannic Kilcher",
+    "channel": "events",
+    "author": "Yannic Kilcher",
+    "author_id": "699606075023949884",
+    "username": "ykilcher",
+    "content": "@everyone <@&782362139087208478> \n**Paper Discussion 2026#19**\n\n<t:1779559200:F> until <t:1779566400:t>, <@699606075023949884>  will present `Generative Recursive Reasoning` in https://discord.com/channels/714501525455634453/1337720641528401930.\n\nEvent:\nhttps://discord.gg/kfuWq5qQ?event=1507738555198345328\n\nIf you'd like to present a paper, send a direct message to <@178150411545346049>  with a link to the paper and availability information.\n\n**Paper:**\nhttps://arxiv.org/abs/2605.19376\n\n**Abstract:**\nHow should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with shared transition functions. Yet existing RRMs are largely deterministic, following a single latent trajectory and converging to a single prediction. We introduce Generative Recursive reAsoning Models (GRAM), a framework that turns recursive latent reasoning into p",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1507738855187546112",
+    "timestamp": "2026-05-23T13:35:55.510000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1507723403266883709",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
