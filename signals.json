@@ -1,5 +1,86 @@
 [
   {
+    "message_id": "1507723403266883709",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "Kyrtin",
+    "author_id": "294281421684473856",
+    "username": "kyrtin",
+    "content": "So would you say in relation to that: 1 is baked into the related data, 2 is simply the prompt, 3 is influenced by things like RLHF or fine-tuning (or just not setting an upper bound on resources), and 4 draws on other related data?",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1507723403266883709",
+    "timestamp": "2026-05-23T12:34:31.485000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://www.researchgate.net/profile/Kyrtin-Atreides",
+    "bio": "COO and Researcher at AGI Laboratory.\nhttps://www.researchgate.net/profile/Kyrtin-Atreides",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1507722150994251888",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "I liked these comment from the mathematicians:\n\n\"I believe it would be fair to say that every mathematician working in Combinatorial Geometry thought about this problem, and lots of mathematicians working in other areas spent at least some time thinking about it…\n\nThe fact that the correct answer is not n^(1+o(1))is surprising, and the construction and its analysis apply fairly sophisticated tools from algebraic number theory in an elegant and clever way.\" \n\n\"On examining the construction, it becomes more clear how people had missed this before – it requires the confluence of several different unlikely events: that a good mathematician is \n\n(1) spending significant time in thinking about the unit distance conjecture in the first place; \n\n(2) seriously trying to disprove it, despite the oft-repeated belief of Erdős that it is true; \n\n(3) believes that there is mileage in generalising the original construction to other number fields, and so is willing to expend significant time in explor",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1507722150994251888",
+    "timestamp": "2026-05-23T12:29:32.920000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1507721900569137222",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "Kyrtin",
+    "author_id": "294281421684473856",
+    "username": "kyrtin",
+    "content": "Interesting. That is usually the pattern for \"hard problems\" demonstrated on \"Innovation Platforms\", where the solution draws from another field. That is also roughly how Kahneman came to produce Prospect Theory, approaching it from outside.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1507721900569137222",
+    "timestamp": "2026-05-23T12:28:33.214000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://www.researchgate.net/profile/Kyrtin-Atreides",
+    "bio": "COO and Researcher at AGI Laboratory.\nhttps://www.researchgate.net/profile/Kyrtin-Atreides",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1507053017223135423",
     "server": "Yannic Kilcher",
     "channel": "general",
