@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1508900607128244476",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Kushagra",
+    "author_id": "1208892572982972428",
+    "username": "kushagra651",
+    "content": "Hi everyone! I’m Kushagra, a final-year engineering student focused on Applied AI, RAG systems, LLM fine-tuning (LoRA/PEFT), and production ML workflows.\n\nRecently built:\n• LexRA — fine-tuned legal-domain LLM\n• EnterpriseRAG — production RAG pipeline\n• SentinelML — ML monitoring & retraining system\n\nCurrently looking for AI/ML internship opportunities (remote preferred). Happy to connect if anyone is hiring or knows relevant openings.\n\nGitHub: github.com/kushagra651\nLinkedIn: linkedin.com/in/kushagra651",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1508900607128244476",
+    "timestamp": "2026-05-26T18:32:18.757000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1508899782129619065",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-research",
+    "author": "Moon",
+    "author_id": "1070155018495348807",
+    "username": "moon.runner09",
+    "content": "Hey everyone! I hope you are all doing well.\nI am a software engineer specializing in AI and ML development.\nI possess 7 years of experience in full-stack project development and 3 years in AI/ML development, and I currently work as a freelancer.\nI have extensive experience building systems using a diverse range of languages ​​and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, Flutter, and others.\nIn particular, I have experience developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multimodal systems, N8N and workflow automation solutions, MCP integration, fine-tuned models, vector search systems, NLP pipelines, DevOps and MLOps infrastructure, and API integration systems.\nWhile many large enterprises are brimming with creative and passionate energy, what is often more critical- yet lacking -is the presence of capable engi",
+    "keywords": [
+      "fine-tuned"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1508899782129619065",
+    "timestamp": "2026-05-26T18:29:02.062000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "```   senior software engineer —⠀❐⠀⤬```\n\nFull Stack | Mobile App | API Integration | Chatbot | Assistant | RAG | Multimodal AI | N8N | Workflow Automation",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1508793372461105152",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
