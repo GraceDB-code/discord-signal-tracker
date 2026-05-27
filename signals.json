@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1509261078280798249",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "JuanCarloos",
+    "author_id": "963474848108118116",
+    "username": "juancarloos26",
+    "content": "Hi! Everyone!\nI’m an experienced AI developer who focuses on building practical, production-ready solutions, not just demos that look good on paper.\nI’ve worked on things like:\n> **Custom AI agents & assistants\n> LLM integrations (OpenAI, Claude, open-source models)\n> Automation pipelines & AI-powered tools\n> Backend + API integrations to make AI actually usable in real products**\nI care a lot about clear communication, fast iteration, and delivering something that genuinely helps your business — not overengineering or buzzwords. \nI’m happy to suggest better approaches if I see one, and I keep things transparent so there are no surprises.\nIf you already have a clear plan, I can execute quickly.\nHappy to jump on a quick chat or chat to see if we’re a good fit. \nLooking forward to working together!",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1509261078280798249",
+    "timestamp": "2026-05-27T18:24:41.777000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1508900607128244476",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
