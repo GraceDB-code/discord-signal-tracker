@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1509911056644968509",
+    "server": "MLOps (@chipro)",
+    "channel": "help",
+    "author": "shlok",
+    "author_id": "1366310503063883807",
+    "username": "shokk37839393",
+    "content": "Hey anybody interested in working ins startup building something different related to ai\nMore like a platform \n\nWant more details give me a dm I'll share u details about it\n\nNeeded a backend guy\nDevops \nFrontend \n\n\nAnybody knowing this skills pls dm me \nWe can work and prepare mvp within week almost work is done needed some to touch up and tech stuff (core stuff is done )\nJust stuff around its remaining \n\nIt's b2b saas",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1509911056644968509",
+    "timestamp": "2026-05-29T13:27:28.695000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "2 year IT major student \nStack - python , numpy, pandas , pytorch,\nSkill - fine tuning, data analysis, model training, model deployment",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1509879041400897686",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "JIREN",
+    "author_id": "480665421943668736",
+    "username": "jirenisbot",
+    "content": "Its so hard to get anything right now with 0 exp i gave soo much to personal projects shipped them only to get slapped by \"youre a baby with no exp\". :/",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1509879041400897686",
+    "timestamp": "2026-05-29T11:20:15.666000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1509261078280798249",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
