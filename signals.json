@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1510683557838716999",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "ZickZack",
+    "author_id": "178150411545346049",
+    "username": "zickzack",
+    "content": "anthropic almost surely made close to 250m on the 500m costs.\nThe expensive thing is training, not the inference.\nInference is still expensive but no where close to what these companies are charging: \nWe can get a rough idea by looking at open-source models like Deepseek V4. There is a calculator by Nvidia (https://developer.nvidia.com/deep-learning-performance-training-inference/ai-inference, of course there's some bias but it shows the general trend), which would imply a cost of ~$4.20 between $0.12 depending on GPU, model, how cheap they can rent compute in bulk, etc...\n\nThe exact number does not matter too deeply (especially since we do not know claude/openai's architecture and we have to distinguish generation vs input tokens, etc...) but if anthropic lives anywhere close to the deepseek numbers then they should still be making money even under the most extreme inference prices.\n\nAnother interesting datapoint we can look at is the cost that model providers like DeepInfra, Novita o",
+    "keywords": [
+      "quantization"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1510683557838716999",
+    "timestamp": "2026-05-31T16:37:07.332000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1509911056644968509",
     "server": "MLOps (@chipro)",
     "channel": "help",
