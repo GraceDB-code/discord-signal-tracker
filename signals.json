@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1511099753264320564",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "viv2668",
+    "author_id": "751001597290610708",
+    "username": "viv2668",
+    "content": "The most asked question in enterprise AI right now: \"What actually is a context layer?\" Everyone uses the term. Almost no one defines it the same way.\n\nPrukalpa breaks it down clearly: the 3 substrates that form machine-usable context and the 5 capabilities that build an enterprise context layer.\n\nA context layer turns three things into machine-usable context for AI: \n→ Knowledge — what the business means \n→ Expertise — how work actually gets done \n→ Norms — what's allowed\n\nThis is why agents dazzle in demos and break in production. Most architectures have knowledge. They're missing expertise and norms.\n\nFull breakdown in this week's Context & Chaos: https://metadataweekly.substack.com/p/what-an-enterprise-context-layer",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1511099753264320564",
+    "timestamp": "2026-06-01T20:10:56.054000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://metadataweekly.substack.com/p/what-an-enterprise-context-layer"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1510683557838716999",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
