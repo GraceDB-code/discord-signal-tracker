@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1511253372383006760",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "Augustine",
+    "author_id": "1509117827976527882",
+    "username": "augustinecu",
+    "content": "Hi everyone,\n\nI'm engaging with AI/ML developers to better understand their compute needs and challenges:\n\n• Which models you're running (LLMs, multimodal, fine-tuning, inference, agents, etc.)\n• What GPU and hardware resources you need\n• Your performance, throughput, and latency expectations\n• Pain points with current cloud, GPU, or providers\n• How you provision and manage compute resources\n\nPlease comment below or send me a DM.\n\nThank you—I greatly appreciate your insights.",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1511253372383006760",
+    "timestamp": "2026-06-02T06:21:21.706000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1511099753264320564",
     "server": "MLOps (@chipro)",
     "channel": "discussion",
