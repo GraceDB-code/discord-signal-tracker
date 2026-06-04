@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1512098150608011324",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Soham",
+    "author_id": "703302692583505971",
+    "username": "csoham_",
+    "content": "Hey folks! Sharing something I've been heads-down on for a while: we just launched ScaleDown 🚀\n\nThe short version: frontier models are overkill for most AI tasks. We build small, task-specific models that outperform GPT on extraction, classification, and summarization, at a fraction of the cost.\n\nWould love feedback from folks here. Check it out at scaledown.ai and happy to chat if you're working on anything where LLM costs are a pain point.\n[LinkedIn Post if you wanna show some love](https://www.linkedin.com/posts/neal-k-patel_introducing-scaledown-home-of-the-most-efficient-ugcPost-7468300000532549632--nCO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5df3UB_ZkomWBeTUIF87aHNBb148_VR8U)",
+    "keywords": [
+      "just launched"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1512098150608011324",
+    "timestamp": "2026-06-04T14:18:12.530000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/posts/neal-k-patel_introducing-scaledown-home-of-the-most-efficient-ugcPost-7468300000532549632--nCO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5df3UB_ZkomWBeTUIF87aHNBb148_VR8U",
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1511840891336134666",
     "server": "MLOps (@chipro)",
     "channel": "ai-in-production",
