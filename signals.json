@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1511840891336134666",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "Emmanuel",
+    "author_id": "1399967745977880577",
+    "username": "emmanuel04028",
+    "content": "Hey everyone\nI’m an AI  engineer working on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision)\nMost of my work is focused on building real AI systems that actually run in production, not just demos\nThat usually means connecting LLMs with APIs, databases, tools, and business logic so the system can be reliable and usable in real workflows.\n\nSome of the things I work with:\n> LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct)\n> RAG systems with vector databases and custom retrieval pipelines\n> Multi agent systems with planning and tool usage\n> Multimodal AI (Whisper, CLIP, YOLOv8, TTS)\n> AI image and video generation pipelines\nBackend and full-stack development (FastAPI, NestJS, Next.js, React)\nAutomation and integrations (n8n, Zapier, Make, custom APIs)\n\nThis isn't just about promoting my skills, but also about helping each other develop our community further\n I believe the goal of our community is to help each other, so please contact me anytime if you ",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1511840891336134666",
+    "timestamp": "2026-06-03T21:15:57.140000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "昨日の自分を超えるコードを書け。",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1511253372383006760",
     "server": "MLOps (@chipro)",
     "channel": "discussion",
