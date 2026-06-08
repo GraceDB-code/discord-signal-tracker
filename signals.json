@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1513264517671551187",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "AMAN",
+    "author_id": "505765526643933184",
+    "username": "aman6060",
+    "content": "I’ve been actively building and researching in AI/ML over the past few years. Some of my work includes:\n\nA Lung Cancer Prediction model\nA Domain Fraud Detection system combining cybersecurity + ML\nResearch on Multispectral and RGB Image Classification using Deep Learning, which has been selected at an IEEE International Space Conference and will be published soon\n\nI have strong fundamentals in Machine Learning, Deep Learning, NLP, Generative AI, Transformers, RAG pipelines, and LLM concepts including fine-tuning and inference. Most of my learning has come from building projects, experimenting with models, and understanding systems deeply rather than just using frameworks at a surface level.\n\nI’d love to contribute and learn in a fast-paced team working on real products.I'm currently looking for internships, please lemme know if there's an opportunity fit for me",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1513264517671551187",
+    "timestamp": "2026-06-07T19:32:56.108000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1512098150608011324",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
