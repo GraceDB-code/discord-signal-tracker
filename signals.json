@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1513622145228472514",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "muhammad",
+    "author_id": "1159832673506836521",
+    "username": "muhammad_83022",
+    "content": "**Building interactive HTML UIs with the new MCP Apps extension to replace raw JSON output**\n\nI’ve been building on top of MCP lately, but watching an agent fetch rich data only to dump a massive wall of JSON in the chat window always felt like a step backward for UX. I recently stumbled on the official \"MCP Apps\" extension after seeing how the Spotify plugin renders an interactive music player widget inside Claude instead of standard markdown text.\n\nUnder the hood, it lets your server declare a ui:// URI alongside standard tools, which the host mounts inside a sandboxed iframe. To test the limitations of the loop, I built a couple of implementations: a client-side weather card that handles unit toggles without talking back to the LLM, and a visual graph debugger for LangGraph checkpoint history to replace messy nested text.\n\nThis feels like a pretty massive deal for the AI community because it introduces a completely clean way to handle AI UX. Y can have your normal mcp tools, that ar",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1513622145228472514",
+    "timestamp": "2026-06-08T19:14:01.162000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://medium.com/towards-artificial-intelligence/mcp-apps-build-interactive-apps-directly-inside-your-ai-agents-chat-c571678099e3"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1513264517671551187",
     "server": "Yannic Kilcher",
     "channel": "jobs-and-internships",
