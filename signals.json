@@ -1,5 +1,86 @@
 [
   {
+    "message_id": "1514424843955601530",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "sohnitagirisa",
+    "author_id": "758456750495236117",
+    "username": "sohnitagirisa",
+    "content": "🚀 Build Fast. Launch Loud.\n\n1-Day AI Hackathon • Prompt Driven \n\n🔹 Build something shippable\n\n🔹 Team up with strong engineers\n\n🔹 Demo at the end of the day\n\n🔗 Info + RSVP: https://promptdriven.ai/events/build-fast-launch-loud-prompt-driven-hackathon",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1514424843955601530",
+    "timestamp": "2026-06-11T00:23:39.452000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1514366688605503488",
+    "server": "MLOps (@chipro)",
+    "channel": "career-advice",
+    "author": "!                - ☆ NeuralX ☆ -",
+    "author_id": "892772507361378395",
+    "username": "neural.x",
+    "content": "# Here to collaborate with you\n\nI’m an AI/ML & Full-Stack Engineer with experience building real AI products, not just simple demos.\n\n***My expertise***:\n🔹 AI chatbots connected to databases, APIs, and business workflows\n🔹 RAG systems for document search and knowledge assistants\n🔹 AI agents with memory, tools, and task automation\n🔹 Voice AI assistants using STT/TTS, Twilio, Vapi, and Retell\n🔹 Automation workflows for CRM, support, sales, and internal tools\n🔹 OCR, visual search, AI avatars, lip-sync, and video AI\n🔹 Full-stack AI SaaS platforms with dashboards, APIs, auth, databases, and cloud deployment\n\n***Skill Set***: OpenAI, Claude, LangChain, LangGraph, AutoGen, CrewAI, Python, FastAPI, Next.js, React, Node.js, n8n, Zapier, and Make.com.\n\nI can help turn your AI ideas into real, working products.\nLet's connect and discuss about your project if you’re building an AI product, chatbot, automation system, RAG platform, or SaaS app.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1514366688605503488",
+    "timestamp": "2026-06-10T20:32:34.136000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "🧠 LLM Agents • RAG • Voice AI • SaaS • Automation\n⚡ Next.js • React • Node.js • Python • FastAPI\n🔗 OpenAI • LangChain • LangGraph • Vector DBs • PostgreSQL\n☁️ AWS • Docker • CI/CD",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1514366619466465441",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "!                - ☆ NeuralX ☆ -",
+    "author_id": "892772507361378395",
+    "username": "neural.x",
+    "content": "# Here to collaborate with you\n\nI’m an AI/ML & Full-Stack Engineer with experience building real AI products, not just simple demos.\n\n***My expertise***:\n🔹 AI chatbots connected to databases, APIs, and business workflows\n🔹 RAG systems for document search and knowledge assistants\n🔹 AI agents with memory, tools, and task automation\n🔹 Voice AI assistants using STT/TTS, Twilio, Vapi, and Retell\n🔹 Automation workflows for CRM, support, sales, and internal tools\n🔹 OCR, visual search, AI avatars, lip-sync, and video AI\n🔹 Full-stack AI SaaS platforms with dashboards, APIs, auth, databases, and cloud deployment\n\n***Skill Set***: OpenAI, Claude, LangChain, LangGraph, AutoGen, CrewAI, Python, FastAPI, Next.js, React, Node.js, n8n, Zapier, and Make.com.\n\nI can help turn your AI ideas into real, working products.\nLet's connect and discuss about your project if you’re building an AI product, chatbot, automation system, RAG platform, or SaaS app.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1514366619466465441",
+    "timestamp": "2026-06-10T20:32:17.652000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "🧠 LLM Agents • RAG • Voice AI • SaaS • Automation\n⚡ Next.js • React • Node.js • Python • FastAPI\n🔗 OpenAI • LangChain • LangGraph • Vector DBs • PostgreSQL\n☁️ AWS • Docker • CI/CD",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1513622145228472514",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
