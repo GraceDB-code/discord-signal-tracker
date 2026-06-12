@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1515048028963209298",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "BinarySplit",
+    "author_id": "122845995045224450",
+    "username": "binarysplit",
+    "content": "I'd hope so, but I haven't heard reports. Can't help but wonder if they'd use that as negotiating leverage... You'd expect the list to be pre-seeded with bigger institutions if it was only about vetting.",
+    "keywords": [
+      "pre-seed"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1515048028963209298",
+    "timestamp": "2026-06-12T17:39:58.336000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Agender-leaning. I play games for the plot. Can't stop learning: currently French, Japanese, AI, genetics.\nAKA Lachlan, Newtra.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1514852375368695910",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
