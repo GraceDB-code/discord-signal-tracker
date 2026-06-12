@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1514852375368695910",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "ashishdhiman23",
+    "author_id": "1067760193385013318",
+    "username": "ashishdhiman23",
+    "content": "Just shipped a new gate type in EdgeGate (regression CI for on-device AI) — composition gates that catch a class of silent regression that aggregate metrics can't see.\n\n The bug: on a heterogeneous SoC (Snapdragon, in our case), one op gets re-placed off the NPU after a runtime update. Inference latency triples. \nBut aggregate cpu_compute_percent still reads ~5% because it's time-weighted and the rest of the model is fast. Every dashboard says \"passed.\"\n\n The fix is counting layers instead of percentages:\n\n { \"type\": \"composition\", \"op_type\": \"Conv\", \"compute_unit\": \"CPU\", \"operator\": \"==\", \"threshold\": 0 }\n\n Evaluated per-cell from the device's execution_detail. Lands in a signed evidence bundle alongside the raw profiler output, so an auditor can reproduce the metric independently. \n\n Useful if you ship models to edge devices and want a CI guard for layer placement (or for ISO 26262 / regulated-industry audit chains).\n \n 50s explainer: https://youtube.com/shorts/KZc9ag4_mNg\n Free wor",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1514852375368695910",
+    "timestamp": "2026-06-12T04:42:30.884000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://youtube.com/shorts/KZc9ag4_mNg"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1514424843955601530",
     "server": "MLOps (@chipro)",
     "channel": "events",
