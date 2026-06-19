@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1517596613848203404",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Davide",
+    "author_id": "478075931089436672",
+    "username": ".daev",
+    "content": "yes, quantization as regularization is known, but I cant provide an exact source",
+    "keywords": [
+      "quantization"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1517596613848203404",
+    "timestamp": "2026-06-19T18:27:08.323000+00:00",
+    "github": "https://github.com/DavideWiest",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1517591017568862420",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "TH.San",
+    "author_id": "1503338610127147111",
+    "username": "th.san_",
+    "content": "I'm an AI Engineer and Software Engineer focused on building production-ready AI applications and scalable backend systems. My recent work has centered on:\n\n* ✅ **Agentic AI** – Built AI voice agents and multi-agent workflows for customer support, booking, and business automation.\n* ✅ **Advanced RAG & Context Engineering** – Developed knowledge systems using vector databases, semantic search, and tool integration to improve response quality.\n* ✅ **LLMOps & AI Infrastructure** – Deployed AI services with Docker, Kubernetes, FastAPI, and cloud platforms, with a focus on scalability, monitoring, and reliability.\n* ✅ **Software Engineering** – Designed APIs, microservices, and distributed systems that power AI products in production.\n* ✅ **AI Evaluation & Observability** – Implemented evaluation pipelines, logging, and monitoring to improve model performance and system reliability.\n\nI enjoy building AI products that solve real business problems and can scale from prototype to production.",
+    "keywords": [
+      "prototype"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1517591017568862420",
+    "timestamp": "2026-06-19T18:04:54.066000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1516510563314827345",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
