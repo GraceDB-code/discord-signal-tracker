@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1518635522212495540",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "We're going over \"Interpretability in Parameter Space: Minimizing Mechanistic Description Length with Attribution-based Parameter Decomposition\" in the reading group now in the mechanistic interpretability discord!\n\"Mechanistic interpretability aims to understand the internal mechanisms learned by neural networks. Despite recent progress toward this goal, it remains unclear how best to decompose neural network parameters into mechanistic components. We introduce Attribution-based Parameter Decomposition (APD), a method that directly decomposes a neural network's parameters into components that (i) are faithful to the parameters of the original network, (ii) require a minimal number of components to process any input, and (iii) are maximally simple. Our approach thus optimizes for a minimal length description of the network's mechanisms. We demonstrate APD's effectiveness by successfully identifying ground truth mechanisms in multiple toy experimental settings: Recovering features from ",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1518635522212495540",
+    "timestamp": "2026-06-22T15:15:23.379000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1517992845355778089",
     "server": "Yannic Kilcher",
     "channel": "daily-paper-discussion",
