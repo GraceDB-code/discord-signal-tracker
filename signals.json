@@ -1,5 +1,61 @@
 [
   {
+    "message_id": "1519530648065540188",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "ynez_maxmodel",
+    "author_id": "1519525969457578092",
+    "username": "ynez_maxmodel_97292",
+    "content": "Background: I had a deterministic \"quote-checking\" engine running inside a reading app I shipped — it only lets the model quote, then checks each quote against the source text in code. I kept thinking every RAG app needs this, so I pulled it out into a gateway.\n\nMaxModel is an OpenAI-compatible API with a `verified` mode. You pass your own sources; it returns the answer with verbatim citations + a list of claims it couldn't ground (dropped before they reach your users). The check is character-for-character against your text — not an LLM judging an LLM.\n\nLive now: `npm i maxmodel` / `pip install maxmodel` · docs https://docs.maxmodel.com\n\nWhat I'm trying to learn before going deeper:\n1. Is verifiable trust the wedge, or just a nice-to-have on top of the cheap gateway?\n2. Drop-in SDK vs. people wanting the whole backend (DB/auth/RAG) too?\n3. What's the \"I'd pay for this\" moment for you?\n\nHappy to set up design-partner calls with anyone building support bots / internal copilots / anything",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1519530648065540188",
+    "timestamp": "2026-06-25T02:32:18.013000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1519467467729145878",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Yuan (Terry) Tang",
+    "author_id": "925211326400315412",
+    "username": "terrytangyuan",
+    "content": "The State of Model Serving Communities: June 2026 Edition is out! Enjoy the updates on vLLM, KServe, llm-d, Kubernetes, and more from Red Hat AI teams! https://inferenceops.substack.com/p/state-of-the-model-serving-communities-dee",
+    "keywords": [
+      "model serving"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1519467467729145878",
+    "timestamp": "2026-06-24T22:21:14.647000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/",
+    "shared_links": [
+      "https://inferenceops.substack.com/p/state-of-the-model-serving-communities-dee"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1518635522212495540",
     "server": "Yannic Kilcher",
     "channel": "promotion",
