@@ -1,5 +1,61 @@
 [
   {
+    "message_id": "1519808642256343051",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "thebigbigbuddha",
+    "author_id": "284519018004742147",
+    "username": "thebigbigbuddha",
+    "content": "Hi everyone! Sidh from Manifold Research here.\n\nWanted to share a recent open-source collaboration between Manifold Research, Fig, and Georgia Tech that I thought might be of interest here.\n\nWe released GUI-Perturbed, a benchmark for evaluating the robustness of browser-use agents under realistic interface perturbations like browser zoom, webpage restyling, and instruction rewording. One interesting finding was that these seemingly minor changes can significantly degrade performance, even after training on perturbed data.\n\nYou can find the paper, benchmark, models, demos, and everything else [here](https://www.fig.inc/blog/fixing-failures-in-browser-use/?utm_source=YannicKilcher).\n\nHappy to answer any questions here or in DMs!",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1519808642256343051",
+    "timestamp": "2026-06-25T20:56:56.993000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1519807807652892764",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-but-not-genai",
+    "author": "thebigbigbuddha",
+    "author_id": "284519018004742147",
+    "username": "thebigbigbuddha",
+    "content": "Hi everyone! Sidh from Manifold Research here.\n\nWanted to share a recent open-source collaboration between Manifold Research, Fig, and Georgia Tech that I thought might be of interest here.\n\nWe released GUI-Perturbed, a benchmark for evaluating the robustness of browser-use agents under realistic interface perturbations like browser zoom, webpage restyling, and instruction rewording. Along with the paper, we've open-sourced the benchmark, perturbation pipeline, fine-tuned model, and interactive demos to help evaluate agent reliability.\n\nYou can find everything [here](https://www.fig.inc/blog/fixing-failures-in-browser-use/?utm_source=MLOps).\n\nHappy to answer any questions here or in DMs!",
+    "keywords": [
+      "fine-tuned",
+      "demo"
+    ],
+    "categories": [
+      "ai_infrastructure",
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/828325357102432327/1519807807652892764",
+    "timestamp": "2026-06-25T20:53:38.008000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1519530648065540188",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
