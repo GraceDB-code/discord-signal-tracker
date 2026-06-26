@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1519954039041953802",
+    "server": "MLOps (@chipro)",
+    "channel": "looking-for-work",
+    "author": "Aurelia",
+    "author_id": "1197166253375242270",
+    "username": "jupyter_au",
+    "content": "## [For Hire] Machine Learning Engineer\nI specialize in building and deploying practical machine learning systems powered by modern deep learning models and scalable data pipelines. My focus is on turning raw data into intelligent, production-ready systems that solve real-world problems in automation, prediction, and decision-making.\n\nI work across the full ML lifecycle — from data processing and model development to deployment and optimization — ensuring models are efficient, reliable, and ready for production environments.\n\nMy experience covers:\n\n• Machine learning model development (supervised, unsupervised, deep learning)\n• LLM integration and AI systems (RAG pipelines, embeddings, fine-tuning, tool use)\n• Data preprocessing, feature engineering, and dataset design\n• Model training, evaluation, and optimization (accuracy, latency, cost)\n• MLOps and deployment (APIs, inference pipelines, scaling)\n• Backend integration for AI systems (FastAPI, Node.js, cloud services)\n• Real-time and",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1397729750008725504/1519954039041953802",
+    "timestamp": "2026-06-26T06:34:42.288000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1519808642256343051",
     "server": "Yannic Kilcher",
     "channel": "promotion",
