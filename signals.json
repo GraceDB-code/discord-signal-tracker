@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1521558518740553808",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "jw",
+    "author_id": "1342905941674430605",
+    "username": "jwopen_55155",
+    "content": "Hey folks, I am open sourcing my ai-relay GitHub repo. \n\nIt lets anyone use a coding agent from a browser instead of a terminal, with no installation, setup, or CLI required.\n\nCoding agents are incredibly powerful, but they’re still trapped behind the terminal. That’s a barrier for most people. Your PM, designer, or founder shouldn’t have to open a shell just to build something.\n\nai-relay puts a coding agent behind a normal web page.\n\nWith a single prompt, anyone can:\n• Describe what they want in plain English.\n• Watch the agent write and execute code live.\n• Get a working app back.\n\nFor example, I asked it to predict the 2026 FIFA World Cup champion. From a single browser prompt, it gathered live data, scored every team, ran a Monte Carlo simulation, and generated an interactive dashboard.\n\n🎥 90-second demo: https://youtu.be/_F_IoHiLo6s\n\nOpen source: \n• GitHub: https://github.com/jw-open/ai-relay \n• PyPI: pip install ai-relay → https://pypi.org/project/ai-relay\n\nI’d love your feedback",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1521558518740553808",
+    "timestamp": "2026-06-30T16:50:20.058000+00:00",
+    "github": "https://github.com/jw-open/ai-relay",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1519954039041953802",
     "server": "MLOps (@chipro)",
     "channel": "looking-for-work",
