@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1524121369913065572",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "dberenbaum",
+    "author_id": "675171075922853910",
+    "username": "dberenbaum",
+    "content": "Hi everyone, Smile ID is looking for a Senior ML/AI Engineer. I'll put a brief description and link below:\n\nCompany: Smile ID is an AI-native identity verification provider in emerging markets. We block fraud while increasing access to financial services at scale, in real time. We are already the market leader in Africa, having performed 400M+ identity checks (hundreds of thousands daily). We are also a small team fighting to prevent fraud that is increasingly complex and AI-driven. We leverage AI to do more with less, building upon domain knowledge and existing identity verification and computer vision solutions. \n\nRole: Integrate machine learning and computer vision systems with agentic workflows to enhance fraud prevention. The ideal candidate combines experience in machine learning (especially but not exclusively computer vision), AI (fine-tuning LLMs and VLMs, deploying, evaluating, and developing agentic workflows), and/or identity verification (biometrics, face recognition, docu",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1524121369913065572",
+    "timestamp": "2026-07-07T18:34:11.393000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1523814940195029022",
     "server": "Yannic Kilcher",
     "channel": "general",
