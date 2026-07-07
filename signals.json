@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1523814940195029022",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "jklw10",
+    "author_id": "271327773195239432",
+    "username": "jklw10",
+    "content": "honestly you should have a both that just detects a certain 4 image series and insta bans em :D",
+    "keywords": [
+      "series a"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1523814940195029022",
+    "timestamp": "2026-07-06T22:16:32.855000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "I am but a man, yet existence begets hallucinations.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1521558518740553808",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
