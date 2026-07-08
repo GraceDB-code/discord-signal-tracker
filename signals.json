@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1524239546697646261",
+    "server": "Yannic Kilcher",
+    "channel": "computer-vision",
+    "author": "TheLoveOfPurplePuppet",
+    "author_id": "1419709749959721106",
+    "username": "theloveofpurplepuppet",
+    "content": "Hi, everyone, I now want to advocate my new work: EMPURPLE: Improving Few-Step Diffusion Distillation\nMany few-step diffusion models add random noise that erases details generated in previous steps. EMPURPLE challenges this paradigm. Compare to the inference process given by the few step ODE solver which generate blurred color at the early inference stage, the inference process of the distillation mode seem wasting capacity on meaningless detail. By recycling useful latent information, our algorithm can improve FID at most 20%\nThe diversity different is obvious, please check that:\n\npaper:https://arxiv.org/abs/2607.04276\n🎮 Demo:https://colab.research.google.com/drive/1DVw41J_7yzhBxRhhNeOsCFxz-ROZWHLw?usp=sharing\nGit repo: https://github.com/TheLovesOfLadyPurple/Empurple-Training-Free-Algorithm-To-enhance-Diversity-of-The-Diffusion-Distillation-Model",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/760199202541928478/1524239546697646261",
+    "timestamp": "2026-07-08T02:23:46.934000+00:00",
+    "github": "https://github.com/TheLovesOfLadyPurple/Empurple-Training-Free-Algorithm-To-enhance-Diversity-of-The-Diffusion-Distillation-Model",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1524121369913065572",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
