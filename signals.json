@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1524714727199215676",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "bhosademon",
+    "author_id": "1070785045150834750",
+    "username": "fictional._aadiiiii",
+    "content": "Hello everyone! 👋\nI build AI and LLM systems, including model integration, RAG pipelines, multi-agent workflows, and full-stack applications. If you're building a startup, launching a new product, or need an experienced developer to bring your ideas to life, let's talk!",
+    "keywords": [
+      "launching"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1524714727199215676",
+    "timestamp": "2026-07-09T09:51:58.794000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1524665460459700324",
     "server": "Yannic Kilcher",
     "channel": "daily-paper-discussion",
