@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1524499353354637342",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "OlgaT",
+    "author_id": "1069309746961731765",
+    "username": "olgat35",
+    "content": "A rare disease - spinal CSF leak - is treatable. The problem is finding it. \nPatients are misdiagnosed, and radiology imaging is often negative.\n\nI want to change that. I'm developing the concept for a decision-support tool that first estimates how likely a leak is and then re-reads existing spine MRIs with leak-specific attention, takes in the patient's clinical history, and outputs a targeting map, including which levels to look at, with which technique, and why. It aims the confirmatory test so a doctor who does not specialize in leaks can act. \n\nI'm an AI product manager and AI consultancy founder who has spent months in clinical research. I have a proposed architecture spanning symptom intake, patient data deidentification, 3D computer vision, RAG over the medical lit, LLMs, and a search connector, but I need technical collaborators to pressure-test that architecture and build it.\n\nLooking for a technical co-founder with ML / computer-vision experience who wants to own the enginee",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1524499353354637342",
+    "timestamp": "2026-07-08T19:36:09.668000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/in/olgatopchaya/",
+    "website": "http://lapisconsults.com/",
+    "bio": "Founder, CEO of Lapis AI Consults -  an AI consultancy specializing in LLMs.\nhttp://lapisconsults.com/\n\nhttps://www.linkedin.com/in/olgatopchaya/",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1524239546697646261",
     "server": "Yannic Kilcher",
     "channel": "computer-vision",
