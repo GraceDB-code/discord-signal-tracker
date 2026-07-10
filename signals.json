@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1525055173330866186",
+    "server": "MLOps (@chipro)",
+    "channel": "learning-buddies",
+    "author": "MartinYip",
+    "author_id": "1480749573373694042",
+    "username": "martinyip0645_01395",
+    "content": "Hello everyone! I'm a Backend Engineer that learning about MLOps crypto pipelines.I have  demo that I did like to share and am excited to join this community so we can learn and build together.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1135678984840020000/1525055173330866186",
+    "timestamp": "2026-07-10T08:24:47.477000+00:00",
+    "github": "https://github.com/martinyip86/MLOps-quant-pipeline.git",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "https://github.com/martinyip86/MLOps-quant-pipeline.git",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1524987124112166932",
+    "server": "Yannic Kilcher",
+    "channel": "daily-paper-discussion",
+    "author": "wave function",
+    "author_id": "294632311176298498",
+    "username": ".wavefunction",
+    "content": "<@&1045297948034072678> , <t:1783688400:R>, at <t:1783688400:t>, <@1419709749959721106> will be discussing \"EMPURPLE: Improving Few-Step Diffusion Distillation\":\n\nMany few-step diffusion models add random noise that erases details generated in previous steps. EMPURPLE challenges this paradigm. Compare to the inference process given by the few step ODE solver which generate blurred color at the early inference stage, the inference process of the distillation mode seem wasting capacity on meaningless detail. By recycling useful latent information, our algorithm can improve FID at most 20%\nThe diversity different is obvious, please check that:\n\n\npaper:https://arxiv.org/abs/2607.04276\n🎮 Demo:https://colab.research.google.com/drive/1DVw41J_7yzhBxRhhNeOsCFxz-ROZWHLw?usp=sharing\nGit repo: https://github.com/TheLovesOfLadyPurple/Empurple-Training-Free-Algorithm-To-enhance-Diversity-of-The-Diffusion-Distillation-Model",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/1045297868136779846/1524987124112166932",
+    "timestamp": "2026-07-10T03:54:23.279000+00:00",
+    "github": "https://github.com/TheLovesOfLadyPurple/Empurple-Training-Free-Algorithm-To-enhance-Diversity-of-The-Diffusion-Distillation-Model",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1524714727199215676",
     "server": "MLOps (@chipro)",
     "channel": "ai-in-production",
