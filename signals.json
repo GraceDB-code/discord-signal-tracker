@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1525379760706814013",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-research",
+    "author": "Gaurav",
+    "author_id": "753877727928385578",
+    "username": "gaurav21s",
+    "content": "Hey @everyone,\nJust published a new piece on building actual persistent memory for AI agents using Weaviate's Engram, based on a real support system I built and ran, not just theory.\n\nIt's free to read, no paywall. Would genuinely appreciate you giving it a read. Any feedback, good or bad, means a lot. And if it resonates, a clap on Medium helps more than you'd think.\n\nhttps://levelup.gitconnected.com/your-ai-agent-is-paying-to-re-read-its-own-filler-d0bd61b6da76\nThanks for reading 🙏",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1525379760706814013",
+    "timestamp": "2026-07-11T05:54:35.138000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1525379656876949558",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Gaurav",
+    "author_id": "753877727928385578",
+    "username": "gaurav21s",
+    "content": "Hey everyone,\nJust published a new piece on building actual persistent memory for AI agents using Weaviate's Engram, based on a real support system I built and ran, not just theory.\n\nIt's free to read, no paywall. Would genuinely appreciate you giving it a read. Any feedback, good or bad, means a lot. And if it resonates, a clap on Medium helps more than you'd think.\n\nhttps://levelup.gitconnected.com/your-ai-agent-is-paying-to-re-read-its-own-filler-d0bd61b6da76\nThanks for reading 🙏",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1525379656876949558",
+    "timestamp": "2026-07-11T05:54:10.383000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1525236954407632906",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
