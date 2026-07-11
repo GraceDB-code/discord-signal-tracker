@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1525542503963693196",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "endomorphosis",
+    "author_id": "155072514689728513",
+    "username": "endomorphosis",
+    "content": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+    "keywords": [
+      "humanoid"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1525542503963693196",
+    "timestamp": "2026-07-11T16:41:16.154000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1525379760706814013",
     "server": "MLOps (@chipro)",
     "channel": "ai-research",
