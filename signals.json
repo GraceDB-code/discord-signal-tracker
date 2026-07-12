@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1525912840454672575",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "T4riq",
+    "author_id": "398299262036738048",
+    "username": "wreakhavok313",
+    "content": "I built my own VSA primitives",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1525912840454672575",
+    "timestamp": "2026-07-12T17:12:51.254000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1525542503963693196",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
