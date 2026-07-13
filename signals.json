@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1526303917057769623",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "ai_info",
+    "author_id": "1209017991283609681",
+    "username": "ai_dsicord",
+    "content": "https://www.youtube.com/watch?v=HHU_kmvPASc if you're interested",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1526303917057769623",
+    "timestamp": "2026-07-13T19:06:51.182000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://www.youtube.com/watch?v=HHU_kmvPASc"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1525912840454672575",
     "server": "Yannic Kilcher",
     "channel": "general",
