@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1526478404264919111",
+    "server": "MLOps (@chipro)",
+    "channel": "looking-for-work",
+    "author": "Shiv",
+    "author_id": "1445464696462512179",
+    "username": "shiv_95507",
+    "content": "[FOR HIRE} ML Engineer - San Francisco, USA (On-site/Hybrid)\n\nLocation: San Francisco, USA (on-site or hybrid; remote considered case by case)\nType: Full-Time\nCompany: techire ai\nPay: $250,000-$400,000/year\n\nWe're hiring an ML Engineer to build and scale large-scale AI systems for scientific discovery — building, training, and running models in production. You'll own infrastructure, pipelines, and experimentation platforms that enable fast model iteration, reliable runs, and traceable outputs.\n\nWhat you'll do:\n- Build and scale training pipelines for large LLM systems\n- Develop experimentation systems for fast, reliable iteration\n- Design data pipelines and systems for observability and reproducibility\n- Improve training run orchestration, monitoring, and debugging\n- Support model deployment and inference for complex reasoning systems\n- Collaborate with researchers to translate ideas into production systems\n\nWhat we're looking for:\n- Experience building and scaling ML systems in produc",
+    "keywords": [
+      "we're hiring",
+      "training run"
+    ],
+    "categories": [
+      "hiring",
+      "ai_infrastructure"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1397729750008725504/1526478404264919111",
+    "timestamp": "2026-07-14T06:40:12.174000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1526303917057769623",
     "server": "Yannic Kilcher",
     "channel": "general",
