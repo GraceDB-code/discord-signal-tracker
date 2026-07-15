@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1526949550965919945",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "junjun",
+    "author_id": "1492193135282098329",
+    "username": "junjun_000",
+    "content": "Hi everyone,\nI’m an AI Full-Stack Developer currently available for remote freelance projects after my last contract ended.\nMy experience includes AI web apps, backend APIs, automation tools, chatbot systems, data/ML workflows, and full-stack SaaS development. This MLOps community caught my attention because it’s focused on real ML engineering work -model deployment, data pipelines, evaluation, monitoring, backend APIs, and production AI systems.\nI’d be happy to help with LLM/RAG apps, model-serving APIs, FastAPI/Docker backends, ML dashboards, data workflows, AI evaluation tools, or AI SaaS MVPs.\nIf anyone is building something and needs development support, feel free to DM me. Happy to connect.",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1526949550965919945",
+    "timestamp": "2026-07-15T13:52:22.301000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1526478404264919111",
     "server": "MLOps (@chipro)",
     "channel": "looking-for-work",
