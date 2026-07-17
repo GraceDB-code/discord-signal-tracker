@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1527618033244438630",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Danny @ hivecollective.co",
+    "author_id": "875197147950247956",
+    "username": "hiveco",
+    "content": "# 🚀 Hive Collective is hiring: **Senior AI Solutions Engineer**\n\n**Full-time contract • 100% Remote**\n\n## 💻 Tech Stack\n\nPython • LLMs • AI Agents • RAG • Claude • MCP • Azure • Microsoft 365\n\n## 🛠️ What You'll Do\n\n* Build production AI applications and agent workflows\n* Architect enterprise AI solutions\n* Lead client discovery and technical design sessions\n* Deploy, support, and improve AI systems\n* Integrate AI into Microsoft 365 and Azure\n\n## 📋 Requirements\n\n* 3–5 years of software/cloud engineering or consulting\n* Strong architecture and Python skills\n* Experience with LLMs, RAG, and AI agents\n* Security-minded engineer with strong communication skills\n\n## 📈 Why Join?\n\nBuild cutting-edge AI solutions for enterprise clients in a growing AI consultancy.\n\n🌎 India & Southeast Asia preferred\n🕐 US Eastern hours (4+ hrs overlap)\n💰 CAD $15–20/hr DOE\n\n## 📩 Apply\n\nEmail **[careers@hivecollective.co](mailto:careers@hivecollective.co)** (not .com) with your resume, LinkedIn, GitHub, etc, and re",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1527618033244438630",
+    "timestamp": "2026-07-17T10:08:40.896000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "hivecollective.co | LLMOps, Agentic Systems, Cloud & DevOps",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1527411230501769246",
     "server": "MLOps (@chipro)",
     "channel": "events",
