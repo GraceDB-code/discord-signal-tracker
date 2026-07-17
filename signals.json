@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1527411230501769246",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Kamil Alaa",
+    "author_id": "209330145478049793",
+    "username": "kamilalaa1615",
+    "content": "🚨 **Secret Loyalties Hackathon, July 24-26** 🚨\n\nFirst HackTalk starts Thursday, hackathon kicks off Friday. One weekend on secretly loyal AI: models that covertly advance a hidden principal's interests while appearing to operate normally. With [Formation Research](<https://www.formationresearch.com/>), [Forethought](<https://www.forethought.org/>), and [IAPS](<https://www.iaps.ai/>).\n\n🎤 **Talks** (RSVP to each for the time):\n1. [Tom Davidson](<https://luma.com/secret-loyalties-hackathon-tom-davidson>): opening keynote. Senior Research Fellow at Forethought, co-author of \"AI-Enabled Coups\". [RSVP](<https://luma.com/secret-loyalties-hackathon-tom-davidson>)\n2. [Marius Hobbhahn](<https://luma.com/secret-loyalties-hackathon-marius-hobbhahn>): CEO and co-founder of Apollo Research, which works with frontier AI companies to evaluate models for scheming. [RSVP](<https://luma.com/secret-loyalties-hackathon-marius-hobbhahn>)\n3. [Jan Betley](<https://luma.com/secret-loyalties-hackathon-jan-betle",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1527411230501769246",
+    "timestamp": "2026-07-16T20:26:55.280000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1527195408089219132",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
