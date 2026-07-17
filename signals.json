@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1527686203120419038",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Leyla",
+    "author_id": "1388348601524289578",
+    "username": "leyla_0016",
+    "content": "Hey everyone, I just open-sourced AgentPulse, an experimental observability platform I’ve been building for AI agents.\n\nIt’s definitely not a mature product yet, but I’m sharing it as a reference for anyone thinking about building an in-house observability system. It covers areas like run tracing, agent and handoff metrics, route behavior, drift detection, and investigation workflows.\n\nI’d really appreciate any feedback, especially from people already building or operating agents. I’m also interested in learning how you currently investigate failures, what tools you use, and what still requires a lot of manual work. \n\nGitHub: https://github.com/prove-ai/agentpulse\nRender: https://agentpulse-1-555l.onrender.com",
+    "keywords": [
+      "just open-sourced"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1527686203120419038",
+    "timestamp": "2026-07-17T14:39:33.861000+00:00",
+    "github": "https://github.com/prove-ai/agentpulse",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1527618033244438630",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
