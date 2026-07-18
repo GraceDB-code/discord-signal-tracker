@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1527839830090842152",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "Autonomous",
+    "author_id": "1510721208566550528",
+    "username": "autonomous_duck",
+    "content": "Hey, I’m looking for someone or multiple individuals that end up hitting everything in here:\n\nPhD-level mathematical physiologist or computational systems biologist with expertise in nonlinear dynamic systems, modern control theory, mechanistic biophysical modeling of ionic and chemical transport, and high-performance scientific computing. Demonstrated publication record in mechanistic physiological models is preferred but not necessary (I’m more worried about being able to bounce ideas off of people rather than them having academic recognition), and proficiency in Python, Julia, MATLAB, or C++ for large-scale numerical simulation, parameter estimation, and systems analysis.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1527839830090842152",
+    "timestamp": "2026-07-18T00:50:01.385000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1527686203120419038",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
