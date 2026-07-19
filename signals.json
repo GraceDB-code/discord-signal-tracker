@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1528291786076721172",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "ZickZack",
+    "author_id": "178150411545346049",
+    "username": "zickzack",
+    "content": "this is not the same as having a continuously axiomatized logic.\nIt's a logic where you relax equational statements to being \"epsilon equal\" and then (externally) make arguments about the infinite proof sequences that send you from `x =ᵢ y → x =₀ y`.\nThis is the classical topology-style construction where you work around having to deal with sets by reducing it down to subsets that are \"sufficiently nice\" such that you can pull your limit through.\nI.e. you design your system to actually work with discrete items but then ensure that limit processes behave well.\nThe important part is that you still work with discrete items which you can then push to zero externally: I.e. every \"proof\" in this framework is actually a proof schema.\n\nYou can already do this: Just use dependent types. The trick is always how you tie the structures together in a way that prevents you from needing an \"uncountably infinite switch statement\" during type checking.\nThis theory is designed to have rules specifically",
+    "keywords": [
+      "manipulation"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1528291786076721172",
+    "timestamp": "2026-07-19T06:45:56.089000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1527839830090842152",
     "server": "Yannic Kilcher",
     "channel": "jobs-and-internships",
