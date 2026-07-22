@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1529512419670495243",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Kamil Alaa",
+    "author_id": "209330145478049793",
+    "username": "kamilalaa1615",
+    "content": "🚨 **Secret Loyalties Hackathon, July 24-26** (online + Berlin + London) 🚨\n\nTalks start Thursday, hackathon kicks off Friday. [Apart Research](<https://apartresearch.com/>) is running a weekend of research on AIs with hidden agendas: how secret loyalties get planted in models, how to detect them, and how to defend against them. With [Formation Research](<https://www.formationresearch.com/>), [Forethought](<https://www.forethought.org/>), and [IAPS](<https://www.iaps.ai/>).\n\n🎤 **Talks (all times UTC):**\n1. Thu 3:00 PM: **Justin Shenk**, independent AI safety researcher, new work on AI-enabled coups. [RSVP](<https://luma.com/secret-loyalties-hackathon-justin-shenk>)\n2. Thu 4:30 PM: **Lennart Finke** (MATS), new research with Stephen Casper on production models siding with the companies that made them. Live only, no recording. [RSVP](<https://luma.com/secret-loyalties-hackathon-lennart-finke>)\n3. Thu 9:40 PM: **Marius Hobbhahn**, CEO and co-founder of Apollo Research. [RSVP](<https://luma.",
+    "keywords": [
+      "co-founder"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1529512419670495243",
+    "timestamp": "2026-07-22T15:36:17.816000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1529181729116655897",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
