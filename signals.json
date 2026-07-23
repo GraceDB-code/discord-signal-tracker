@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1529856532697710663",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "Y.S. Rohith Reddy",
+    "author_id": "1489472899831300196",
+    "username": "rohith_reddy.2508",
+    "content": "hey i am actually working on a project far more complex and large than yours and we already got a team fo 7 do you wanna join us?\\",
+    "keywords": [
+      "join us"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1529856532697710663",
+    "timestamp": "2026-07-23T14:23:40.755000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "money is power.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1529571304724758609",
     "server": "Yannic Kilcher",
     "channel": "general",
