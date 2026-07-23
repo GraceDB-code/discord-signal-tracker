@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1529571304724758609",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "tj-coding",
+    "author_id": "374984241513103371",
+    "username": "mysterious_moose_98367",
+    "content": "Honestly, it's really demotivating for me",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1529571304724758609",
+    "timestamp": "2026-07-22T19:30:17.107000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1529512419670495243",
     "server": "MLOps (@chipro)",
     "channel": "events",
