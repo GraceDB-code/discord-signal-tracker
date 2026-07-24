@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1529979196263235585",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Danny @ hivecollective.co",
+    "author_id": "875197147950247956",
+    "username": "hiveco",
+    "content": "🚀 [Hive Collective](https://hivecollective.co) is hiring: **Senior Full Stack Engineer** (Full time; 100% remote; US-only)\n\n💻 **Tech stack:** Python/Django, React, GraphQL (Apollo/Relay), AI tools for development\n\n🔧 **What you'll do:**\n- Lead transition to AI-centric SDLC and improve engineering workflows with AI\n- Design, implement, and maintain full-stack applications using modern web tech, databases, and AI\n- Build scalable, high-quality code with automated testing\n- Collaborate on architecture, AI integration, system design, and mentoring juniors\n- Participate in on-call rotation and deliver features with focus on UX\n\n📋 **Requirements:**\n- 7+ years professional software development experience\n- Proven success using AI coding tools (Claude, Codex etc.) for refactoring, analysis, and process improvement\n- Strong Python/Django, React, GraphQL, and unit testing skills\n- Analytical mindset, AI fascination, independent worker with high agency\n\n📈 Profitable LegalTech SaaS growing 30%+ ann",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1529979196263235585",
+    "timestamp": "2026-07-23T22:31:06.028000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "hivecollective.co | LLMOps, Agentic Systems, Cloud & DevOps",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1529856532697710663",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
