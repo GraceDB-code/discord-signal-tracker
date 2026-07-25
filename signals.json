@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1530311421299261532",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Brzi",
+    "author_id": "284255272321417216",
+    "username": "brzi_",
+    "content": "If tomorrow we built some AI generator that has never seen an artwork, but was only trained on real world images, they would still hate it",
+    "keywords": [
+      "we built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1530311421299261532",
+    "timestamp": "2026-07-24T20:31:14.649000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1530299812841525436",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "wave function",
+    "author_id": "294632311176298498",
+    "username": ".wavefunction",
+    "content": "I actually did anticipate the 07/08 housing crash, due to following the blog Calculated Risk. Maybe Melody Wright is the new Calculated Risk. 🙂\n\nI agree that the music's got to stop at some point, one way or another, and it will be very bad. But a democratically accountable US government will do everything in their power to keep housing prices stable. House owners are a very powerful constituency. Things got out of control in the 07/08 crash because the Bush administration adhered to an ideology of lax regulation, and the mispriced insurance blew up major financial companies faster than they were willing to react.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1530299812841525436",
+    "timestamp": "2026-07-24T19:45:06.977000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1530290945835270284",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
