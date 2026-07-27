@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1531371213652365407",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "FP",
+    "author_id": "934048478206754886",
+    "username": "franlp24",
+    "content": "Hey! I’ve just published DotDoRAG — a retrieval system for medical and nutrition research papers.\n\nThe project uses a BGE-small-en-v1.5 bi-encoder, fine-tuned with LoRA, contrastive learning, hard negative mining, and knowledge distillation from a cross-encoder. On the NFCorpus benchmark, the model achieves a 29% higher NDCG@10 score than BM25 and a 13.5% improvement over the base BGE model without fine-tuning.\n\nThe repository includes a complete pipeline for training, evaluation, document embedding generation, semantic search, and a web interface.\n\nIf you’re interested in RAG, dense retrieval, representation learning, embeddings, or information retrieval, check it out:\n\n⭐ https://github.com/franciszekparma/DotDoRAG\n\nStarring the repository really helps the project reach more people. Thanks!",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1531371213652365407",
+    "timestamp": "2026-07-27T18:42:28.836000+00:00",
+    "github": "https://github.com/franciszekparma",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1531370949633638640",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "FP",
+    "author_id": "934048478206754886",
+    "username": "franlp24",
+    "content": "Hey! I’ve just published DotDoRAG — a retrieval system for medical and nutrition research papers.\n\nThe project uses a BGE-small-en-v1.5 bi-encoder, fine-tuned with LoRA, contrastive learning, hard negative mining, and knowledge distillation from a cross-encoder. On the NFCorpus benchmark, the model achieves a 29% higher NDCG@10 score than BM25 and a 13.5% improvement over the base BGE model without fine-tuning.\n\nThe repository includes a complete pipeline for training, evaluation, document embedding generation, semantic search, and a web interface.\n\nIf you’re interested in RAG, dense retrieval, representation learning, embeddings, or information retrieval, check it out:\n\n⭐ https://github.com/franciszekparma/DotDoRAG\n\nStarring the repository really helps the project reach more people. Thanks!",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1531370949633638640",
+    "timestamp": "2026-07-27T18:41:25.889000+00:00",
+    "github": "https://github.com/franciszekparma",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1530311421299261532",
     "server": "Yannic Kilcher",
     "channel": "general",
