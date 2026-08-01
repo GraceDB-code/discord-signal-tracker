@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1533142106145689773",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "washington",
+    "author_id": "1523989975748841623",
+    "username": "washington_93604",
+    "content": "HELP ME OUT OR PARTNER Profile-MoE: Modular & Swappable Expert Infrastructure for Mixture-of-Experts Models\n\nIn current production MoE models (like DeepSeek-V3), expert routing weights are tightly coupled to the model parameters. Replacing an expert or adding a new domain (e.g. legal/medical) requires expensive router retraining or fine-tuning passes.\n\nI’ve published an architectural overview of Profile-MoE—a framework that eliminates learned routing parameters entirely (0 router parameters vs ~106M in DeepSeek-V3) using calibrated profile matching.\n\nKey results from our proof-of-concept benchmark:\n\nZero-Retrain Swapping: Expert replaced via recalibration in minutes with zero gradient updates or downtime.\n\nModular Domain Addition: Added a 5th domain to a 4-expert pool with 96% routing accuracy and ~95% error reduction on that domain.\n\nExplainable Routing: Every decision is traceable back to explicit vector similarity rather than hidden projection matrices.\n\nInference Overhead: Identica",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1533142106145689773",
+    "timestamp": "2026-08-01T15:59:22.508000+00:00",
+    "github": "https://github.com/washingtoneimae-dot/profile-moe-overview",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1531649524391477399",
     "server": "Yannic Kilcher",
     "channel": "promotion",
