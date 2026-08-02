@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1533461091466612766",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "bubbles",
+    "author_id": "764868323790946355",
+    "username": "bubblezz__",
+    "content": "405B is still probably the biggest open pretraining run by flops. Several times what the big Chinese models are now.",
+    "keywords": [
+      "training run"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1533461091466612766",
+    "timestamp": "2026-08-02T13:06:54.535000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1533142106145689773",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
