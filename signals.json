@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1534467122552377494",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "Jinxy",
+    "author_id": "712690029272760361",
+    "username": "lazyinspirit",
+    "content": "I built an agentic AI workflow that authors and repairs mathematical proofs. The theorem is true. The proof is wrong. It concludes \"for every n ≥ 1\" and only ever proves the case n ≥ N.",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1534467122552377494",
+    "timestamp": "2026-08-05T07:44:31.037000+00:00",
+    "github": null,
+    "twitter": "https://x.com/lazyasfuc",
+    "linkedin": null,
+    "website": null,
+    "bio": "I’d rather be cringe than be boring!",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1533994559095439360",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
