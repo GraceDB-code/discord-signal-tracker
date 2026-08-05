@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1534643217641898166",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "mgostIH",
+    "author_id": "185084125265395712",
+    "username": "mgostih",
+    "content": "Turns out GPT 5.6 figured out that by algebraic manipulation of the loss, one can view the above in linear algebraic terms and it leads to a linear time algorithm to do the above",
+    "keywords": [
+      "manipulation"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1534643217641898166",
+    "timestamp": "2026-08-05T19:24:15.378000+00:00",
+    "github": null,
+    "twitter": "https://x.com/mgostIH",
+    "linkedin": null,
+    "website": null,
+    "bio": "I'm in my Nanachi arc, Made in Abyss maxxing, a faputapilled bondrewdcel.𒁈",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1534467122552377494",
     "server": "MLOps (@chipro)",
     "channel": "ai-in-production",
