@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1534971378149757140",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Siddharth",
+    "author_id": "1532737531030929428",
+    "username": "siddharth082494",
+    "content": "🚨 UPCOMING LIVE SESSION: Enterprise AI Strategy & The DARWIN Framework\n\nOut of thousands of enterprise AI pilots, only 10–15% ever escape prototype environments to reach production deployment. Most initiatives stall not in the building phase, but in the planning.\n\nJoin the research team at Intuceo AI Labs for a live, 45-minute working session on how to ground high-stakes AI decisions in actual enterprise constraints—bypassing vendor hype.\n\n🔹 What We’ll Walk Through:\n• Data: Evaluating bias, completeness, and governance parameters\n• Architecture: Building a risk-free evolutionary path from early prototype to production MVP\n• Responsibility: Aligning models with compliance, unit economics, and stakeholder needs\n• Workflow: Structuring consumable and Explainable AI (XAI) outputs\n• Infrastructure: Sizing GPU vs. CPU compute economics and serving footprints\n\n📅 Date: Tuesday, August 11th, 2026\n⏰ Time: 11:00 AM EST\n⏳ Format: 45-min working masterclass + 10-min live Q&A\n👤 Presented by: Intuceo",
+    "keywords": [
+      "prototype"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1534971378149757140",
+    "timestamp": "2026-08-06T17:08:14.940000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1534643217641898166",
     "server": "Yannic Kilcher",
     "channel": "general",
