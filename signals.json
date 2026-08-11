@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1536788855640821880",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "Muhammed",
+    "author_id": "1405703600080027799",
+    "username": "muhammed_keita_ml",
+    "content": "Hey MLOps Community 👋\n\nMuhammed Keita here from The Gambia 🇬🇲\n\nML Systems Engineer specialising in production ML reliability\nfor FinTech applications.\n\nWhat I've shipped:\n\n→ Cloud-Native Fraud Detection API (Project 07)\nFastAPI inference service, multi-stage Docker, GitHub Actions\n→ AWS ECR → EC2 (eu-west-1), MLflow Model Registry with\nregistry-first loading, 6 Kubernetes manifests validated\nfor EKS, Prometheus instrumentation, 10 pytest tests.\n\n→ Credit Card Fraud Detection Pipeline (Project 06)\n13-experiment benchmark: 5 imbalance strategies × 3 models\non 284,807 transactions (0.173% fraud rate).\nKey finding: 6 of 13 configs had Recall@P90 = 0 despite\nacceptable F1 — standard metrics hide broken models under\nextreme class imbalance.\nWinner: XGBoost + class weighting (PR-AUC 0.880,\nRecall@P90 0.837)\n\n→ Production ML Monitoring API (Project 05)\nCustom statistical drift detection, FastAPI, Docker,\nGitHub Actions CI/CD, pytest. Live on Railway.\n\n→ Heart Disease Risk Pipeline (Project 04)",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1536788855640821880",
+    "timestamp": "2026-08-11T17:30:15.341000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "ML Systems Engineer · FinTech fraud detection & production monitoring.\n\nI build production ML systems that stay \nreliable after deployment — instrumented, containerised, and auditable.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1536715033994723440",
     "server": "MLOps (@chipro)",
     "channel": "events",
