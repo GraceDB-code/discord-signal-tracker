@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1537147307315822702",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "chandan",
+    "author_id": "1063336823310516314",
+    "username": "chandan_ab",
+    "content": "I just published a Python package: ragbenchpy \nIf you've built a RAG pipeline, you've probably hit this question: which chunking strategy and which retriever actually work best for my data? Usually the answer is a guess, or a vibe check on a handful of queries.\nI built ragbenchpy to replace that guesswork with real numbers.\nPoint it at your data, and it runs every chunker × retriever combination and hands you a side-by-side comparison of:\n1.Accuracy - recall, precision, hit rate, MRR, nDCG\n 2.Latency - p50/p95/p99 per query\n 3.Cost - dollars per query, per 1k tokens\n\n1.Works free & local - bring your own OpenAI/Anthropic/Google keys, or run it entirely on Ollama and HuggingFace with no API costs at all.\n2.No labeled data? No problem. It can generate a benchmark from your own documents using an LLM, so you can evaluate even without ground-truth questions.\n3.Crash-isolated - each combination runs in its own subprocess, so one bad run becomes a logged result instead of taking down your wh",
+    "keywords": [
+      "i built",
+      "v0.1"
+    ],
+    "categories": [
+      "founder_activity",
+      "project_showcase"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1537147307315822702",
+    "timestamp": "2026-08-12T17:14:36.880000+00:00",
+    "github": "https://github.com/chandannaidu6/ragbench",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1536788855640821880",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
