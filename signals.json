@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1537546875853607022",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "BinarySplit",
+    "author_id": "122845995045224450",
+    "username": "binarysplit",
+    "content": "https://x.ai/news/introducing-grok-bot looks like it has a few novel & well-done agent features, but I don't think I'd ever trust their software on my computer after last month's [code theft fiasco](https://www.techtimes.com/articles/320420/20260714/grok-build-shipped-entire-codebases-xai-cloud-privacy-toggle-did-nothing.htm)",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1537546875853607022",
+    "timestamp": "2026-08-13T19:42:21.443000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Agender-leaning. I play games for the plot. Can't stop learning: currently French, Japanese, AI, genetics.\nAKA Lachlan, Newtra.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1537433823610933328",
     "server": "MLOps (@chipro)",
     "channel": "introductions",
