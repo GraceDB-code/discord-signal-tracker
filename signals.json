@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1537914045620035594",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "carrie",
+    "author_id": "436319291483226128",
+    "username": "xikr0n",
+    "content": "hii everyone!! i'm leading cornells weekly RL research seminar and would love for feedback/paper requests from the community 🌹 \n\nRL is making massive waves in industry right now but there's a real gap between the papers you read and systems that deploy them at scale so we're putting a spotlight on the infra that makes rl possible... this week we have the entire Research Engineering team from Applied Compute to come talk about controlling + predicting staleness in async rl training XDD\n\nwebsite: https://xikronz.github.io/rl-reading-group/ (contains interactive demos), slack if you want to discuss about papers + meeting invite: https://join.slack.com/t/cornellrlseminar/shared_invite/zt-46y24mvz6-GDya54U2hJc0qmuJ2QHSlQ",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1537914045620035594",
+    "timestamp": "2026-08-14T20:01:21.537000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "an occaisional wizard",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1537546875853607022",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
