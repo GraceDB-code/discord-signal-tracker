@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1538624826552488046",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "irdz",
+    "author_id": "1060313656795078666",
+    "username": "irdz.",
+    "content": "Hi everyone, i'm building out an ML Ops team in New York and currently hiring for a Senior Machine Learning Engineer. If you're interested please send me a message. Posting is here: https://www.linkedin.com/jobs/view/4437410069/",
+    "keywords": [
+      "hiring for"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1538624826552488046",
+    "timestamp": "2026-08-16T19:05:44.917000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/jobs/view/4437410069/",
+    "website": "https://timebloxai.com/",
+    "bio": "- [Timeblox AI](https://timebloxai.com/)\n- [WordSync](https://playwordsync.com/)",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1537914045620035594",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
