@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1539312143185485834",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "avo_l7",
+    "author_id": "1156872988755513354",
+    "username": "avo_l7",
+    "content": "Anyone here building with coding agents lately? 👀\n\nWe’re hosting a session with Kilo Code × Novita AI × Ant Ling on Aug 24, 9 AM PDT, to dig into what actually happens when different models are put inside coding-agent workflows—including parallel agents and a live demo.\n\nCurious to hear from everyone too: what’s the biggest pain point you’ve run into with coding agents—model choice, prompting, tool use, or agent coordination? 👇\n\nLinkedIn: https://www.linkedin.com/events/7495356464589365249\nYouTube / Luma: https://luma.com/ms74kfx0",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1539312143185485834",
+    "timestamp": "2026-08-18T16:36:53.972000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/events/7495356464589365249",
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1538928450125959240",
     "server": "Yannic Kilcher",
     "channel": "promotion",
