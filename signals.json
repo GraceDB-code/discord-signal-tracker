@@ -1,5 +1,86 @@
 [
   {
+    "message_id": "1539685987024904282",
+    "server": "MLOps (@chipro)",
+    "channel": "learning-buddies",
+    "author": "background_job13",
+    "author_id": "1535018912976998422",
+    "username": "background_job13",
+    "content": "Hi folks, my team and I have been working on the runtime layer that turns a model into an actual agent. We have built TrueForge, with this your agent gets MCP tools, subagents, human approval gates and session state that survives a restart. We open sourced it today after building this for over a year. You can bring your own models (any OpenAI-compatible endpoint, so Ollama or vLLM work), MCP servers and database (sqlite or postgres). Please check it out and let me know your thoughts. Will really mean a lot to me:) https://github.com/truefoundry/trueforge",
+    "keywords": [
+      "open sourced"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1135678984840020000/1539685987024904282",
+    "timestamp": "2026-08-19T17:22:25.289000+00:00",
+    "github": "https://github.com/truefoundry/trueforge",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1539685942091325480",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "background_job13",
+    "author_id": "1535018912976998422",
+    "username": "background_job13",
+    "content": "Hi folks, my team and I have been working on the runtime layer that turns a model into an actual agent. We have built TrueForge, with this your agent gets MCP tools, subagents, human approval gates and session state that survives a restart. We open sourced it today after building this for over a year. You can bring your own models (any OpenAI-compatible endpoint, so Ollama or vLLM work), MCP servers and database (sqlite or postgres). Please check it out and let me know your thoughts. Will really mean a lot to me:) https://github.com/truefoundry/trueforge",
+    "keywords": [
+      "open sourced"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1539685942091325480",
+    "timestamp": "2026-08-19T17:22:14.576000+00:00",
+    "github": "https://github.com/truefoundry/trueforge",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1539651622064492544",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "maria kuroedova",
+    "author_id": "1539565943900999741",
+    "username": "mariakuroedova_60200",
+    "content": "If you've shipped an LLM-as-a-judge to production, you've probably watched it return two different verdicts for the same input  💬 \n\nHey all, this live event is for anyone leading product, AI, or engineering at a bank, insurer, or financial services firm, especially if you've ever had to explain an automated decision to a regulator.\n\nThat's the awkward bit about the pattern: the judge is an LLM too, so it inherits the same probabilistic behaviour as the model it's grading. A real problem in production, where the same judge has to hold on accuracy, latency and explainability at once.\n\nUnlikelyAI is hosting a Free Live Session where the people who actually build these guardrails walk through two things: how LLM-as-judge really works and the assumptions it's built on, and what the alternatives look like when it isn't enough on its own. Grounded in the work done by experts who build and benchmarks the guardrail logic that decides whether an AI-flagged risk actually holds.\n\n📅 Thu 27 Aug | ⏰ ",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1539651622064492544",
+    "timestamp": "2026-08-19T15:05:52.044000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/events/7493675521768091649?viewAsMember=true",
+    "website": "https://www.unlikely.ai/",
+    "bio": "@ https://www.unlikely.ai/",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1539561899966861332",
     "server": "Yannic Kilcher",
     "channel": "general",
