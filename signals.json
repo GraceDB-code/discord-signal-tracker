@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1539561899966861332",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "BluBb_mADe",
+    "author_id": "111252371778084864",
+    "username": "blubb_made",
+    "content": "yes  I think he was referring to the encryption trick. that one was poorly reported as is so often the case. and it wasn't new either, what was new is that someone demonstrated it works in practice. the point was essentially that you can create cloned encrypted state as long as the encryption algorithm only allows decryption of one of the clones. which makes it kind of pointless.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1539561899966861332",
+    "timestamp": "2026-08-19T09:09:20.629000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1539542556281671690",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "Ritesh",
+    "author_id": "1182271692668674081",
+    "username": "riteshrm",
+    "content": "Hi everyone,\n\nI’m a Machine Learning Engineer with 2.5 years of experience across Generative AI, Computer Vision, LLMs, and ML systems. My experience includes diffusion models, LLM fine-tuning, multimodal AI, model optimization, quantization, and PyTorch.\n\nI’m currently looking for ML/AI Engineer, Generative AI, Computer Vision, or ML Research opportunities in India/remote.\n\nResume attached. Please DM me if you know of any relevant openings or referrals.\n\nThanks!",
+    "keywords": [
+      "quantization"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1539542556281671690",
+    "timestamp": "2026-08-19T07:52:28.735000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1539312143185485834",
     "server": "MLOps (@chipro)",
     "channel": "events",
