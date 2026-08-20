@@ -1,5 +1,61 @@
 [
   {
+    "message_id": "1539886757594665050",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "ZickZack",
+    "author_id": "178150411545346049",
+    "username": "zickzack",
+    "content": "> I don’t think anyone has ever demonstrated the ability to know a quantum state though. \nYou can easily construct known quantum states. In fact, that is exactly how you do it:\nKnowing a state is not the same as measuring it. If I told you \"I prepared a qubit $|\\psi\\rangle = \\frac{|0\\rangle + |1\\rangle}{\\sqrt2}$\" you still know the state even though you haven't measured it.\nFor instance if I apply a hadamard to $|0\\rangle$ you get $\\|+\\rangle$. Of course I can \"clone\" the state by just doing this again, and again.\nThe complex thing that no cloning prevents you from doing is \"I have a qubit of arbitary state $|\\psi\\rangle$ with unkown amplitudes $\\alpha,\\beta$\"\nIf I gave you an arbitrary number of those states, you could try to estimate these (which then puts you back into the first scenario, this is known as quantum state tomography) but you cannot copy the state: Effectively \"no cloning\" is a statement about information, namely that you cannot cheat yourself into samples from the true",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1539886757594665050",
+    "timestamp": "2026-08-20T06:40:12.723000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1539859112492269630",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "SJ",
+    "author_id": "760888257914863616",
+    "username": "binod_peralta5965",
+    "content": "Hi all, I built a workflow to combat losing warm leads due to late replies or generic automated templates.\n\nAI reads every contact form submission -> looks up the prospect's company -> sends a personalized draft reply to your Telegram app -> You edit/tap Send without ever opening your laptop. \n\nWould appreciate any feedback really: https://shikshita.substack.com/p/how-to-stop-losing-warm-leads-to?r=2qg0mk",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1539859112492269630",
+    "timestamp": "2026-08-20T04:50:21.617000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://shikshita.substack.com/p/how-to-stop-losing-warm-leads-to?r=2qg0mk"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1539792887083171871",
     "server": "Yannic Kilcher",
     "channel": "general",
