@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1539792887083171871",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "tceti",
+    "author_id": "298614078203625472",
+    "username": "tceti",
+    "content": "Good point. I don’t think anyone has ever demonstrated the ability to know a quantum state though. It hasn’t been ruled out to be impossible but never been successfully done?\n\nYou can know the quantum state along one direction by probing it, but in doing so it will then be unknown in others as we all know very well (uncertainty principle and variants).\n\nMy understanding is that fundamentally the problem quantum mechanics exposes to us is that we have things we can observe but we cant measure so accurately that we will be able to reproduce them.\nIf indeed, part of us that makes us who we are requires copying the quantum state, then so far, we know of no way to do so other that « transfer it » around (the no clone theorem).",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1539792887083171871",
+    "timestamp": "2026-08-20T00:27:12.249000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1539685987024904282",
     "server": "MLOps (@chipro)",
     "channel": "learning-buddies",
