@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1540566279822249984",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "rational",
+    "author_id": "1539997758411382885",
+    "username": "rational0598",
+    "content": "Looking for an AI developer who's experienced in audio AI to help build the core model for our startup.\n\nPay range, timeline, and other details will be discussed in DM.",
+    "keywords": [
+      "our startup"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1540566279822249984",
+    "timestamp": "2026-08-22T03:40:23.447000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1539886757594665050",
     "server": "Yannic Kilcher",
     "channel": "general",
