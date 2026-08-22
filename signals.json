@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1540759626356887703",
+    "server": "Yannic Kilcher",
+    "channel": "events",
+    "author": "Yannic Kilcher",
+    "author_id": "699606075023949884",
+    "username": "ykilcher",
+    "content": "@everyone <@&782362139087208478> \n**Paper Discussion 2026#30**\n\n<t:1787421600:F> until <t:1787428800:t>, <@699606075023949884>  will present `SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs` in https://discord.com/channels/714501525455634453/1337720641528401930.\n\nEvent:\nhttps://discord.gg/yXtVDZQS?event=1540759588373143573\n\nIf you'd like to present a paper, send a direct message to <@178150411545346049>  with a link to the paper and availability information.\n\n**Paper:**\nhttps://arxiv.org/abs/2608.03573\n\n**Abstract:**\nSupervised Fine-Tuning (SFT) and Reinforcement Learning (RL) exhibit fundamentally different behaviors in enhancing multi-task reasoning for large language models (LLMs). Our preliminary experiments revealed a phenomenon: SFT suffers from severe task conflicts under multi-stage training, whereas RL enables stable coexistence across diverse tasks. Empirically, we trace this to the parameter level, observing that RL induces sp",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1540759626356887703",
+    "timestamp": "2026-08-22T16:28:40.853000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1540566279822249984",
     "server": "MLOps (@chipro)",
     "channel": "ai-in-production",
