@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1541166924539633724",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "✩₊˚.⋆☾⋆⁺₊✧𝓐𝓴𝓲𝓻𝓪✩₊˚.⋆☾⋆⁺₊✧",
+    "author_id": "1526857051488387114",
+    "username": "akira_0415",
+    "content": "Proposal for Partnership in Establishing a Remote Consulting Firm in the US or Canada\n\nHi everyone,\n\nI’m interested in connecting with people locally who have experience or interest in software, technology, startups, entrepreneurship, or business development.\n\nI’m involved with Merantika Labs, an Australia-based software engineering company, and we’re currently exploring opportunities to build long-term business partnerships in Canada and the US.\n\nThis is not a traditional job posting. We’re interested in meeting people who may eventually want to build something together as a business partner, combining local market knowledge and communication skills with our engineering, operational, and international resources.\n\nWe’re especially interested in people who are entrepreneurial, reliable, comfortable communicating with others, and interested in growing beyond a traditional employee or developer role.\n\nThere’s no expectation to commit to anything from this post. I’d simply be happy to meet",
+    "keywords": [
+      "job posting"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1541166924539633724",
+    "timestamp": "2026-08-23T19:27:08.307000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": true,
+    "au_confidence": "high",
+    "au_signals": [
+      "message: australia"
+    ]
+  },
+  {
     "message_id": "1540759626356887703",
     "server": "Yannic Kilcher",
     "channel": "events",
