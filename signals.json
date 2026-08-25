@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1541543522988196040",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Yuan (Terry) Tang",
+    "author_id": "925211326400315412",
+    "username": "terrytangyuan",
+    "content": "The State of Model Serving Communities: August 2026 Edition is out! Enjoy the updates on vLLM, KServe, llm-d, Kubernetes, and more from Red Hat AI teams! https://inferenceops.substack.com/p/state-of-the-model-serving-communities-203",
+    "keywords": [
+      "model serving"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1541543522988196040",
+    "timestamp": "2026-08-24T20:23:36.374000+00:00",
+    "github": "https://github.com/terrytangyuan",
+    "twitter": "https://x.com/TerryTangYuan",
+    "linkedin": null,
+    "website": "https://terrytangyuan.github.io/about/",
+    "bio": "Senior Principal Software Engineer at Red Hat AI | Project Lead of Argo, Kubeflow, KServe | Maintainer of TensorFlow and other ML Infra/Frameworks | https://terrytangyuan.github.io/about/",
+    "shared_links": [
+      "https://inferenceops.substack.com/p/state-of-the-model-serving-communities-203"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1541166924539633724",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
