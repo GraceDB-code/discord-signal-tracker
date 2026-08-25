@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1541800425471082548",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "Hyuga",
+    "author_id": "1384773444364795914",
+    "username": "hyuga_86",
+    "content": "**Global Opportunity for AI/ML Engineers**\nWe work through flexible consulting and proxy engineering models, where experienced engineers integrate closely with client teams, tools, workflows, and delivery processes.\nAs we continue to expand, we are looking to connect with experienced AI / Machine Learning Engineers for remote client engagements and long-term collaboration opportunities.\n\n**Technical Areas We’re Looking For**\n- AI & Machine Learning Engineering\n- Generative AI & Large Language Models (LLMs)\n- RAG, Vector Search, Embeddings & Knowledge Systems\n- AI Agents, Multi-Agent Systems & Agentic Workflows\n- NLP, Deep Learning & Applied Machine Learning\n- Data Science & Predictive Modeling\n- MLOps, Model Serving, Evaluation & Monitoring\n- Python, PyTorch, TensorFlow, LangChain/LangGraph\n\n**Who We’re Looking For**\n- 6+ years of professional, hands-on engineering experience\n- Strong expertise in one or more of the AI, ML, GenAI, Data Engineering, or Data Science areas above\n- Like na",
+    "keywords": [
+      "model serving"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1541800425471082548",
+    "timestamp": "2026-08-25T13:24:26.699000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1541800350527258634",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Hyuga",
+    "author_id": "1384773444364795914",
+    "username": "hyuga_86",
+    "content": "**Global Opportunity for AI/ML Engineers**\n\nWe work through flexible consulting and proxy engineering models, where experienced engineers integrate closely with client teams, tools, workflows, and delivery processes.\nAs we continue to expand, we are looking to connect with experienced AI / Machine Learning Engineers for remote client engagements and long-term collaboration opportunities.\n\n**Technical Areas We’re Looking For**\n- AI & Machine Learning Engineering\n- Generative AI & Large Language Models (LLMs)\n- RAG, Vector Search, Embeddings & Knowledge Systems\n- AI Agents, Multi-Agent Systems & Agentic Workflows\n- NLP, Deep Learning & Applied Machine Learning\n- Data Science & Predictive Modeling\n- MLOps, Model Serving, Evaluation & Monitoring\n- Python, PyTorch, TensorFlow, LangChain/LangGraph\n\n**Who We’re Looking For**\n- 6+ years of professional, hands-on engineering experience\n- Strong expertise in one or more of the AI, ML, GenAI, Data Engineering, or Data Science areas above\n- Like n",
+    "keywords": [
+      "model serving"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1541800350527258634",
+    "timestamp": "2026-08-25T13:24:08.831000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1541777083284324426",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
