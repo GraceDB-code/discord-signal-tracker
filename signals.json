@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1541777083284324426",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "shefali",
+    "author_id": "1122659561564815441",
+    "username": "shelleysdisc",
+    "content": "We are building digital products that move fast and handle real transactions at scale. As our Full Stack Developer, you will work on the entire product stack with other teammates front end to back end, database to cloud infrastructure. \n\nWHAT YOU'LL DO\n– Architect and deliver product features end-to-end — UI, APIs, database design, cloud deployment, and monitoring\n– Build responsive, performant front-end interfaces using React.js, Next.js, and TypeScript\n– Design and develop scalable backend services and REST APIs in Node.js / Express / NestJS\n– Work fluently across MERN and LAMP stacks — switching contexts without losing depth\n– Integrate payment gateways, webhook systems, OAuth, and third-party APIs with a security-first mindset\n– Design, optimise, and maintain relational (MySQL, PostgreSQL) and non-relational (MongoDB) databases\n– Own CI/CD pipelines, Docker containerisation, and cloud infrastructure on AWS or GCP\n– Contribute to mobile development using React Native or Flutter — ex",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1541777083284324426",
+    "timestamp": "2026-08-25T11:51:41.488000+00:00",
+    "github": null,
+    "twitter": "https://x.com/ShefaliKhoja",
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1541777035842691072",
+    "server": "MLOps (@chipro)",
+    "channel": "help",
+    "author": "shefali",
+    "author_id": "1122659561564815441",
+    "username": "shelleysdisc",
+    "content": "We are building digital products that move fast and handle real transactions at scale. As our Full Stack Developer, you will work on the entire product stack with other teammates front end to back end, database to cloud infrastructure. \n\nWHAT YOU'LL DO\n– Architect and deliver product features end-to-end — UI, APIs, database design, cloud deployment, and monitoring\n– Build responsive, performant front-end interfaces using React.js, Next.js, and TypeScript\n– Design and develop scalable backend services and REST APIs in Node.js / Express / NestJS\n– Work fluently across MERN and LAMP stacks — switching contexts without losing depth\n– Integrate payment gateways, webhook systems, OAuth, and third-party APIs with a security-first mindset\n– Design, optimise, and maintain relational (MySQL, PostgreSQL) and non-relational (MongoDB) databases\n– Own CI/CD pipelines, Docker containerisation, and cloud infrastructure on AWS or GCP\n– Contribute to mobile development using React Native or Flutter — ex",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1541777035842691072",
+    "timestamp": "2026-08-25T11:51:30.177000+00:00",
+    "github": null,
+    "twitter": "https://x.com/ShefaliKhoja",
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1541543522988196040",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
