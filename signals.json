@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1542096112746237973",
+    "server": "Yannic Kilcher",
+    "channel": "events",
+    "author": "ZickZack",
+    "author_id": "178150411545346049",
+    "username": "zickzack",
+    "content": "@everyone <@&782362139087208478> \n**Paper Discussion 2026#31**\n\nSaturday, 6 PM to 8 UTC (local: <t:1788026400:F> - <t:1788033600:t>), <@925680919401087026> will present `nodejax` in <#719652499740688404>.\n\nIf you'd like to present a paper, send a direct message to <@178150411545346049>  with a link to the paper and availability information.\n\n\n**Paper:**\nhttps://github.com/EelcoHoogendoorn/nodejax\n\n**Abstract:**\n> Nodejax is purely functional middleware for JAX. The core object is a Node in the compute graph, and every capability above (ttt, ensemble, scan, closed_loop, batch, train_step) is a function from Node to Node, a Node transform. It serves neural network use cases ergonomically, and is designed to generalize to classical control, physical simulation and beyond; nodejax/examples/actuator/ is a nontrivial example.",
+    "keywords": [
+      "actuator"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/780793106496880650/1542096112746237973",
+    "timestamp": "2026-08-26T08:59:24.039000+00:00",
+    "github": "https://github.com/EelcoHoogendoorn/nodejax",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1541800425471082548",
     "server": "MLOps (@chipro)",
     "channel": "discussion",
