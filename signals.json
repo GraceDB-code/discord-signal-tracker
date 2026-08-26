@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1542257630314237992",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "thebigbigbuddha",
+    "author_id": "284519018004742147",
+    "username": "thebigbigbuddha",
+    "content": "Excited to share **MultiNet 2.0 Preview**, our new benchmark for long-horizon action and causal reasoning in interactive environments.\n\nWe tested Claude Opus 4.8, Kimi K2.6, and Qwen 3.6-27B across 150 runs of simple 2D mazes. Together, they solved just **6/150 episodes**, exposing surprisingly basic failures in navigation, exploration, mechanism discovery, and error recovery.\n\nPlayable demo: https://multinet.ai/?utm_source=discord&utm_medium=community&utm_campaign=multinet-v2-r1\nTechnical report: https://www.fig.inc/blog/multinet-v2-preview?utm_source=discord&utm_medium=community&utm_campaign=multinet-v2-r1",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1542257630314237992",
+    "timestamp": "2026-08-26T19:41:12.828000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1542096112746237973",
     "server": "Yannic Kilcher",
     "channel": "events",
