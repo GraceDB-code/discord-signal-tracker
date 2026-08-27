@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1542444717151617044",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "Augustine",
+    "author_id": "1509117827976527882",
+    "username": "augustinecu",
+    "content": "Hi Aditya,\n\nI saw your Discord post asking if anyone knew the cheapest site to rent GPUs.\n\nIf you're still comparing options, we've launched the early-access pilot of our AI Experimentation Platform, which provides self-service access to GPU-backed environments.\n\nYou can access it at https://platform.nuovoforte.com/early-access\n\nThe platform is self-service, and there's a product demo under the Help menu to help you get started.\n\nI'd be interested to hear how it compares with the options you're considering.\n\nThanks,\n\nAugustine",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1542444717151617044",
+    "timestamp": "2026-08-27T08:04:37.806000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1542433260691267707",
     "server": "MLOps (@chipro)",
     "channel": "ai-in-production",
