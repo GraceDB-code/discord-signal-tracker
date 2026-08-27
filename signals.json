@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1542433260691267707",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "rational",
+    "author_id": "1539997758411382885",
+    "username": "rational0598",
+    "content": "Looking for an AI/ML developer who's experienced in audio AI / deep learning to help build the core model for our startup.\nPay range, timeline, and other details will be discussed in DM.",
+    "keywords": [
+      "our startup"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1542433260691267707",
+    "timestamp": "2026-08-27T07:19:06.373000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1542301994922934395",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "dragrush",
+    "author_id": "1542283900817248310",
+    "username": "dragrush_93920",
+    "content": "Hi all! I built the Toroidal Engine to fix synchronous DB crashes and GPU starvation in ML pipelines. It uses an event-driven stream with Edge WAF filtering, Go/Rust scoring, and Kafka decoupling. This drops memory from 2MB to 2KB per routine, keeping tensor cores fed.\n\nGitHub: https://github.com/dragrushdotcom/Sovereign-Toroidal-Quantum-Wave-Collapse-Engine\nWP: https://zenodo.org/records/22103898\n\nAny feedback would be super cool!",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1542301994922934395",
+    "timestamp": "2026-08-26T22:37:30.175000+00:00",
+    "github": "https://github.com/dragrushdotcom/Sovereign-Toroidal-Quantum-Wave-Collapse-Engine",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1542257630314237992",
     "server": "Yannic Kilcher",
     "channel": "promotion",
