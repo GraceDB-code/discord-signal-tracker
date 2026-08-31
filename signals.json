@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1543943340863520808",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "gradient_descent",
+    "author_id": "727920584004075560",
+    "username": "marvinr2504",
+    "content": "Hey everyone! We’re growing very fast at Construct Labs and are hiring for two MTS roles. We work on post-training and inference for custom models.\n→ Model Adaptation — RL, evals, learned memory\n→ Inference Optimization — CUDA/Triton, quantization, serving\nhttps://constructlabs.com/careers/\nDM me if interested or if you know someone great.",
+    "keywords": [
+      "quantization",
+      "hiring for"
+    ],
+    "categories": [
+      "ai_infrastructure",
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1543943340863520808",
+    "timestamp": "2026-08-31T11:19:37.542000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1543696519453085827",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
