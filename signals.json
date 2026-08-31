@@ -1,5 +1,115 @@
 [
   {
+    "message_id": "1544091599225749504",
+    "server": "Yannic Kilcher",
+    "channel": "hardware",
+    "author": "trombocyt",
+    "author_id": "1071837397693775973",
+    "username": "xvel",
+    "content": "I built a pc from junk hardware with tesla m40 and trying to install older nvidia driver like for example 535 with cuda 12 on ubuntu but no matter what I do, ubuntu force install 580 with cuda 13 which doesn't exactly work, (llama.cpp cuda doesn't work, vulkan sort of works but there is some weird behavior in prompt processing there is less than 50% load on gpu and it's going slower than token generation) I didn't try other cuda software because I thought just installing older driver that actually fully supports this gpu will help but ubuntu doesn't allow me to do that, is there a way for a non fluent linux user to install older driver with all what's needed manually without the need to reinstall the os 20 times because I bricked it?",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/793158435855663154/1544091599225749504",
+    "timestamp": "2026-08-31T21:08:45.090000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1544077919259988111",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Hyuga",
+    "author_id": "1384773444364795914",
+    "username": "hyuga_86",
+    "content": "Global Opportunity for AI/ML Engineers\n\nWe work through flexible **embedded/proxy engineering models**, where experienced engineers integrate closely with client teams, tools, workflows, and delivery processes.\nAs we continue to expand, we are looking to connect with experienced **AI/ML Engineers** for remote client engagements and long-term collaboration opportunities.\n\nTechnical Areas We’re Looking For\n- **AI & Machine Learning Engineering**\n- **Generative AI & Large Language Models (LLMs)**\n- **RAG, Vector Search, Embeddings & Knowledge Systems**\n- **AI Agents, Multi-Agent Systems & Agentic Workflows**\n- **NLP, Deep Learning & Applied Machine Learning**\n- **Data Science & Predictive Modeling**\n- **MLOps, Model Serving, Evaluation & Monitoring**\n- **Python, PyTorch, TensorFlow, LangChain/LangGraph**\n\nWho We’re Looking For\n- **6+ years** of professional, hands-on engineering experience\n- Strong expertise in one or more of the AI, ML, GenAI, Data Engineering, or Data Science areas abov",
+    "keywords": [
+      "model serving"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1544077919259988111",
+    "timestamp": "2026-08-31T20:14:23.532000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1544020057900712087",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "gradient_descent",
+    "author_id": "727920584004075560",
+    "username": "marvinr2504",
+    "content": "Hey everyone! We’re a fast-growing early-stage AI Lab based in Berlin, and we’re hiring for two MTS roles at Construct Labs.\nWe work on post-training and inference for custom models.\n→ Model Adaptation — RL, evals, learned memory\n→ Inference Optimization — CUDA/Triton, quantization, serving\nFull-time, remote or based in Berlin.\nhttps://constructlabs.com/careers/\nDM me if interested or if you know someone great.",
+    "keywords": [
+      "quantization",
+      "hiring for"
+    ],
+    "categories": [
+      "ai_infrastructure",
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1544020057900712087",
+    "timestamp": "2026-08-31T16:24:28.309000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1544004083482894478",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "We're going over \"SymTorch: Symbolic Distillation of Neural Networks\" in the reading group now in the mechanistic interpretability discord!\n\"What mathematical functions do neural network components learn? Symbolic distillation addresses this question by expressing neural network components with interpretable, closed-form mathematical expressions that expose the functional structure learned during training. We develop symbolic distillation as a systematic, architecture-agnostic methodology, and release our approach as the open-source SymTorch package - a PySR-powered library built natively for the PyTorch ecosystem. Applying this methodology across diverse architectures, we find that SymTorch is successful in the automated discovery of physical laws. Specifically, our approach (1) recovers pairwise interaction forces from graph neural networks trained on empirical n-body observations, (2) distills the exact closed-form PDE/ODE solutions of multiple physical systems, including the value ",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1544004083482894478",
+    "timestamp": "2026-08-31T15:20:59.711000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1543943340863520808",
     "server": "Yannic Kilcher",
     "channel": "jobs-and-internships",
