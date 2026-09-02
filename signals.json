@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1544685769040339027",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "tkornblit",
+    "author_id": "1117036947605573682",
+    "username": "tkornblit",
+    "content": "Prae v0.1 - https://supercut.ai/share/tom-6/R71RQBTN0XSp9r9Xrxdtkx",
+    "keywords": [
+      "v0.1"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1544685769040339027",
+    "timestamp": "2026-09-02T12:29:46.213000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1544639627262955551",
     "server": "MLOps (@chipro)",
     "channel": "help",
