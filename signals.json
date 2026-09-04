@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1545336999265837066",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "pop1",
+    "author_id": "616184482462040064",
+    "username": "__pop1",
+    "content": "True deep learning comprehension is promoted by writing and implementing architectures directly, not solely by reading about them. \n\nIn an era where it is easy to become overly reliant on prompting LLMs for high-level summaries or quick code generation, critical gaps in understanding how backpropagation, tensor shapes, and spatial dimensions actually flow can slip through.\n\nTo help address this, I built two standalone repositories implementing classic computer vision architectures—AlexNet and LeNet-5—completely from scratch using PyTorch.\n\nRather than relying on high-level PyTorch abstractions or pre-built model wrappers (⁠torchvision.models⁠), these implementations focus on explicit structural transparency. \n\nThey map directly back to the original foundational papers (Krizhevsky et al., 2012 for AlexNet and LeCun et al., 1998 for LeNet-5).\n\n📦 What the Repositories Contain\n \nAlexNet From Scratch:\n \n- Full layer-by-layer architectural flow (Convolutional, Max-Pooling, Dropout, and Dense",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1545336999265837066",
+    "timestamp": "2026-09-04T07:37:31.598000+00:00",
+    "github": "https://github.com/pop123-ux",
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://medium.com/@Pop123",
+    "bio": "Github 👉🏼 https://github.com/pop123-ux\n\nMedium👉🏼 https://medium.com/@Pop123\n\n\nOur Videos on the Vimeo portofolio page 👉🏼 https://vimeo.com/showcase/12327669?share=copy&fl=sm&fe=fe",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1544685769040339027",
     "server": "MLOps (@chipro)",
     "channel": "ai-in-production",
