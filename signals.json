@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1545923447660486696",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "i might get less convinced about this direction when I'll see reverse engineered deep learning system that isnt doing addition in such complex way with fourier insanity with manifold manipulation of circular representations of numbers, when it can be done so much simpler",
+    "keywords": [
+      "manipulation"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1545923447660486696",
+    "timestamp": "2026-09-05T22:27:51.791000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1545917739158216884",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "And when the model would be asked \"what is 5484+215646\", then instead of doing the fourier insanity with manifold manipulation of circular representations of numbers in the neural parametric activation space, or instead of doing a tool call in a harness, like LLMs do it, it would execute some 5484+215646 in some broad enough symbolic DSL internally, similarly how it executes matrix multiplications, which it would learn to do at the very pretraining, not in posttaining using tool calls in external harness outside the underlying model.",
+    "keywords": [
+      "manipulation"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1545917739158216884",
+    "timestamp": "2026-09-05T22:05:10.778000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1545336999265837066",
     "server": "Yannic Kilcher",
     "channel": "promotion",
