@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1546427995022032966",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "pop1",
+    "author_id": "616184482462040064",
+    "username": "__pop1",
+    "content": "Hey ML community! 🚀\n\nI put together a hands-on walkthrough repository covering the Hugging Face ecosystem for LLMs:\n\n• Core APIs: ⁠transformers⁠, ⁠datasets⁠, and ⁠tokenizers⁠\n• Fine-Tuning: Trainer API vs. custom PyTorch loops\n• RL: PyTorch GRPO implementation\n• Deployment: Gradio UIs & HF Hub workflows\n\n🔗 Repo: https://github.com/pop123-ux/HuggingFace-Project-Learning\n\nIf you find the code helpful, a star ⭐ on GitHub would be greatly appreciated!",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1546427995022032966",
+    "timestamp": "2026-09-07T07:52:45.256000+00:00",
+    "github": "https://github.com/pop123-ux",
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://medium.com/@Pop123",
+    "bio": "Github 👉🏼 https://github.com/pop123-ux\n\nMedium👉🏼 https://medium.com/@Pop123\n\n\nOur Videos on the Vimeo portofolio page 👉🏼 https://vimeo.com/showcase/12327669?share=copy&fl=sm&fe=fe",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1545923447660486696",
     "server": "Yannic Kilcher",
     "channel": "general",
