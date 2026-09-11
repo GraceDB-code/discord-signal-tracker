@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1548054873856151705",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Nipunn",
+    "author_id": "1315379551311757374",
+    "username": "nipunn101",
+    "content": "Not my job but I have direct contact with them, if you have some time and a passport this is wild.\n\nTelescope Partners is hiring a combo data scientist & software engineer with ~4-10 years experience. We're a very small tech team focused on improving early stage investment decision-making as well as agentic process automation. Stack is Python, AWS + Snowflake + Sqlmesh. If you're looking for high ownership and impact, this is a great role.\n\nAbout Telescope:\nEarly stage growth VC. We typically lead series A in burgeoning vertical SAAS companies.\n\nFun problems we're tackling:\nMarket segmentation\nMulti-factor market ranking:  growth, complacent incumbents, availability of buyers, etc\nARR prediction as a sourcing filter\n\nDetails:\nCompany: Telescope Partners\nPosition: ML/Data Scientist & Software engineer\nType: Full time - US\nLocation: Remote\nSalary range: Based on experience\n\nIf you are interested, dm me",
+    "keywords": [
+      "series a"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1548054873856151705",
+    "timestamp": "2026-09-11T19:37:23.396000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://t.me/cnye36",
+    "bio": ":excited: freedom to dream\n🙏 don't look for the Gem: https://t.me/cnye36",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1547856576956862504",
     "server": "MLOps (@chipro)",
     "channel": "events",
