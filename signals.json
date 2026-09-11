@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1547856576956862504",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "Siddharth",
+    "author_id": "1532737531030929428",
+    "username": "siddharth082494",
+    "content": "When is an ML project actually dead vs. just waiting for better model efficiency?\n\nHey everyone! 👋\n\nA lot of visual inspection and CV projects got killed two years ago for very valid reasons: high infrastructure costs, massive dataset requirements for rare edge-case defects, or deployment overhead that outpaced business ROI.\n\nWe've been looking closely at how newer vision models impact those ROI calculations today. While data labeling overhead is dropping, production hurdles like edge environment shifts, reliability, and deployment costs haven't vanished.\n\nWe’re running a live 45-minute technical session breaking down:\n\nThe actual data/infra delta between 2024 and 2026 vision architectures\n\nWhere model efficiency has genuinely improved deployment costs\n\nA 5-step framework to audit shelved ML projects before throwing resources at them\n\n📅 Thursday, September 24 @ 11:00 AM ET\n\n🎙️ Speakers: Sarath Kuravi (EVP, Intuceo) & Dr. Anand Jayaraman (Advisor, Intuceo AI Labs)\n\nIf you're evaluating ",
+    "keywords": [
+      "join us"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1547856576956862504",
+    "timestamp": "2026-09-11T06:29:25.731000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1547641295491698789",
     "server": "Yannic Kilcher",
     "channel": "promotion",
