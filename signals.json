@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1549847799443619872",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-research",
+    "author": "!RuntimeRider",
+    "author_id": "669334084396253197",
+    "username": "runtimerider341",
+    "content": "```Hello everyone! \nRecently, I've been focusing on helping startups and teams bring AI ideas to life - from LLM integrations and RAG systems to AI agents, automation workflows, and scalable full-stack applications.\n\nI enjoy turning complex ideas into practical products, helping teams move faster from concept → MVP → production with modern technologies and cloud infrastructure.\n\nAlways happy to connect with founders, developers, and anyone interested in building with AI. If you have an interesting idea or are working on an AI project, feel free to say hi!```",
+    "keywords": [
+      "mvp"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1095409976090050703/1549847799443619872",
+    "timestamp": "2026-09-16T18:21:50.167000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Building AI-powered products for startups.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1548054873856151705",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
