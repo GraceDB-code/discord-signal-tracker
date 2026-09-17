@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1550091146292764788",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Superweird76",
+    "author_id": "230527937131053057",
+    "username": "superweird76",
+    "content": "Does anyone have experience getting tickets for Neurips? I am wanting to go for the first time this year but I'm not sure how likely it is to get in from the waitlist 🙁",
+    "keywords": [
+      "waitlist"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1550091146292764788",
+    "timestamp": "2026-09-17T10:28:48.577000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1549847799443619872",
     "server": "MLOps (@chipro)",
     "channel": "ai-research",
