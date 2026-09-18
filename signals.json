@@ -13036,7 +13036,9 @@
     "timestamp": "2024-12-29T10:49:32.477000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "website": "https://computejunkie.substack.com",
+    "bio": "https://computejunkie.substack.com"
   },
   {
     "message_id": "1322620731560820808",
