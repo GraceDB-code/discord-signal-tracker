@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1550948923978285147",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "struct0",
+    "author_id": "139569052744941568",
+    "username": "struct0",
+    "content": "yeah no fine-tuning. you're taking a ~~generally intelligent~~ smart model and operating it in a different mode where you're like a decoder step away from a completion, and then your query is a bunch of completions run in parallel",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1550948923978285147",
+    "timestamp": "2026-09-19T19:17:18.714000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1550817641822687343",
+    "server": "Yannic Kilcher",
+    "channel": "shitposting-not-associated-with-yannic",
+    "author": "Loresayer",
+    "author_id": "1184628408072798229",
+    "username": "loresayer_59918",
+    "content": "A reply to https://discord.com/channels/714501525455634453/853983317044756510/1550550927763710103,\nThe U.S. DoJ would need to prosecute them, and AG Todd Blanche has already demonstrated that criminal activity that the federal gov't wants to allow (unbelievable that I'm actually writing this) won't be prosecuted.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/1079073513492725850/1550817641822687343",
+    "timestamp": "2026-09-19T10:35:38.609000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1550091146292764788",
     "server": "Yannic Kilcher",
     "channel": "general",
