@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1551654899576606774",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "apsys",
+    "author_id": "604753069804224523",
+    "username": "apsys.space",
+    "content": "i work on Halo at White Circle. we released a framework for the awkward scale between stock Hugging Face fine-tuning and a full Megatron port. Halo keeps the original HF model and checkpoint format, then adds EP, CP, TP, ETP, FSDP2, fused kernels and async RL around it. on  GitHub: https://github.com/whitecircle/halo the specific 8× B300 workloads we published, it reached 2.3–2.8× stock TRL throughput at lower peak memory; this is not a universal speed claim. \n\nhttps://x.com/whitecircle/status/2102087563913609534?s=20",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1551654899576606774",
+    "timestamp": "2026-09-21T18:02:36.413000+00:00",
+    "github": "https://github.com/whitecircle/halo",
+    "twitter": "https://x.com/whitecircle/status/2102087563913609534?s=20",
+    "linkedin": null,
+    "website": null,
+    "bio": "Response delay: 1 min - 5 years",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1551316805426094120",
     "server": "Yannic Kilcher",
     "channel": "promotion",
