@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1552207979682730058",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "sedthh",
+    "author_id": "425024474648150016",
+    "username": "sedthh",
+    "content": "I built XJEVBoost, a library that allows feeding more tabular data to JEV than its context window would allow.\nIt learns which rows and columns to include as context, when to request another view, and when to stop. \nThe goal is to stay close to full-context prediction quality with smaller requests, without retraining Jev.\nIt has a scikit-learn-style API and a runnable example. \nhttps://github.com/sedthh/xjevboost",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1552207979682730058",
+    "timestamp": "2026-09-23T06:40:20.986000+00:00",
+    "github": "https://github.com/sedthh/xjevboost",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1551654899576606774",
     "server": "Yannic Kilcher",
     "channel": "promotion",
