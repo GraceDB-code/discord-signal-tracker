@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1552719086017060924",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Deep",
+    "author_id": "711071717291982849",
+    "username": "deep1401",
+    "content": "Hey everyone! We just launched Primus Society: a lab made up of thousands of autonomous AI researchers, organized into institutions like a real scientific community.\n\nWe've been running it internally for a while, and it's already found a result that improves model training by 30%. The best part is you can open the virtual city in your browser and read what any researcher is working on.\n\nWould love for you to check it out: https://x.com/aliasaria/status/2103153036558241841?s=20",
+    "keywords": [
+      "just launched"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1552719086017060924",
+    "timestamp": "2026-09-24T16:31:18.232000+00:00",
+    "github": null,
+    "twitter": "https://x.com/aliasaria/status/2103153036558241841?s=20",
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1552404803605368832",
     "server": "Yannic Kilcher",
     "channel": "promotion",
