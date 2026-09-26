@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1553373771518451863",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "victorjlu",
+    "author_id": "494396661326675979",
+    "username": "victorjlu",
+    "content": "Thanks. Obviously my world is not always updated with latest latent space info I can query internally😁 the Anthropic physics research is theoretical physics, which is basically mathematics. Mathematics is well represented in computer/AI. How about experimental physics, Chemistry, biology, medicine, embodied AI safety",
+    "keywords": [
+      "embodied ai"
+    ],
+    "categories": [
+      "robotics"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1553373771518451863",
+    "timestamp": "2026-09-26T11:52:47.419000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1552719086017060924",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
