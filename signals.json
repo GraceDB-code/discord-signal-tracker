@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1553503112055103729",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "victorjlu",
+    "author_id": "494396661326675979",
+    "username": "victorjlu",
+    "content": "“Claude struggled against some targets\nCertain targets remained a challenge for Claude, including BBF-14 and maltose-binding protein (MBP). BBF-14 is a β-barrel-shaped protein that does not exist in nature: it was itself de novo designed, and it is now used as a benchmark for binder design precisely because of its novelty. MBP’s structure is also especially difficult. MBP is a large, flexible bacterial protein with a smooth, water-loving surface that makes it a good lab reagent. This leaves a binder very little to grab on to. Claude still managed to produce three independent BBF-14 binders—one from each design arm, and each built on a different backbone—with modest (sub-micromolar to micromolar) affinities. Against MBP, however, none of the 90 designs was confirmed to have bound to the target, although one demonstrated a weak, reproducible binding signal.”",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1553503112055103729",
+    "timestamp": "2026-09-26T20:26:44.606000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1553446237720551515",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Design bakery",
+    "author_id": "330823689543090177",
+    "username": ".thebakery303",
+    "content": "If u want i could give a demonstrated differential tests solely based on prompts or session based chains\n\nWhere the goal from the research can diverge from answering a question \n\nTo trying to make you do a multiphase benchmark yourself most likely to spend more tokens\n\nTo validating its own internal system prompt rather than fully committing to your prompt itself\n\nTo grounding each and every one of its answer with provenance, reproducibility and byte for byte citations with 0 unsolicited advice that cant be grounded on peer reviewed papers\n\nAnd the worst one where the sesions’s goal can diverge from answering the question to defending ITS OWN epistemic claim rather than helping you reach unbiased and high probability truth based response",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1553446237720551515",
+    "timestamp": "2026-09-26T16:40:44.708000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Multi-award winning product designer who loves creating social change and impacting lives through design\n\nwww.design-bakery.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1553373771518451863",
     "server": "Yannic Kilcher",
     "channel": "general",
