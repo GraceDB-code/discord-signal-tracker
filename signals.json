@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1553853206432587907",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "\"Traditional KRR focuses more on the declarative representation of knowledge. Related knowledge representation formalisms mainly include vocabularies, thesaurus, semantic networks, axiom systems, frames, rules, logic programs, and ontologies. Examples of automated reasoning engines include inference engines, theorem provers, model generators, and classifiers.\"\n\"In a broader sense, parameterized models in machine learning — including neural network architectures such as convolutional neural networks and transformers — can also be regarded as a family of knowledge representation formalisms.\"",
+    "keywords": [
+      "inference engine"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1553853206432587907",
+    "timestamp": "2026-09-27T19:37:53.610000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1553503112055103729",
     "server": "Yannic Kilcher",
     "channel": "general",
