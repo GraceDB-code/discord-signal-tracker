@@ -1,5 +1,113 @@
 [
   {
+    "message_id": "1556104087978901615",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "a_cup_of_tea",
+    "author_id": "1098314548072698008",
+    "username": "a_cup_of_tea97",
+    "content": "I built a little tool for reading ML papers because I kept bouncing between PDFs and ChatGPT and then realizing I'd accepted explanations without really understanding them.\n\nIt lets you ask questions directly on passages, but the part I'm most interested in is that it makes you explain each section yourself and pushes back when you're just paraphrasing the paper.\n\nI'm looking for a few people who are already reading a paper this week to try it. Would anyone here be interested?",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1556104087978901615",
+    "timestamp": "2026-10-04T00:42:05.590000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1556075280429220040",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "Trying to collect some papers trying to explain the various scaling laws (pretraining scaling laws, RL scaling laws, test time compute scaling laws, number of agents scaling laws, etc.): \n\nExplaining Neural Scaling Laws: \"models are effectively resolving a smooth data manifold\" \"the scaling of the test loss then follows from the asymptotic decay of the spectrum of the covariance matrix\" https://arxiv.org/abs/2102.06701v2\n\nThe Quantization Model of Neural Scaling: \"network knowledge and skills are \"quantized\" into discrete chunks (quanta), quanta are learned in order of decreasing use frequency\" \"smooth scaling laws average over small discrete jumps in model performance\" <https://arxiv.org/abs/2303.13506>\n\nSpectral Reach: Understanding Neural Scaling as Progress into the Spectral Tail: \"throughout training: learning shifts from dominant eigenmodes into the spectral tail. Larger models reach further into the tail than smaller models, revealing a size-dependent capacity we call spectral r",
+    "keywords": [
+      "quantization"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1556075280429220040",
+    "timestamp": "2026-10-03T22:47:37.335000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1556066827308900513",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "https://arxiv.org/abs/2512.08296\n\"Across 260 configurations spanning six agentic benchmarks, five canonical architectures (Single-Agent and four Multi-Agent: Independent, Centralized, Decentralized, Hybrid), and three LLM families, we perform controlled evaluations, standardizing tools, prompts, and compute to isolate architectural effects.\n\nWe identify a robust capability-saturation effect and additional patterns: (1) a coordination yields diminishing returns once single-agent baselines exceed certain performance; (2) tool-heavy tasks appear to incur multi-agent overhead; and (3) architectures without centralized verification tend to propagate errors more than those with centralized coordination. Relative performance change compared to single-agent baseline ranges from +80.8% on decomposable financial reasoning to -70.0% on sequential planning, demonstrating that architecture-task alignment determines collaborative success.\"",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1556066827308900513",
+    "timestamp": "2026-10-03T22:14:01.954000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1556063130688290966",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "Hmm this one's interesting\n\n\"We fit sigmoidal compute-performance curves for RL training and ablate a wide range of common design choices to analyze their effects on asymptotic performance and compute efficiency. \n\nWe observe: (1) Not all recipes yield similar asymptotic performance, (2) Details such as loss aggregation, normalization, curriculum, and off-policy algorithm primarily modulate compute efficiency without materially shifting the asymptote, and (3) Stable, scalable recipes follow predictable scaling trajectories, enabling extrapolation from smaller-scale runs. \n\nCombining these insights, we propose a best-practice recipe, ScaleRL, and demonstrate its effectiveness by successfully scaling and predicting validation performance on a single RL run scaled up to 100,000 GPU-hours.\"\nhttps://arxiv.org/abs/2510.13786",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1556063130688290966",
+    "timestamp": "2026-10-03T21:59:20.611000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1556004640129159251",
     "server": "Yannic Kilcher",
     "channel": "promotion",
