@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1556699163054313493",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "mgostIH",
+    "author_id": "185084125265395712",
+    "username": "mgostih",
+    "content": "I guess you could train your model on wikipedia like the hutter prize and see how low of a perplexity you get, that would be quite useful as a demonstration and doable within single gpu resources",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1556699163054313493",
+    "timestamp": "2026-10-05T16:06:42.544000+00:00",
+    "github": null,
+    "twitter": "https://x.com/mgostIH",
+    "linkedin": null,
+    "website": null,
+    "bio": "I'm in my Nanachi arc, Made in Abyss maxxing, a faputapilled bondrewdcel.𒁈",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1556261178383011891",
     "server": "Yannic Kilcher",
     "channel": "general",
