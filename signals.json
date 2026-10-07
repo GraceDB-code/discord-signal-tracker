@@ -1,5 +1,61 @@
 [
   {
+    "message_id": "1557353859133739079",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "NoobQuestions",
+    "author_id": "1007688106822094940",
+    "username": "noob_questions",
+    "content": "my conjecture here is that what we saw demonstrates \"mathematical thinking\" has been cracked. you tackle proofs in certain way; weakening or tightening assumptions, seeing what unblocks your proposed way, pivoting to different approach / theorems. \nMy corollary is that this is the exact shape needed to escape a sandbox.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1557353859133739079",
+    "timestamp": "2026-10-07T11:28:14.253000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1557255876056850433",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "Pankaj Maurya",
+    "author_id": "1499691491692515609",
+    "username": "pankajmaurya137",
+    "content": "Most ML projects die in a notebook. Mine ship — and keep running.\n\nI'm Pankaj — a Senior ML Engineer with 6 years building systems that go from raw data to a live endpoint, not just a proof of concept. 4 years shipping production ML at scale, 2 years in analytics before that, so I understand both the model and the business question behind it. Proof, not promises:\n\n0.92 ROC-AUC fraud detection model on 590K+ transactions with a ~3.5% fraud rate (LightGBM, time-based CV, zero data leakage)\n\nDeployment cycles cut from 2 weeks → 3 days after building MLflow-based MLOps pipelines with automated drift monitoring\n\n90% SQL runtime reduction (45 min → 5 min) on 1M+ row datasets — saved 40+ engineering hours/month\n\n2.2% revenue lift from a dynamic-pricing model, validated through backtesting against flat pricing\n99.9% uptime serving real-time NLP predictions to 50+ global stakeholders via FastAPI + Docker\n22–26% forecast improvement over baseline on a 30,490-series retail demand model (Walmart M",
+    "keywords": [
+      "proof of concept",
+      "fine-tuned"
+    ],
+    "categories": [
+      "project_showcase",
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1557255876056850433",
+    "timestamp": "2026-10-07T04:58:53.267000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Senior ML Engineer (5 yrs). I build ML that ships & stays live: MLOps (deploys 2 wks→3 days), NLP/GenAI, forecasting, fraud detection. AWS · FastAPI · Docker · MLflow. Happy to talk ML.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1556699163054313493",
     "server": "Yannic Kilcher",
     "channel": "general",
