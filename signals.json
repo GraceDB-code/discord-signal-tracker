@@ -1,5 +1,113 @@
 [
   {
+    "message_id": "1560098490330255433",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "sarv",
+    "author_id": "761599118425718834",
+    "username": "neel04704",
+    "content": "hello everyone, im sarv, i recently graduated from BITS.\n\n wanted to share something that i've been hacking around on- looking for someone to co build this with, with the rise of personal agents like instinct, muse etc i wanted to build something like this but for helping college students find roles and internships \n\nspent some time and came up with backdoor (https://textbackdoor.com/) - it's an agent that helps you land jobs at startups. wanted to get a small set of beta users who can help me build and get feedback on this product so sending a message here - if you'd be open to helping and testing- i'd really appreicate that!! pizza on me for helping\n\nwould love for y'all to check it out and share feedback, if you're looking for roles- try it out\n\n always happy to brainstorm and discuss in DMs",
+    "keywords": [
+      "beta users"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1560098490330255433",
+    "timestamp": "2026-10-15T01:14:25.323000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1560098476493242430",
+    "server": "MLOps (@chipro)",
+    "channel": "career-advice",
+    "author": "sarv",
+    "author_id": "761599118425718834",
+    "username": "neel04704",
+    "content": "hello everyone, im sarv, i recently graduated from BITS.\n\n wanted to share something that i've been hacking around on- looking for someone to co build this with, with the rise of personal agents like instinct, muse etc i wanted to build something like this but for helping college students find roles and internships \n\nspent some time and came up with backdoor (https://textbackdoor.com/) - it's an agent that helps you land jobs at startups. wanted to get a small set of beta users who can help me build and get feedback on this product so sending a message here - if you'd be open to helping and testing- i'd really appreicate that!! pizza on me for helping\n\nwould love for y'all to check it out and share feedback, if you're looking for roles- try it out\n\n always happy to brainstorm and discuss in DMs",
+    "keywords": [
+      "beta users"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1560098476493242430",
+    "timestamp": "2026-10-15T01:14:22.024000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1560098445539151892",
+    "server": "MLOps (@chipro)",
+    "channel": "ai-in-production",
+    "author": "sarv",
+    "author_id": "761599118425718834",
+    "username": "neel04704",
+    "content": "hello everyone, im sarv, i recently graduated from BITS.\n\n wanted to share something that i've been hacking around on- looking for someone to co build this with, with the rise of personal agents like instinct, muse etc i wanted to build something like this but for helping college students find roles and internships \n\nspent some time and came up with backdoor (https://textbackdoor.com/) - it's an agent that helps you land jobs at startups. wanted to get a small set of beta users who can help me build and get feedback on this product so sending a message here - if you'd be open to helping and testing- i'd really appreicate that!! pizza on me for helping\n\nwould love for y'all to check it out and share feedback, if you're looking for roles- try it out\n\n always happy to brainstorm and discuss in DMs",
+    "keywords": [
+      "beta users"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815956556603850785/1560098445539151892",
+    "timestamp": "2026-10-15T01:14:14.644000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1560098434319515729",
+    "server": "MLOps (@chipro)",
+    "channel": "introductions",
+    "author": "sarv",
+    "author_id": "761599118425718834",
+    "username": "neel04704",
+    "content": "hello everyone, im sarv, i recently graduated from BITS.\n\n wanted to share something that i've been hacking around on- looking for someone to co build this with, with the rise of personal agents like instinct, muse etc i wanted to build something like this but for helping college students find roles and internships \n\nspent some time and came up with backdoor (https://textbackdoor.com/) - it's an agent that helps you land jobs at startups. wanted to get a small set of beta users who can help me build and get feedback on this product so sending a message here - if you'd be open to helping and testing- i'd really appreicate that!! pizza on me for helping\n\nwould love for y'all to check it out and share feedback, if you're looking for roles- try it out\n\n always happy to brainstorm and discuss in DMs",
+    "keywords": [
+      "beta users"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815219607106224150/1560098434319515729",
+    "timestamp": "2026-10-15T01:14:11.969000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1557353859133739079",
     "server": "Yannic Kilcher",
     "channel": "general",
