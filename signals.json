@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1560628225829249114",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "sunstar",
+    "author_id": "1009539147003854918",
+    "username": "sunstarkk",
+    "content": "https://labs.baseten.co/articles/why-do-models-forget-facts-that-they-iteratively-learn\n\nI know I’m not Burny, but this blog post really lit something up for me. I tested its claims on my own model, a small MoE with ~300M active params trained on a closed source dataset so a very different scale from their 13B. Three of their four hypotheses didn’t hold. The fourth did, just not for their reason: my SFT wasn’t displacing facts, it was basically retraining the whole model. Every block’s weights moved by about their own magnitude, and the pretraining set's loss went from 3.0 to 6.2 nats/token.\n\nTakeaways from my setup:\nFacts seen once in pretraining barely get stored, regardless of when they were seen. So the question is how many times (and in how many phrasings) the model sees each fact, more than where it’s stored.\nNo subset of layers caused the forgetting, so freezing or anchoring specific layers wouldn’t help. The fine-tuning recipe was the problem: high LR, weight decay pulling towa",
+    "keywords": [
+      "fine-tuning"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1560628225829249114",
+    "timestamp": "2026-10-16T12:19:24.108000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Grief is the evidence that even DEATH cannot stop love :)",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1560098490330255433",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
