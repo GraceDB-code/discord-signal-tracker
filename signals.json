@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1563197625467928669",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "jklw10",
+    "author_id": "271327773195239432",
+    "username": "jklw10",
+    "content": "\"no exlicit vector quantization shown\"",
+    "keywords": [
+      "quantization"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1563197625467928669",
+    "timestamp": "2026-10-23T14:29:16.719000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "I am but a man, yet existence begets hallucinations.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1562615937692209265",
     "server": "Yannic Kilcher",
     "channel": "general",
