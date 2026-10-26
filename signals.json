@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1564327885865488560",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "Ife",
+    "author_id": "615491682863153165",
+    "username": "ifeolulesi",
+    "content": "Hey everyone 👋\n\nIf you use Claude Code, you've probably been here: Claude says \"Done!\", then you click around and find bugs everywhere 😭\n\nSo I built **proof**, a free plugin that makes Claude check its own work before it tells you it's done.\n\n**What it does:**\n- Runs your tests, types and lint every time Claude says it's done. If anything fails, Claude fixes it before it gets back to you\n- Blocks commits that don't pass\n- Stops Claude from quietly switching off a failing test to \"pass\"\n- Checks your screens against the design, down to the copy, font and 2px\n- Keeps multiple agents from freezing your laptop, with a live dashboard of every session\n\nIt's free and open source, check it out here: https://github.com/IfeOlulesi/proof\n\nWould love your feedback, and a ⭐ if you find it useful!",
+    "keywords": [
+      "i built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1564327885865488560",
+    "timestamp": "2026-10-26T17:20:31.797000+00:00",
+    "github": "https://github.com/IfeOlulesi",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Software Engineer || Computer Vision Enthusiast",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1563197625467928669",
     "server": "Yannic Kilcher",
     "channel": "general",
