@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1564648857101406359",
+    "server": "MLOps (@chipro)",
+    "channel": "career-advice",
+    "author": "Ren",
+    "author_id": "596666678067068929",
+    "username": "_renkuro",
+    "content": "Hi all, I'm Ren, I've been working as a Data Scientist for a year while still being at college, currently focusing on roles that are related to Voice AI Inference engineering roles, ml infra or some similar roles since I've been working on that for sometime. I participated in national level hackathons and won, currently focusing on building in public as well. Would like to know that what should be my approach for searching my next job whether it is full time, part time or contractual. Interested in working on interesting projects that are related to AI.",
+    "keywords": [
+      "inference engine"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1564648857101406359",
+    "timestamp": "2026-10-27T14:35:57.303000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Just a dev.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1564603595888926741",
     "server": "Yannic Kilcher",
     "channel": "jobs-and-internships",
