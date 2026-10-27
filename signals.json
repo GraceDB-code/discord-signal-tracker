@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1564603595888926741",
+    "server": "Yannic Kilcher",
+    "channel": "jobs-and-internships",
+    "author": "frostwalker",
+    "author_id": "819101309030498314",
+    "username": "frostwalker958",
+    "content": "Hi folks! My team at Google India is hiring for an ML Compilers role: https://www.google.com/about/careers/applications/jobs/results/85644954524623558-software-engineer-ml-compilers-silicon-engineering \n\nFeel free to dm me with your resume if you think you're a good fit! \n\n(PS: I am not a hiring manager)",
+    "keywords": [
+      "hiring for"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/1218672873619591228/1564603595888926741",
+    "timestamp": "2026-10-27T11:36:06.189000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "free the future.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1564559052590153829",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "BinarySplit",
+    "author_id": "122845995045224450",
+    "username": "binarysplit",
+    "content": "Fable and Astra don't have analogous problems. Maybe they're risk averse on the biggest model, but dump all the risky ideas that they saved up during the long training run for the next model, which happens to be the Opus/Sol class.",
+    "keywords": [
+      "training run"
+    ],
+    "categories": [
+      "ai_infrastructure"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1564559052590153829",
+    "timestamp": "2026-10-27T08:39:06.239000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Agender-leaning. I play games for the plot. Can't stop learning: currently French, Japanese, AI, genetics.\nAKA Lachlan, Newtra.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1564327885865488560",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
