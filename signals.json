@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1565052885945950239",
+    "server": "MLOps (@chipro)",
+    "channel": "career-advice",
+    "author": "Jobbee",
+    "author_id": "1546360900846489610",
+    "username": "jobbee.io",
+    "content": "Ren, what tends to stand out for inference and ML infra roles is measured performance work. Building in public helps most when each post has numbers in it: which model you served (ASR, TTS), on what hardware, and the latency or real-time factor before and after a change you made. It also gives you something concrete to walk through in interviews.\n\nOn full time vs part time vs contract: while you’re still in college, part-time or contract work lets you keep studying and keep adding shipped work. One contract with a clear before/after result is worth more on a resume than several small ones.\n\nAnother route in: contributions to the open-source projects inference teams build on (vLLM, whisper.cpp, faster-whisper). Merged work there is public and easy for those teams to check.",
+    "keywords": [
+      "shipped"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1024469853081436170/1565052885945950239",
+    "timestamp": "2026-10-28T17:21:25.286000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://jobbee.io",
+    "bio": "AI resume tailoring: upload your resume once, get a tailored version for each job you apply to — honest match scores, no fake polish.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1564648857101406359",
     "server": "MLOps (@chipro)",
     "channel": "career-advice",
