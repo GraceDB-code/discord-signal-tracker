@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1567101462595510354",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "anaman",
+    "author_id": "768086189487423500",
+    "username": "_a_naman",
+    "content": "Just launched Kaagaz on Google Play 📄\nSnap a bill, ID or policy – AI sorts it.\nAsk \"when does my insurance expire?\"\nFree. Would love you to try it + feedback!\nhttps://play.google.com/store/apps/details?id=com.easydoc.app",
+    "keywords": [
+      "just launched"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1567101462595510354",
+    "timestamp": "2026-11-03T09:01:44.020000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1565052885945950239",
     "server": "MLOps (@chipro)",
     "channel": "career-advice",
