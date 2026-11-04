@@ -1,5 +1,34 @@
 [
   {
+    "message_id": "1567413654041927791",
+    "server": "MLOps (@chipro)",
+    "channel": "share-your-work",
+    "author": "zacycliu",
+    "author_id": "704773064306720889",
+    "username": "zacycliu",
+    "content": "We just shipped the first results for Causal Reflection — a new model system architecture that boosts open models like GLM 5.3 Flash to frontier performance on agentic tasks without expensive fine-tuning, RL, or routing to Claude/GPT.\n\n- Terminal-Bench 2.1: 79% (base model) → boost to 93%, beating Fable 5.1\n- τ²-bench Airline: better Pass^k consistency than the base model, beating Opus 5\n- Continual Learning Bench: #1, 2× the next best reward/gain at 10× lower cost\n\nIt’s a Model API that maintains a lightweight causal graph for your sessions (visible in the dashboard). No separate harness to wire up.\n\nLimited beta is open. If you’re running agents in production and want better reliability on open models, or working on agents / tool use / coding workflows and want to try it + give feedback, sign up here: https://forms.gle/iVHZjQbzAWSaHCyG8, or DM me, I will add you.\n\nBlog with full results: https://www.basedmodels.com/blog/introducing-causal-reflection",
+    "keywords": [
+      "fine-tuning",
+      "shipped"
+    ],
+    "categories": [
+      "ai_infrastructure",
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/885998868200828928/1567413654041927791",
+    "timestamp": "2026-11-04T05:42:16.261000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1567101462595510354",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
