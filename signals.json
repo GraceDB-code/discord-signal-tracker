@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1567937264208711784",
+    "server": "Yannic Kilcher",
+    "channel": "ml-street-talk",
+    "author": "aten",
+    "author_id": "829840457453404160",
+    "username": "aaattteeennn",
+    "content": "The other very helpful thing is to carefully reread incomplete theorems, there was one demonstration using I want to say church numerals/lambda calculus, written a few yars after maybe even by the original author (a different way to show the truthiness) because I have yet ot see a lot of comments about the extended conclusions you can draw from Godel's Incompleteness Theoremes (a hint, there's alway sone more assumption deeper that is flawed, and this is a __very good thing__ because...).",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986701499763654676/1567937264208711784",
+    "timestamp": "2026-11-05T16:22:54.653000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": "https://youtu.be/6XgEwCTXHZU?si=RObzo75BXu1Y5Oi6",
+    "bio": "Like [Einstein on the beach](https://youtu.be/6XgEwCTXHZU?si=RObzo75BXu1Y5Oi6) theory thru antiparallel orthogonality of hypaethral quantization.\n\n¿ [∀∃!𝟎∈]((https://youtu.be/WvRv-243Cmk) ?",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1567413654041927791",
     "server": "MLOps (@chipro)",
     "channel": "share-your-work",
@@ -10893,7 +10920,8 @@
     "timestamp": "2025-07-24T17:31:08.763000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "bio": "elapsam semel occasionem non ipse potest Iuppiter reprehendere"
   },
   {
     "message_id": "1397737181539471421",
