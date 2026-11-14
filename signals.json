@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1571130713216917584",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Not Trout",
+    "author_id": "841679117350993992",
+    "username": "lolotrout",
+    "content": "From the creators of HSGuide2AI (https://hsguide2ai.vercel.app), we present:\n\n**🇵🇭 From Ateneo to Cambridge, pioneering the future of Filipino AI research! 💫**\n\nTomorrow Club invites you to the **THIRD TALK of Tomorrow's Talk Series**, featuring **“5 Myths About Doing Philippine NLP Research”** by **Mr. LJ Miranda, a PhD student at the University of Cambridge!** 🚀\n\n**🎤 Meet Mr. LJ Miranda!**\n\nSir LJ's research focuses on **multilingual and equitable NLP**, with a particular interest in advancing Filipino NLP through projects such as **calamanCy** and **FilBench**, the latter published at **EMNLP 2025**.\n\nBefore his PhD, he accumulated **7+ years of experience in AI research and industry**, including work as a predoctoral researcher at the **Allen Institute for AI (Ai2)**, contributing to **Tülu 3 and OLMo 2**, and as a machine learning engineer at **Explosion**, working on **spaCy and Prodigy**.\n\n**📌 Tomorrow Talk Details**\n\n📅 **Date:** November 21, 2026 (Saturday)  \n⏰ **Time:** 4:15 P",
+    "keywords": [
+      "join us"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1571130713216917584",
+    "timestamp": "2026-11-14T11:52:32.228000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": null,
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1569787640054808709",
     "server": "Yannic Kilcher",
     "channel": "general",
