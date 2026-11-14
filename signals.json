@@ -1,5 +1,36 @@
 [
   {
+    "message_id": "1571234097492135968",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Irina",
+    "author_id": "814565805769228298",
+    "username": "upuna5490",
+    "content": "Dear all!  Our paper, Bias-Aware Quantization for Large Language Models, has recently been published in TACL! 🎉 It is one of the final papers of my PhD and the result of almost a year of research and experiments.\nThe main contribution is theoretical: to the best of our knowledge, we introduce the first post-training quantization method that explicitly incorporates non-zero first-order information into the reconstruction objective. While we demonstrate its application to reducing bias in 4-bit quantized LLMs, the proposed method is more general and can support objectives beyond safety. We've also shared our paper on Hugging Face Papers, so if you find this research interesting, we'd really appreciate your support with an upvote to help spread the word! ❤️ \n\nHugging Face: https://huggingface.co/papers/2509.15206",
+    "keywords": [
+      "quantization",
+      "demo"
+    ],
+    "categories": [
+      "ai_infrastructure",
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1571234097492135968",
+    "timestamp": "2026-11-14T18:43:20.960000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://huggingface.co/papers/2509.15206"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1571130713216917584",
     "server": "Yannic Kilcher",
     "channel": "promotion",
