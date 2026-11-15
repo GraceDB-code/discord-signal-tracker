@@ -18,9 +18,9 @@
     "timestamp": "2026-11-15T10:16:14.878000+00:00",
     "github": null,
     "twitter": null,
-    "linkedin": null,
+    "linkedin": "https://www.linkedin.com/in/gui-miotto/",
     "website": null,
-    "bio": null,
+    "bio": "https://www.linkedin.com/in/gui-miotto/",
     "shared_links": [],
     "australian_connection": false,
     "au_confidence": null,
@@ -10301,7 +10301,8 @@
     "timestamp": "2025-08-27T14:25:21.462000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "bio": "Building hardware and software"
   },
   {
     "message_id": "1409907047931056158",
