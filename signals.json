@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1571468869120561202",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Gui",
+    "author_id": "1222898874440745095",
+    "username": "gui.miotto",
+    "content": "We are starting a **robotics paper club** in the german Rhine region (Aachen, Bonn, Cologne, Dusseldorf, etc.)\nFeel free to join us:\nhttps://gui-miotto.github.io/rrpc/",
+    "keywords": [
+      "join us"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1571468869120561202",
+    "timestamp": "2026-11-15T10:16:14.878000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": null,
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1571234097492135968",
     "server": "Yannic Kilcher",
     "channel": "promotion",
