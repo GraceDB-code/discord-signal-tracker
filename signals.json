@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1571780082370879548",
+    "server": "MLOps (@chipro)",
+    "channel": "help",
+    "author": "visy_ani",
+    "author_id": "1068139212857159741",
+    "username": "visy_ani",
+    "content": "Looking for a good contributors to help us make this context management repo even better! \n\nIf you're interested in solving the context management problem for AI agents, come join us. Drop a ⭐ on the repo, check out the open issues, and help us solve the context problem once and for all!\n\nhttps://github.com/maximem-ai/maximem_synap_core",
+    "keywords": [
+      "join us"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/1120043644636893308/1571780082370879548",
+    "timestamp": "2026-11-16T06:52:53.899000+00:00",
+    "github": "https://github.com/maximem-ai/maximem_synap_core",
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": null,
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1571468869120561202",
     "server": "Yannic Kilcher",
     "channel": "promotion",
