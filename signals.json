@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1572619024821387324",
+    "server": "MLOps (@chipro)",
+    "channel": "ml-job-opportunities",
+    "author": "Iva Matic",
+    "author_id": "691084766652530728",
+    "username": "ivamatic",
+    "content": "We're Hiring: Senior AI Platform & Model Operations Engineer\n\nRecruitment partner: Apex Team Hiring — https://www.apexteamhiring.com\n\nHi everyone!\n\nI'm recruiting on behalf of a healthcare technology team building a unified, patient-facing AI platform across voice and web chat.\n\nThey're looking for a Senior AI Platform & Model Operations Engineer to own the core AI infrastructure, production inference APIs and model operations.\n\nThe main focus will be running and benchmarking open-weight LLMs and speech models using technologies such as vLLM, SGLang and faster-whisper, comparing self-hosted solutions against external providers in terms of latency, GPU utilization, accuracy, scalability and actual operating costs.\n\nWhat we're looking for:\n- Strong Python and Linux engineering skills.\n- Hands-on experience running LLMs or speech models in production on self-managed GPU infrastructure.\n- Experience with vLLM, SGLang or similar inference-serving frameworks.\n- Experience building streaming ",
+    "keywords": [
+      "we're hiring"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/815947839707676683/1572619024821387324",
+    "timestamp": "2026-11-18T14:26:33.366000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1571780082370879548",
     "server": "MLOps (@chipro)",
     "channel": "help",
