@@ -1,5 +1,59 @@
 [
   {
+    "message_id": "1572731578910769255",
+    "server": "Yannic Kilcher",
+    "channel": "ml-news-suggestions",
+    "author": "BinarySplit",
+    "author_id": "122845995045224450",
+    "username": "binarysplit",
+    "content": "Ok that was the most disappointing experience I've ever had in Outer Wilds.\nMaybe 6.2-Astra can oneshot impressive demos from memory, but that model has no concept of storytelling, no theory of mind, not even enough spatial perception to place objects correctly on the ground or notice that they're floating in the visual reviews you have to tell it to do, because it's too lazy to check its own work even when half your prompts told it to.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/853983317044756510/1572731578910769255",
+    "timestamp": "2026-11-18T21:53:48.352000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "Agender-leaning. I play games for the plot. Can't stop learning: currently French, Japanese, AI, genetics.\nAKA Lachlan, Newtra.",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1572709677496795360",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "BluBb_mADe",
+    "author_id": "111252371778084864",
+    "username": "blubb_made",
+    "content": "Maybe the atom bombs on japan are slightly less black and white. But even there I think they could have demonstrated one without the enormous casualties before reverting to deleting cities.",
+    "keywords": [
+      "demo"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1572709677496795360",
+    "timestamp": "2026-11-18T20:26:46.648000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1572619024821387324",
     "server": "MLOps (@chipro)",
     "channel": "ml-job-opportunities",
