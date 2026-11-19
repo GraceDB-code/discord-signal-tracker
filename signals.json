@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1572855639862943946",
+    "server": "Yannic Kilcher",
+    "channel": "promotion",
+    "author": "Burny",
+    "author_id": "205424484419633152",
+    "username": "burnytech",
+    "content": "Join us for the 5th Mechanistic Interpretability Hackathon in Mechinterp Discord server from 20.11. to 22.11.! https://itch.io/jam/mechanistic-interpretability-hackathon-5\n\nIn this hackathon, you or your team will work on a mechanistic interpretability research project during a weekend. Mechanistic interpretability is a field focused on reverse-engineering neural networks.\n\nFeel free to work on any mechinterp related project here. The theme is officially “Autointerp Evals” related research but take that as a suggestion rather than a rule.\n\nThis hackaton’s idea is for you to find ways to automatically score some kind of intepretability explanation similar to how for example OpenAI’s autointerp scores how good an explanation is based on how much it helps predict activations. <https://openai.com/index/language-models-can-explain-neurons-in-language-models/>\nBut this is just an inspiration, so you can also work on something else entirely. You can maybe test Nick Cammarata’s claim that neur",
+    "keywords": [
+      "join us"
+    ],
+    "categories": [
+      "hiring"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/796137754508656641/1572855639862943946",
+    "timestamp": "2026-11-19T06:06:46.788000+00:00",
+    "github": "https://github.com/BurnyCoder",
+    "twitter": "https://x.com/burny_tech",
+    "linkedin": null,
+    "website": "http://burnyverse.com",
+    "bio": "Everyday I'm curious about the fundamental mathematics of intelligence and of the universe http://burnyverse.com",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1572731578910769255",
     "server": "Yannic Kilcher",
     "channel": "ml-news-suggestions",
