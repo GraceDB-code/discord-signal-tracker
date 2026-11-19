@@ -7641,7 +7641,9 @@
     "timestamp": "2026-02-02T08:59:28.042000+00:00",
     "australian_connection": false,
     "au_confidence": null,
-    "au_signals": []
+    "au_signals": [],
+    "website": "https://www.twitch.tv/missaishagurung",
+    "bio": "https://www.twitch.tv/missaishagurung"
   },
   {
     "message_id": "1467217082713243893",
