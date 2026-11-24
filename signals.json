@@ -1,5 +1,63 @@
 [
   {
+    "message_id": "1574786711890694286",
+    "server": "Yannic Kilcher",
+    "channel": "general",
+    "author": "Spidy",
+    "author_id": "707534039732715521",
+    "username": "spidy___",
+    "content": "I'm training a BERT-based 4-class text classifier and running into some strange prediction inconsistencies.\n\nThe model classifies these sentences differently despite them expressing nearly the same intent:\n\n- \"I am a hiring manager and I am hiring for software engineer\" → **Job (100%)**\n- \"I am a hiring manager and I am hiring for role of software engineer\" → **Not Job**\n- \"I am hiring for a role\" → **Other**\n- \"I am hiring for a job\" → **Not Job**\n\nMy classes are `ML Job`, `Job`, `Other`, and `Not Job`. The classifier is trained on a custom-labeled social media dataset using BERT.\n\nI understand that some examples are ambiguous, especially when the type of role isn't specified. However, I'm surprised by how drastically predictions change with minor wording variations.\n\nIs this a typical case of shortcut learning or dataset bias? Could it indicate that my training data lacks linguistic diversity, or is there something else I should investigate?\n\nHow do you usually diagnose and address t",
+    "keywords": [
+      "hiring for",
+      "fine-tuned"
+    ],
+    "categories": [
+      "hiring",
+      "ai_infrastructure"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/714501525455634453/986699377257119794/1574786711890694286",
+    "timestamp": "2026-11-24T14:00:10.237000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
+    "message_id": "1574707424156328071",
+    "server": "MLOps (@chipro)",
+    "channel": "discussion",
+    "author": "viv2668",
+    "author_id": "751001597290610708",
+    "username": "viv2668",
+    "content": "You can retire a skill and your agents might keep using it.\nRetired code is different. If nothing calls it, it does nothing. But an agent chooses a skill by its name and description. If an old copy is still installed in any harness, the agent can still choose it.\n\nLast month we open-sourced ai-registry. It keeps everyone on a team on the same version of every skill, in every tool they use.\n\nBen Hudson wrote this week’s Context & Chaos about why we built it.\nThe problem crept up on us internally. Someone would share a skill in Slack. Everyone copied it into their own harnesses. Later, one copy got updated and the others didn’t. They all had the same name, so it took us a while to notice.\n\nCurious, we asked other companies how they handle this. Here’s what they told us:\n\n→ Many keep their skills in a Git repo. When one changes, they post in Slack and count on each person to update every tool themselves.\n→ Some built one place to see every skill the company has. That helps people find ski",
+    "keywords": [
+      "we built"
+    ],
+    "categories": [
+      "founder_activity"
+    ],
+    "is_high_priority": true,
+    "jump_url": "https://discord.com/channels/814557108065534033/816017958395576400/1574707424156328071",
+    "timestamp": "2026-11-24T08:45:06.568000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [
+      "https://contextandchaos.substack.com/p/managing-ai-artifacts-across-a-company"
+    ],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1572855639862943946",
     "server": "Yannic Kilcher",
     "channel": "promotion",
