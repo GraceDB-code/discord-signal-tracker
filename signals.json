@@ -1,5 +1,32 @@
 [
   {
+    "message_id": "1575544711865700468",
+    "server": "MLOps (@chipro)",
+    "channel": "events",
+    "author": "tran",
+    "author_id": "696256711820050484",
+    "username": "nnnter",
+    "content": "🚨 **Agent Attribution Hackathon, December 11-13 (online)** 🚨\n\nWhen an AI agent shows up in an incident, like malicious code slipped into an open-source project, who is steering it: a human closely, a human loosely, or no one at all? Today there is no reliable way to tell. [Apart Research](<https://apartresearch.com/>) is running one online weekend of building prototypes that answer that question. All participants receive $500 in Adaption Platform credits.\n\n🎯 **Tracks:** Early Warning and Detection (find rogue agents in the wild, or build honeypots, threat models and simulated environments that catch them early) and Attribution (build classifiers that identify who is behind an agent's activity, or build agent setups designed to evade them)\n\n🏆 **Prizes:** cash prizes, Apart Fellowship fast-track for top teams, mentor introductions from the organizers and judges, and a pathway toward a publishable write-up\n\nNo specific background needed. Engineers, researchers and people from any industry",
+    "keywords": [
+      "prototype"
+    ],
+    "categories": [
+      "project_showcase"
+    ],
+    "is_high_priority": false,
+    "jump_url": "https://discord.com/channels/814557108065534033/869270934773727272/1575544711865700468",
+    "timestamp": "2026-11-26T16:12:11.514000+00:00",
+    "github": null,
+    "twitter": null,
+    "linkedin": null,
+    "website": null,
+    "bio": "",
+    "shared_links": [],
+    "australian_connection": false,
+    "au_confidence": null,
+    "au_signals": []
+  },
+  {
     "message_id": "1574786711890694286",
     "server": "Yannic Kilcher",
     "channel": "general",
